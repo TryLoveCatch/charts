@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T13:36:53.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tbJW-iCY7HEVnbhy-ide" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T13:39:09.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="p9nNOQvS7B9u1XCHlYly" version="14.7.6" type="github">
   <diagram id="nfvK70dje-0ijWW3EqFa" name="第 1 页">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         <mxCell id="dzpQKZOiRlnauMwWt4xJ-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;uncaughtExceptionPreHandler为null？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#dae8fc;sketch=1;rounded=0;glass=0;comic=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="235" y="405" width="170" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="dzpQKZOiRlnauMwWt4xJ-26" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;curved=1;" edge="1" parent="1" source="dzpQKZOiRlnauMwWt4xJ-5" target="dzpQKZOiRlnauMwWt4xJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dzpQKZOiRlnauMwWt4xJ-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;uncaughtExceptionPreHandler#&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;uncaughtException&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="200" height="60" as="geometry" />
         </mxCell>
@@ -61,11 +64,25 @@
         <mxCell id="dzpQKZOiRlnauMwWt4xJ-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;uncaughtExceptionHandler为null？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#dae8fc;sketch=1;rounded=0;glass=0;comic=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="235" y="670" width="170" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="dzpQKZOiRlnauMwWt4xJ-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="dzpQKZOiRlnauMwWt4xJ-8" target="dzpQKZOiRlnauMwWt4xJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dzpQKZOiRlnauMwWt4xJ-8" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;ThreadGroup#&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 13px&quot;&gt;uncaughtException&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="220" y="820" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dzpQKZOiRlnauMwWt4xJ-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="dzpQKZOiRlnauMwWt4xJ-9" target="dzpQKZOiRlnauMwWt4xJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dzpQKZOiRlnauMwWt4xJ-9" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Thread静态&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;getDefaultUncaughtExceptionHandler()&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;strokeColor=#b85450;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1000" width="200" height="60" as="geometry" />
+          <mxGeometry x="220" y="920" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dzpQKZOiRlnauMwWt4xJ-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="dzpQKZOiRlnauMwWt4xJ-10" target="dzpQKZOiRlnauMwWt4xJ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="745" />
+              <mxPoint x="530" y="1070" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dzpQKZOiRlnauMwWt4xJ-10" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;uncaughtExceptionHandler&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;#&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 13px&quot;&gt;uncaughtException&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="490" y="685" width="200" height="60" as="geometry" />
