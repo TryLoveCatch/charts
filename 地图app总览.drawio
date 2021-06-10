@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T11:51:46.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.7" etag="oTiSd_egPiXCX9hlJKf9" type="github"><diagram id="rLmRK7H-8Zh3lcYx4UbC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-10T12:08:43.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="N19KacfjeUSyhWlSQHSm" version="14.7.7" type="github">
+  <diagram id="rLmRK7H-8Zh3lcYx4UbC" name="第 1 页">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8zQVUymrRIxcUQBmGDL2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="580" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8zQVUymrRIxcUQBmGDL2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8zQVUymrRIxcUQBmGDL2-4" value="导航" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8zQVUymrRIxcUQBmGDL2-5" value="C端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="295" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8zQVUymrRIxcUQBmGDL2-6" value="导航" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8zQVUymrRIxcUQBmGDL2-8" value="地图APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;comic=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
