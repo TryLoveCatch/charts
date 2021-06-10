@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2021-06-10T03:32:02.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FsnRkbS2fGOtZjuLvjMI" version="14.7.6" type="github">
+  <diagram id="Is7nYFCBdMyNHaLq8IZW" name="第 1 页">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-18" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=16;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="731" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-19" value="Meituan Map" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="205" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-20" value="Tencent Map" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="355" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-21" value="Amap Map" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="505" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-22" value="Baidu Map" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="655" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-23" value="Meituan Adapter" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="205" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-24" value="图商" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;fontFamily=Comic Sans MS;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="115" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-25" value="Tencent&lt;br&gt;Adapter" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="355" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-26" value="AMap&lt;br&gt;Adapter" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="505" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-27" value="Baidu&lt;br&gt;Adapter" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="655" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-28" value="适配层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;fontFamily=Comic Sans MS;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="115" y="380" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-29" value="Qcs Interface" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="205" y="280" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-30" value="接口层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;fontFamily=Comic Sans MS;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="115" y="300" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-31" value="打车" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="90" y="150" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-32" value="业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;fontFamily=Comic Sans MS;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="20" y="170" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-33" value="其他" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="470" y="150" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ueHQHKciYsmYRuD5N_B-34" value="Qcs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;fontFamily=Comic Sans MS;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="20" y="380" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
