@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T13:21:50.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.9.5" etag="xzh9XIruPtAmm8q8_ziC" type="github"><diagram id="CAODQyRHIFKNz6P3Kn8D">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-11T04:00:01.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="2D7oj4EcKkyV_E7TLpCT" version="14.9.5" type="github">
+  <diagram id="CAODQyRHIFKNz6P3Kn8D" name="第 1 页">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7T86dVLXt2GxNtujQTrP-3" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;SamplingHandler&lt;/font&gt;" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;comic=1;shadow=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7T86dVLXt2GxNtujQTrP-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;MetricSampleManager&lt;/span&gt;&lt;/font&gt;" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;comic=1;shadow=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
