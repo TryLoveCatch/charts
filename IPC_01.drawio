@@ -1,25 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T05:27:04.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jz5PWkxd27vIvb1JZduS" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T05:39:34.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sbrAD5kLuSzR0P8Bcrgp" version="20.1.1" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1024" dy="1028" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7UQE1cCB7YYFybera824-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;strokeColor=#F19C99;startArrow=classic;startFill=1;" edge="1" parent="1" source="7UQE1cCB7YYFybera824-1" target="7UQE1cCB7YYFybera824-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-1" value="IPCService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="290" y="-15" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7UQE1cCB7YYFybera824-4" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;curved=1;sketch=1;" edge="1" parent="1" source="7UQE1cCB7YYFybera824-2" target="7UQE1cCB7YYFybera824-1">
+        <mxCell id="7UQE1cCB7YYFybera824-4" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;curved=1;sketch=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="7UQE1cCB7YYFybera824-2" target="7UQE1cCB7YYFybera824-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7UQE1cCB7YYFybera824-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;strokeColor=#F19C99;startArrow=classic;startFill=1;" edge="1" parent="1" source="7UQE1cCB7YYFybera824-2" target="7UQE1cCB7YYFybera824-1">
+        <mxCell id="7UQE1cCB7YYFybera824-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;strokeColor=#F19C99;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="7UQE1cCB7YYFybera824-2" target="7UQE1cCB7YYFybera824-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-2" value="进程A" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="91" y="92" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7UQE1cCB7YYFybera824-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="7UQE1cCB7YYFybera824-3" target="7UQE1cCB7YYFybera824-1">
+        <mxCell id="7UQE1cCB7YYFybera824-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;startArrow=classic;startFill=1;" edge="1" parent="1" source="7UQE1cCB7YYFybera824-3" target="7UQE1cCB7YYFybera824-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-3" value="进程B" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
