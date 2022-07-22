@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:41:14.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ae0clr3ccahXOeP5P1O6" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T08:43:22.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B2oyEKYnQa6pvVtXuCfG" version="20.1.1" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1024" dy="1028" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,16 +279,16 @@
           <mxGeometry x="155" y="1920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-134" value="AIDL" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="368" y="1840" width="196.5" height="35" as="geometry" />
+          <mxGeometry x="362" y="1840" width="202.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-135" value="IPCSDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;sketch=0;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="322" y="1771" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7UQE1cCB7YYFybera824-136" value="IPCServiceProxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="7UQE1cCB7YYFybera824-136" value="BaseApplication" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="162" y="1797" width="129.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7UQE1cCB7YYFybera824-137" value="BaseApplication" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1840" width="175.5" height="35" as="geometry" />
+        <mxCell id="7UQE1cCB7YYFybera824-137" value="IPCServiceProxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1840" width="189" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-138" value="BaseService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="302" y="1797" width="114" height="35" as="geometry" />
@@ -297,13 +297,13 @@
           <mxGeometry x="426" y="1797" width="136.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-140" value="应用 A" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="153" y="1678" width="125" height="60" as="geometry" />
+          <mxGeometry x="146" y="1678" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-141" value="应用 B" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="301" y="1678" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-142" value="应用 N" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="448" y="1678" width="121" height="60" as="geometry" />
+          <mxGeometry x="448" y="1678" width="128" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
