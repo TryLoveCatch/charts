@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T06:04:33.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FhNoGg4cqZGyK7X7k3JE" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T06:53:36.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0Fvm5uUhpsLV-PlyIA0y" version="20.1.1" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
-    <mxGraphModel dx="1476" dy="1062" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="1028" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,6 +245,18 @@
         </mxCell>
         <mxCell id="7UQE1cCB7YYFybera824-118" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;sketch=0;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="568.5" y="1065.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7UQE1cCB7YYFybera824-119" value="Android系统" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1925" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7UQE1cCB7YYFybera824-120" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="158" y="1668" width="224" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="7UQE1cCB7YYFybera824-121" value="IPCSDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;glass=0;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1833" width="437" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="7UQE1cCB7YYFybera824-122" value="IPCService" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;sketch=0;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="184" y="1717" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
