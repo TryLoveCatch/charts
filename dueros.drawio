@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T08:13:17.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pwYuGN9EfQy5KNc9dHg1" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T08:13:54.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9lYMofyiMokrNwyXr40F" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1038" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,6 +124,9 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-36" value="IPCService" style="ellipse;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="270" y="1146" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-41" value="IPC通信" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="446" y="507" width="105" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
