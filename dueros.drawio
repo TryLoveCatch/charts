@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T07:42:54.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VJaxdYwFt8kAY7caLF-j" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T07:48:55.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="S3K9bv9dRNADzg6eiW7S" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1038" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,7 +429,7 @@
         <mxCell id="loB__rDDkQlZ5txPn1ok-135" value="思必驰SDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#6c8ebf;fillColor=#dae8fc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="247" y="2392" width="217" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-136" value="云端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#82b366;fillColor=#d5e8d4;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-136" value="用户" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#82b366;fillColor=#d5e8d4;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="2392" width="91" height="120" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-138" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#CCCCCC;curved=1;" edge="1" parent="1">
@@ -447,7 +447,7 @@
             <mxPoint x="355" y="2327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-141" value="Adapter" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#d6b656;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-141" value="云端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#d6b656;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="543" y="2392" width="53" height="120" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-142" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#CCCCCC;curved=1;" edge="1" parent="1">
@@ -456,22 +456,37 @@
             <mxPoint x="540" y="2454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-144" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;导航&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;电话&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;多媒体&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;空调&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;车窗&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;座椅&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="674" y="2365" width="160" height="154" as="geometry" />
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-145" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#CCCCCC;curved=1;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="598" y="2453" as="sourcePoint" />
-            <mxPoint x="672" y="2453" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-146" value="用户" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#9673a6;fillColor=#e1d5e7;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="241.5" y="2577" width="217" height="50" as="geometry" />
+        <mxCell id="loB__rDDkQlZ5txPn1ok-146" value="Adapter" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#9673a6;fillColor=#e1d5e7;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="211" y="2577" width="286" height="50" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-147" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#CCCCCC;curved=1;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="343" y="2576" as="sourcePoint" />
             <mxPoint x="343" y="2512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-150" value="导航" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;fillColor=#f8cecc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="211" y="2697" width="86" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-151" value="电话" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;fillColor=#f8cecc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2697" width="85" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-152" value="多媒体" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;fillColor=#f8cecc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="408" y="2697" width="89" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-155" value="空调" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;fillColor=#f8cecc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="2738" width="86" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-156" value="车窗" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;fillColor=#f8cecc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="2738" width="85" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-157" value="座椅" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;fillColor=#f8cecc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="409.5" y="2738" width="89" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-158" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#CCCCCC;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="342" y="2694" as="sourcePoint" />
+            <mxPoint x="342" y="2630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
