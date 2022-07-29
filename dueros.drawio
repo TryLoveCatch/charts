@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T08:11:39.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UbGs_Zx92Rq9OPSrzF7s" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T08:24:27.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fs42IO1OypxumSSnVWiP" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1038" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -497,142 +497,165 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-161" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="loB__rDDkQlZ5txPn1ok-159">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="113" y="3365" as="sourcePoint" />
+            <mxPoint x="110" y="3630" as="sourcePoint" />
             <mxPoint x="118" y="3062" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-162" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="356" y="3360" as="sourcePoint" />
+            <mxPoint x="356" y="3594" as="sourcePoint" />
             <mxPoint x="356" y="2980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-163" value="云端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-163" value="云端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="521" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-164" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="582" y="3375" as="sourcePoint" />
+            <mxPoint x="582" y="3617" as="sourcePoint" />
             <mxPoint x="581.5" y="2980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-165" value="唤醒" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#7EA6E0;curved=1;" edge="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-167" value="语音流数据" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#A9C4EB;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="3038" as="sourcePoint" />
-            <mxPoint x="355" y="3072" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="395" y="3046" />
-            </Array>
+            <mxPoint x="356" y="3013" as="sourcePoint" />
+            <mxPoint x="578" y="3013" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-166" value="录音" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#7EA6E0;curved=1;" edge="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-168" value="识别结果" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359" y="3074" as="sourcePoint" />
-            <mxPoint x="359" y="3108" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="399" y="3082" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-167" value="语音流数据+上下文" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#A9C4EB;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="356" y="3113" as="sourcePoint" />
-            <mxPoint x="578" y="3113" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-168" value="文本数据" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="358" y="3137" as="sourcePoint" />
-            <mxPoint x="580" y="3137" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-169" value="度秘数据" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="358" y="3204" as="sourcePoint" />
-            <mxPoint x="580" y="3204" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-170" value="文本数据" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#A9C4EB;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="115" y="3143" as="sourcePoint" />
-            <mxPoint x="355" y="3143" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-171" value="小度小度" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#7EA6E0;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="356" y="3002" as="sourcePoint" />
-            <mxPoint x="356" y="3036" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="396" y="3010" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-172" value="指令" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#A9C4EB;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="115" y="3250" as="sourcePoint" />
-            <mxPoint x="355" y="3250" as="targetPoint" />
+            <mxPoint x="358" y="3072" as="sourcePoint" />
+            <mxPoint x="580" y="3072" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-173" value="解析数据" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#7EA6E0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="358" y="3211" as="sourcePoint" />
-            <mxPoint x="358" y="3245" as="targetPoint" />
+            <mxPoint x="338" y="4149" as="sourcePoint" />
+            <mxPoint x="338" y="4183" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="398" y="3219" />
+              <mxPoint x="378" y="4157" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-174" value="执行指令" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#F8CECC;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="118" y="3257" as="sourcePoint" />
-            <mxPoint x="116" y="3287" as="targetPoint" />
+            <mxPoint x="137" y="4150" as="sourcePoint" />
+            <mxPoint x="135" y="4180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="175" y="3260" />
+              <mxPoint x="194" y="4153" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-175" value="结果返回" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#F8CECC;curved=1;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="117" y="3305" as="sourcePoint" />
-            <mxPoint x="357" y="3305" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-176" value="事件上报" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#A9C4EB;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="358" y="3321" as="sourcePoint" />
-            <mxPoint x="580" y="3321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-177" value="语音识别" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="581" y="3133" as="sourcePoint" />
-            <mxPoint x="583" y="3116" as="targetPoint" />
+            <mxPoint x="579" y="3060" as="sourcePoint" />
+            <mxPoint x="583" y="3026" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="633" y="3131" />
+              <mxPoint x="633" y="3041" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-178" value="度秘能力" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-179" value="① 讲个笑话" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#F8CECC;curved=1;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="583" y="3197" as="sourcePoint" />
-            <mxPoint x="583" y="3148" as="targetPoint" />
+            <mxPoint x="117" y="2997" as="sourcePoint" />
+            <mxPoint x="357" y="2997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-181" value="Adapter" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="738" y="2920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-182" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799" y="3678" as="sourcePoint" />
+            <mxPoint x="798.5" y="2980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-184" value="第三方能力？" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358" y="3395" as="sourcePoint" />
+            <mxPoint x="358" y="3346" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="633" y="3163" />
+              <mxPoint x="408" y="3361" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-179" value="上下文数据" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#F8CECC;curved=1;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-185" value="UI" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="955" y="2924" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-186" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="117" y="2994" as="sourcePoint" />
-            <mxPoint x="357" y="2994" as="targetPoint" />
+            <mxPoint x="1016" y="3677" as="sourcePoint" />
+            <mxPoint x="1015.5" y="2984" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-180" value="上屏显示" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#7EA6E0;curved=1;" edge="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-188" value="度秘能力" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#EA6B66;curved=1;startArrow=classic;startFill=1;endFill=0;fillColor=#f8cecc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359" y="3142" as="sourcePoint" />
-            <mxPoint x="359" y="3176" as="targetPoint" />
+            <mxPoint x="930" y="4198" as="sourcePoint" />
+            <mxPoint x="930" y="4149" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="399" y="3150" />
+              <mxPoint x="980" y="4164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-189" value="解析结果" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#A9C4EB;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="3101" as="sourcePoint" />
+            <mxPoint x="1013" y="3098" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-190" value="UI展示" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#EA6B66;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1153" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="117" y="3133" as="sourcePoint" />
+            <mxPoint x="1019" y="3140" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-191" value="TTS播报" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#EA6B66;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="3167" as="sourcePoint" />
+            <mxPoint x="1017" y="3174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-192" value="② 附近餐厅" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#F8CECC;curved=1;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="113" y="3259" as="sourcePoint" />
+            <mxPoint x="353" y="3259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-193" value="语音流数据" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#A9C4EB;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="3281" as="sourcePoint" />
+            <mxPoint x="579" y="3281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-194" value="识别结果" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="3340" as="sourcePoint" />
+            <mxPoint x="581" y="3340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-195" value="语音识别" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="3328" as="sourcePoint" />
+            <mxPoint x="584" y="3294" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="634" y="3309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-196" value="识别结果" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="0.3364" y="9" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="3410" as="sourcePoint" />
+            <mxPoint x="793" y="3410" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-197" value="度秘能力" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#97D077;curved=1;startArrow=classic;startFill=1;endFill=0;fillColor=#f8cecc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="801" y="3464" as="sourcePoint" />
+            <mxPoint x="801" y="3415" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="851" y="3430" />
             </Array>
           </mxGeometry>
         </mxCell>
