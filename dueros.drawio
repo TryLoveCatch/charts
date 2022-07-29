@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T08:24:27.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fs42IO1OypxumSSnVWiP" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T08:27:50.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oeUBXdyns-p_1A3_chkn" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1038" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -497,13 +497,13 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-161" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="loB__rDDkQlZ5txPn1ok-159">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="3630" as="sourcePoint" />
+            <mxPoint x="115" y="3679" as="sourcePoint" />
             <mxPoint x="118" y="3062" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-162" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="356" y="3594" as="sourcePoint" />
+            <mxPoint x="353" y="3690" as="sourcePoint" />
             <mxPoint x="356" y="2980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -512,7 +512,7 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-164" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="582" y="3617" as="sourcePoint" />
+            <mxPoint x="582" y="3711" as="sourcePoint" />
             <mxPoint x="581.5" y="2980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -643,20 +643,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-196" value="识别结果" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-196" value="识别结果" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#7EA6E0;curved=1;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry x="0.3364" y="9" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="359" y="3410" as="sourcePoint" />
             <mxPoint x="793" y="3410" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-197" value="度秘能力" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#97D077;curved=1;startArrow=classic;startFill=1;endFill=0;fillColor=#f8cecc;" edge="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-197" value="通信第三方" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#97D077;curved=1;startArrow=classic;startFill=1;endFill=0;fillColor=#f8cecc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="801" y="3464" as="sourcePoint" />
             <mxPoint x="801" y="3415" as="targetPoint" />
             <Array as="points">
               <mxPoint x="851" y="3430" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-198" value="三方数据" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#97D077;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1751" y="4" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="362" y="3470" as="sourcePoint" />
+            <mxPoint x="796" y="3470" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-199" value="三方数据" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#7EA6E0;curved=1;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="0.1516" y="5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="3519" as="sourcePoint" />
+            <mxPoint x="1012" y="3521" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-200" value="UI展示" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#EA6B66;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1153" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="113" y="3555" as="sourcePoint" />
+            <mxPoint x="1015" y="3562" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-201" value="TTS播报" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#EA6B66;curved=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="3589" as="sourcePoint" />
+            <mxPoint x="1013" y="3596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
