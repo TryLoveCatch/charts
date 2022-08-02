@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T03:07:16.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yilMX6kfudl4JJk5ba0s" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T07:36:00.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="H_xatWajlXqpgaYrGvRg" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1038" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -873,6 +873,9 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-279" value="北汽云端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="868" y="4811" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-280" value="可见即可说" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1549" width="92" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
