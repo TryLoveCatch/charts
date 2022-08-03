@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T02:05:14.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9kA9NaBVQVVq2m_dt9ma" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T02:06:57.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="i08PBOyr5YowNTI0q7si" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1038" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1213,6 +1213,9 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="279" y="6478" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-397" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Phone、System、Weather等等&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="549.5" y="5819" width="108" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
