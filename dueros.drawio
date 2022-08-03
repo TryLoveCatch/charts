@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T02:18:26.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nhniFbmc9LbGwqZZc_dh" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T02:18:49.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WjNe01awKplM1ql17VOS" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1038" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1062,7 +1062,7 @@
         <mxCell id="loB__rDDkQlZ5txPn1ok-354" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-342" target="loB__rDDkQlZ5txPn1ok-345">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-342" value="BinderPoolProxy" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-342" value="BinderPoolProxy" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="964" y="5217" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-347" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#EA6B66;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-343" target="loB__rDDkQlZ5txPn1ok-338">
@@ -1074,19 +1074,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-343" value="PhoneProxy" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-343" value="PhoneProxy" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="932" y="5331" width="84" height="64" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-348" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#EA6B66;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-344" target="loB__rDDkQlZ5txPn1ok-338">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-344" value="StystemProxy" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-344" value="StystemProxy" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1038" y="5335" width="84" height="64" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-351" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.864;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#EA6B66;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-345" target="loB__rDDkQlZ5txPn1ok-338">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-345" value="WeatherProxy" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-345" value="WeatherProxy" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="987" y="5405" width="84" height="64" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-355" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;" edge="1" parent="1">
