@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T06:56:10.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I2j9Eo0gRnIdXMQHgUNc" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T07:01:19.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-N8Sw1TfmIIW3p1yrrgN" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1438" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1461,6 +1461,9 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-566" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=8;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-487" target="loB__rDDkQlZ5txPn1ok-565">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-487" value="" style="shape=rect;html=1;fillColor=#eeeeee;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="205.25" y="8717" width="20" height="80" as="geometry" />
         </mxCell>
@@ -1709,6 +1712,9 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-563" value="类似于AiPhoneManager的初始化：&lt;br&gt;1、获取远程的对应IBinder&lt;br&gt;2、注册自己的callback到远端" style="shape=card;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-29" y="8452" width="202" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-565" value="所以如果要自定义UI，就需要自定义这个RemoteView，语音助手app里面包含了一个默认的UI" style="shape=card;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-76" y="8830" width="149" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
