@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T05:15:45.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Dq0Smy36baf8QPx5Uqsu" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T05:30:52.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="G_H_JcDG1STwFOimf0V8" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1438" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1338,7 +1338,7 @@
         <mxCell id="loB__rDDkQlZ5txPn1ok-442" value="UI框架&lt;br&gt;提供了很多个接口&lt;br&gt;Activity、Window等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-7" y="6729" width="120" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-444" value="其他技能的c/s双端的aidl&lt;br&gt;weather+phoneui+food&lt;br&gt;+wiki+hotel+train等等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-444" value="其他技能的c/s双端的aidl&lt;br&gt;可以理解为UI的aidl&lt;br&gt;weather+phoneui+food&lt;br&gt;+wiki+hotel+train等等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="115" y="6697" width="151" height="116" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-461" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=8;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-445" target="loB__rDDkQlZ5txPn1ok-455">
@@ -1347,7 +1347,7 @@
         <mxCell id="loB__rDDkQlZ5txPn1ok-463" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=8;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-445" target="loB__rDDkQlZ5txPn1ok-462">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-445" value="技能Server端能力在unit包下面&lt;br&gt;核心技能+可选技能+其他节能&lt;br&gt;所有的Server端能力" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-445" value="技能aidl的Server端能力&lt;br&gt;在unit包下面&lt;br&gt;核心技能+可选技能+其他节能&lt;br&gt;所有的Server端能力" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="37.25" y="6819" width="195.75" height="111" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-449" value="uisdk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
@@ -1356,11 +1356,11 @@
         <mxCell id="loB__rDDkQlZ5txPn1ok-450" value="" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="6662" width="295.5" height="282" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-451" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;AiLitBusiness&lt;br&gt;入口类，提供了可选功能的初始化&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="415" y="6689" width="120" height="80" as="geometry" />
+        <mxCell id="loB__rDDkQlZ5txPn1ok-451" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;AiXXXUiCallBackImpl&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;UI的aidl的客户端接口实现。例如：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AiWeatherUiCallBackImpl&lt;br&gt;AiTrainUiCallBackImpl&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="312" y="6712" width="174" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-452" value="AbstractMaintainableManager&lt;br&gt;可选技能子类&lt;br&gt;AiSettingManager,AiMediaManager&lt;br&gt;AiNaivManager,AiNewsManager&lt;br&gt;AiAccountManager&lt;br&gt;AiBannerManager" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="351" y="6799" width="220" height="111" as="geometry" />
+        <mxCell id="loB__rDDkQlZ5txPn1ok-452" value="AbstractMaintainableManager&lt;br&gt;其他技能子类&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AbsRemoteManager，其他都是这个类的子类，例如：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AiWeatherRemoteManager&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AiTrainRemoteManager&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="352" y="6826" width="220" height="111" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-453" value="&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;lyra_view&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="196.25" y="5738" width="146.5" height="77" as="geometry" />
@@ -1373,6 +1373,9 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-462" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Server端&lt;/td&gt;&lt;td&gt;技能&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AidlPhoneServer&lt;/td&gt;&lt;td&gt;核心技能&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AidlSettingServer&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;可选技能&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AidlPhoneUIServer&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;其他技能&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AIWeatherServerImpl&lt;/td&gt;&lt;td&gt;其他技能&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="-136" y="7035" width="236" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-464" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;AiXXX&lt;br&gt;各个技能的入口类，提供了技能的能力，都是单例。例如&lt;br&gt;AiWeather，AiTrain，&lt;br&gt;AiFood，AiFun等等&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="483.5" y="6716" width="143" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
