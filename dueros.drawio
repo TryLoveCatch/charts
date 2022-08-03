@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T05:33:18.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sLzgNIWx1HWtOCbzANHH" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T05:56:46.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mv2YAkgFegSejK_rLGm0" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1438" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1309,7 +1309,7 @@
           <mxGeometry x="298" y="6206" width="294" height="284" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-427" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;AiLitContext&lt;br&gt;入口类，初始化会跟远程进程建立连接，得到BinderPool&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="374" y="6248" width="120" height="80" as="geometry" />
+          <mxGeometry x="311" y="6258" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-430" value="AbstractMaintainableManager&lt;br&gt;核心技能子类&lt;br&gt;AiPhoneManager&lt;br&gt;AiSystemManager&lt;br&gt;AiSpeechManager" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="334" y="6350" width="220" height="111" as="geometry" />
@@ -1324,7 +1324,7 @@
           <mxGeometry x="626.5" y="6204" width="295.5" height="282" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-436" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;AiLitBusiness&lt;br&gt;入口类，提供了可选功能的初始化&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="724" y="6231" width="120" height="80" as="geometry" />
+          <mxGeometry x="649.5" y="6239" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-439" value="AbstractMaintainableManager&lt;br&gt;可选技能子类&lt;br&gt;AiSettingManager,AiMediaManager&lt;br&gt;AiNaivManager,AiNewsManager&lt;br&gt;AiAccountManager&lt;br&gt;AiBannerManager" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="660" y="6341" width="220" height="111" as="geometry" />
@@ -1338,7 +1338,7 @@
         <mxCell id="loB__rDDkQlZ5txPn1ok-442" value="UI框架&lt;br&gt;提供了很多个接口&lt;br&gt;Activity、Window等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-7" y="6729" width="120" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-444" value="其他技能的c/s双端的aidl&lt;br&gt;可以理解为UI的aidl&lt;br&gt;weather+phoneui+food&lt;br&gt;+wiki+hotel+train等等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-444" value="其他技能的c/s双端的aidl&lt;br&gt;weather+phoneui+food&lt;br&gt;+wiki+hotel+train等等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="115" y="6697" width="151" height="116" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-461" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=8;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-445" target="loB__rDDkQlZ5txPn1ok-455">
@@ -1356,7 +1356,7 @@
         <mxCell id="loB__rDDkQlZ5txPn1ok-450" value="" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="6662" width="295.5" height="282" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-451" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;AiXXXUiCallBackImpl&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;UI的aidl的客户端接口实现。例如：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AiWeatherUiCallBackImpl&lt;br&gt;AiTrainUiCallBackImpl&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-451" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;AiXXXUiCallBackImpl&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;其他技能的aidl回调的客户端接口实现。例如：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AiWeatherUiCallBackImpl&lt;br&gt;AiTrainUiCallBackImpl&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="312" y="6712" width="174" height="125" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-452" value="AbstractMaintainableManager&lt;br&gt;其他技能子类&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AbsRemoteManager，其他都是这个类的子类，例如：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AiWeatherRemoteManager&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AiTrainRemoteManager&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
@@ -1379,6 +1379,30 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-465" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;AbsXXXRemoteView&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;技能remoteview的抽象类&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;例如：AbsWeatherRemoteView&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="405.5" y="6634" width="161" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-466" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;核心技能aidl回调客户端实现。例如：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;PhoneCallbackImpl&lt;br&gt;SystemCallbackImpl&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="420" y="6275" width="163" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-471" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=8;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="loB__rDDkQlZ5txPn1ok-467" target="loB__rDDkQlZ5txPn1ok-470">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-467" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;可选技能aidl回调客户端实现。例如：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;PhoneCallbackImpl&lt;br&gt;SystemCallbackImpl&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="751" y="6270" width="163" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-468" value="" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#000000;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="6341" as="sourcePoint" />
+            <mxPoint x="858" y="6268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-469" value="" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#000000;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="867" y="6347" as="sourcePoint" />
+            <mxPoint x="788" y="6266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-470" value="可选技能的aidl回调竟然没有&lt;br&gt;逻辑实现，只有一个空的实现，例如：&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;UnpreparedSettingServer&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="971" y="6185" width="212" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
