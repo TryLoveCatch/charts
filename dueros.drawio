@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T03:27:08.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ew1qyA-Ne-jDwVVrxds2" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T03:32:07.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="opt9XEcVfYxvJWr9DyLW" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1438" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1336,13 +1336,13 @@
           <mxGeometry x="-12" y="6662" width="295.5" height="282" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-442" value="UI框架&lt;br&gt;提供了很多个接口&lt;br&gt;Activity、Window等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="6.5" y="6705" width="120" height="103" as="geometry" />
+          <mxGeometry x="-7" y="6729" width="120" height="103" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-444" value="其他技能的c/s双端的aidl&lt;br&gt;weather+phoneui+food&lt;br&gt;+wiki+hotel+train等等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="6808" width="185" height="116" as="geometry" />
+          <mxGeometry x="35.5" y="6808" width="185" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-445" value="其他技能的逻辑实现&lt;br&gt;unit包下面" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="126.5" y="6701" width="130" height="111" as="geometry" />
+        <mxCell id="loB__rDDkQlZ5txPn1ok-445" value="其他技能Server端能力&lt;br&gt;unit包下面，例如&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;AIWeatherServerImpl&lt;br&gt;AidlPhoneUIServer&lt;br&gt;&lt;/span&gt;等等" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="98.5" y="6695" width="151.5" height="111" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-449" value="uisdk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="435" y="6606" width="60.25" height="30" as="geometry" />
