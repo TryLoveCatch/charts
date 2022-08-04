@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T02:06:53.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LROXYdRiJSEqNJAcVUWN" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T02:10:20.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DHmRVwUf3_fDA__xOlJl" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1438" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2369,7 +2369,7 @@
           <mxGeometry x="-111.75" y="10209" width="147.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-765" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#82b366;fillColor=#d5e8d4;fillStyle=solid;arcSize=20;" vertex="1" parent="1">
-          <mxGeometry x="116.5" y="10147" width="558" height="271" as="geometry" />
+          <mxGeometry x="116.5" y="10123" width="558" height="295" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-766" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#CCCCCC;curved=1;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -2378,7 +2378,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-767" value="天琴进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="369.5" y="10158" width="60" height="30" as="geometry" />
+          <mxGeometry x="366.5" y="10134" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-769" value="语音识别" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="201.5" y="10308" width="435.5" height="60" as="geometry" />
@@ -2415,6 +2415,18 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-781" value="语音助手" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="427.75" y="10235" width="91.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-782" value="天气、笑话" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#b85450;fillColor=#f8cecc;position2=0.53;size=15;position=0.48;base=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10177" width="79" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-784" value="空调、座椅" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#b85450;fillColor=#f8cecc;position2=0.53;size=15;position=0.48;base=12;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="10177" width="79" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-785" value="联系人信息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#b85450;fillColor=#f8cecc;position2=0.53;size=15;position=0.48;base=12;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="10177" width="79" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-786" value="高德车机导航" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#b85450;fillColor=#f8cecc;position2=0.53;size=15;position=0.48;base=12;" vertex="1" parent="1">
+          <mxGeometry x="526.5" y="10177" width="79" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
