@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T05:35:28.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vofeBhbHN_zg1d_Yy0wh" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T05:37:10.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="r3cLxKO8RiOpukPiK37q" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1438" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -784,7 +784,7 @@
         <mxCell id="loB__rDDkQlZ5txPn1ok-245" value="自定义" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="543" y="4503" width="91" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="loB__rDDkQlZ5txPn1ok-249" value="文本" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="loB__rDDkQlZ5txPn1ok-249" value="文本(可滚动)" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="548" y="4317" width="91" height="57" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-251" value="语音" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
