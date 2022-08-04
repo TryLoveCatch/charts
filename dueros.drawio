@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T08:45:32.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bpLA0ARt5keqGp6g-lou" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T02:01:10.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jQOpuqU2Q21JC5Hbh6R1" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1438" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2102,7 +2102,7 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-673" value="" style="endArrow=none;dashed=1;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#b85450;curved=1;fillColor=#f8cecc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="984" y="10204" as="sourcePoint" />
+            <mxPoint x="984" y="9996" as="sourcePoint" />
             <mxPoint x="986" y="9629" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2364,6 +2364,39 @@
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-745" value="语音助手进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="1075" y="9596" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-764" value="语音助手进程" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#6c8ebf;fillColor=#dae8fc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="-111.75" y="10209" width="147.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-765" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#82b366;fillColor=#d5e8d4;fillStyle=solid;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="116.5" y="10147" width="558" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-766" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#CCCCCC;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="38" y="10253" as="sourcePoint" />
+            <mxPoint x="112" y="10253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-767" value="天琴进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="10158" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-769" value="语音识别" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="10308" width="435.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-770" value="云端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="209.5" y="10228" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-771" value="其他APP" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="10228" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-772" value="车控" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="506" y="10228" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-773" value="语音底层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="128.5" y="10323" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="loB__rDDkQlZ5txPn1ok-774" value="数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="127" y="10245" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
