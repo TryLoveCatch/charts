@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T02:41:45.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6ynYMee6b1eX4GraaQhI" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T02:42:15.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FOb4cNmYUXHa888GAGEx" version="20.2.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="1438" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2444,22 +2444,22 @@
           <mxGeometry x="157.5" y="10486" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-801" value="思必驰语音SDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-80.5" y="11346" width="131" height="60" as="geometry" />
+          <mxGeometry x="-111" y="11350" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-805" value="接口层" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-77" y="11199" width="294" height="60" as="geometry" />
+          <mxGeometry x="-107.5" y="11203" width="294" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-807" value="讯飞语音SDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="78" y="11346" width="141" height="60" as="geometry" />
+          <mxGeometry x="47.5" y="11350" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-809" value="思必驰Adapter" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-79" y="11274" width="131" height="60" as="geometry" />
+          <mxGeometry x="-109.5" y="11278" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-810" value="讯飞Adapter" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="11274" width="136.5" height="60" as="geometry" />
+          <mxGeometry x="51" y="11278" width="136.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-811" value="UI" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="11124" width="294" height="60" as="geometry" />
+          <mxGeometry x="-106.5" y="11128" width="294" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
