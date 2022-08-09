@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T03:09:15.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aeSMPFLgBd8eOcfpBARy" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T03:12:59.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dx3ctNNi98SpwXQ7ze6j" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
-    <mxGraphModel dx="2273" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2273" dy="1386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2684,7 +2684,7 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-17" value="&lt;br&gt;对外暴露的callback方法。比如说，打开radio，具体的打开操作应该是上层业务来执行的，就可以注册这个callback来执行具体的打开逻辑" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-208" y="5188" width="198" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-20" value="&lt;br&gt;Adapter是一个单独进程吗？" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-20" value="&lt;br&gt;Adapter是一个单独进程吗？怎么感觉是个语音助手进程是同一个进程？" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="-772" y="10143" width="143" height="74" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-23" value="" style="shape=flexArrow;endArrow=classic;html=1;sketch=1;curved=1;" edge="1" parent="1">
