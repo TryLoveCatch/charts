@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T05:30:39.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lMZ3L1ydBJRweo0mukNP" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T05:31:28.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Grh57O-edqSe3DEW3cH8" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="2273" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2670,6 +2670,10 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-537.5" y="10096" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-671" y="10038" />
+              <mxPoint x="-671" y="10096" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-14" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;收音机&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;蓝牙电话&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;多媒体（可以接管）&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
