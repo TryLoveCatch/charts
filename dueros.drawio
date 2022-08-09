@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T07:15:57.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="87SSPh5B5xAacGIvFeGZ" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T07:21:53.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="q25CZPVDW4WkKUxkN5j7" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="2273" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2925,19 +2925,27 @@
           <mxGeometry x="-130" y="12760" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-104" value="aiEngine所在进程注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-157" y="13144" width="148" height="30" as="geometry" />
+          <mxGeometry x="-168" y="13570" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-105" value="aiEngine所在进程指令分发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-147" y="13253" width="148" height="30" as="geometry" />
+          <mxGeometry x="-158" y="13679" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-106" value="aiEngine所在进程TTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-147" y="13393" width="148" height="30" as="geometry" />
+          <mxGeometry x="-158" y="13819" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-107" value="&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;EngineApplication&lt;/pre&gt;" style="shape=rect;html=1;whiteSpace=wrap;align=center;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-116" y="12829" width="131" height="39" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-113" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;getInstance()&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-108" target="xez7X35yHY3Rv6yxkLVg-111">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-146" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-108" target="xez7X35yHY3Rv6yxkLVg-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-147" value="initialize()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xez7X35yHY3Rv6yxkLVg-146">
+          <mxGeometry x="0.1543" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-108" value="" style="shape=rect;html=1;fillColor=#eeeeee;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-60.5" y="12900" width="20" height="203" as="geometry" />
@@ -3036,6 +3044,35 @@
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-140" value="蓝牙电话" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-830.75" y="12301" width="58.75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-143" value="&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;AiEngine&lt;/pre&gt;" style="shape=rect;html=1;whiteSpace=wrap;align=center;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="82" y="13171" width="86" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-151" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-144" target="xez7X35yHY3Rv6yxkLVg-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-152" value="initialize" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xez7X35yHY3Rv6yxkLVg-151">
+          <mxGeometry x="0.1737" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-144" value="" style="shape=rect;html=1;fillColor=#eeeeee;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="113" y="13242" width="20" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-145" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-143" target="xez7X35yHY3Rv6yxkLVg-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-148" value="&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;DuiInputerJar&lt;/pre&gt;" style="shape=rect;html=1;whiteSpace=wrap;align=center;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="13171" width="86" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-149" value="" style="shape=rect;html=1;fillColor=#eeeeee;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="239.5" y="13242" width="20" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-150" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-148" target="xez7X35yHY3Rv6yxkLVg-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-153" value="&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;initialize(AiEngine.sPackageName, &lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&quot;com.aispeech.integrate.speech.EngineLocalRouterConnectService&quot;)&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;sketch=1;curveFitting=0.05;flipH=0;direction=west;size=54;position=0.12;position2=0.02;" vertex="1" parent="1">
+          <mxGeometry x="-237.12" y="13276" width="438.25" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
