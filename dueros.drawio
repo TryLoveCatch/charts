@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T02:01:04.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="af54iSRFjvuh3VVYLMCb" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T02:06:51.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yBvZ8E_34byGi5Ss3ZNT" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="2273" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2345,7 +2345,7 @@
           <mxGeometry x="13" y="9575" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-745" value="语音助手进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="1075" y="9596" width="60" height="30" as="geometry" />
+          <mxGeometry x="1109.13" y="9593" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-764" value="语音助手进程" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#6c8ebf;fillColor=#dae8fc;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="-111.75" y="10209" width="147.5" height="85" as="geometry" />
@@ -2643,6 +2643,9 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-7" value="IPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-487.5" y="9958.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.028;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-8" target="xez7X35yHY3Rv6yxkLVg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-8" value="Adapter进程" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="-536" y="10132" width="147.5" height="85" as="geometry" />
         </mxCell>
@@ -2669,8 +2672,8 @@
             <mxPoint x="-537.5" y="10096" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-14" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;Name&lt;/td&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;IBinder&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;phone&lt;/td&gt;&lt;td&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;AidlPhoneServer&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;system&lt;/td&gt;&lt;td&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;AidlSystemServer&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;setting&lt;/td&gt;&lt;td&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;AidlSettingServer&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ui.weather&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;AIWeatherServerImpl&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-901" y="10078" width="194" height="186" as="geometry" />
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-14" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;收音机&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;蓝牙电话&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-901" y="10010" width="162" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-16" target="xez7X35yHY3Rv6yxkLVg-17">
           <mxGeometry relative="1" as="geometry" />
@@ -2682,7 +2685,16 @@
           <mxGeometry x="-208" y="5188" width="198" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-20" value="&lt;br&gt;Adapter是一个单独进程吗？" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-327" y="10120" width="143" height="74" as="geometry" />
+          <mxGeometry x="-772" y="10143" width="143" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-23" value="" style="shape=flexArrow;endArrow=classic;html=1;sketch=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-123" y="10020" as="sourcePoint" />
+            <mxPoint x="-246" y="10020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-24" value="进化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-209" y="9966" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
