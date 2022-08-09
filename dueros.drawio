@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T05:17:38.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lvbNrhQMgJdFdw6QkwyC" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T05:19:37.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7wwfLWPqvv_o5AGhFL55" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="2273" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2795,8 +2795,8 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-57" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;xxxCallback&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="316" y="12475" width="108.75" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-59" value="按理说语音助手进程只要提供callback，都可以注册监听" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;base=11;position2=0;fillColor=#f8cecc;strokeColor=#b85450;size=35;position=0.07;" vertex="1" parent="1">
-          <mxGeometry x="375" y="12414" width="121" height="75" as="geometry" />
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-59" value="按理说语音助手进程只要提供callback，都可以注册监听，主要是在aiLit和aiLitBiz两个jar包里面，例如RadioControlCallback" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;base=11;position2=0;fillColor=#f8cecc;strokeColor=#b85450;size=35;position=0.07;" vertex="1" parent="1">
+          <mxGeometry x="375" y="12373" width="190" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
