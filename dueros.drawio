@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T07:14:50.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oecivDOkZw7F4p0pNDqq" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T07:15:57.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="87SSPh5B5xAacGIvFeGZ" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="2273" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2894,6 +2894,12 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-86" value="扩展" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1078.25" y="12239.5" width="80" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-141" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-88" target="xez7X35yHY3Rv6yxkLVg-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-142" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-88" target="xez7X35yHY3Rv6yxkLVg-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-88" value="核心+可选" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-871.5" y="12234.5" width="80" height="27" as="geometry" />
         </mxCell>
@@ -3024,6 +3030,12 @@
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-133" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-131" target="xez7X35yHY3Rv6yxkLVg-132">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-139" value="收音机" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-898" y="12300.5" width="58.75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-140" value="蓝牙电话" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-830.75" y="12301" width="58.75" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
