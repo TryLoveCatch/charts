@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T08:57:01.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KdskGd86WrSvg9vtUXX7" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T09:03:48.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WPz-7RAM-kGiXKO7JFfG" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="2273" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2930,9 +2930,6 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-105" value="指令分发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=0.05;" vertex="1" parent="1">
           <mxGeometry x="-458" y="14033" width="148" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-106" value="aiEngine所在进程TTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-469" y="14398" width="148" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-107" value="&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;EngineApplication&lt;/pre&gt;" style="shape=rect;html=1;whiteSpace=wrap;align=center;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-452.5" y="12831" width="131" height="39" as="geometry" />
         </mxCell>
@@ -3137,18 +3134,6 @@
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-163" value="&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;domain:com.aispeech.lyra.daemon&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;type:MA_FORCE_ASYNC&lt;/pre&gt;&lt;/pre&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;sketch=1;curveFitting=0.05;flipH=1;direction=west;size=27;position=0.13;position2=0.16;base=24;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="37.62" y="13215" width="232.38" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-164" value="&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;InputerCallbackAction&lt;/pre&gt;" style="shape=rect;html=1;whiteSpace=wrap;align=center;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-452.5" y="14437" width="150" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-165" value="" style="shape=rect;html=1;fillColor=#eeeeee;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-388" y="14516" width="20" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-166" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;sketch=1;fontFamily=Comic Sans MS;strokeColor=#FFD966;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-164" target="xez7X35yHY3Rv6yxkLVg-165">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-413.1512883435584" y="14487" as="sourcePoint" />
-            <mxPoint x="-414.2310429447852" y="14531" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-234" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#000000;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-180" target="xez7X35yHY3Rv6yxkLVg-230">
           <mxGeometry relative="1" as="geometry" />
