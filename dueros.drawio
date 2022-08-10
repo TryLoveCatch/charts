@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T02:09:42.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vP2_XBeW49cg6jSDIUZn" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-10T02:12:18.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gD8SFzBVyofGp2GLSvOk" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="2673" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3590,7 +3590,7 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-374" value="语音助手进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="381.1299999999999" y="14661" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-375" value="&lt;h1&gt;第三种&lt;/h1&gt;&lt;p&gt;1、天琴进程识别指令，透传给Adapter进程&lt;/p&gt;&lt;p&gt;2&lt;span style=&quot;background-color: initial;&quot;&gt;、Adapter进程通过数据源执行具体逻辑&lt;/span&gt;&lt;/p&gt;&lt;p&gt;3、Adapter进程把结果传递给天琴进程&lt;/p&gt;&lt;p&gt;例如，空调，猜测应该没有UI交互&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=0.05;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-375" value="&lt;h1&gt;第三种&lt;/h1&gt;&lt;p&gt;1、天琴进程识别指令，透传给Adapter进程&lt;/p&gt;&lt;p&gt;2&lt;span style=&quot;background-color: initial;&quot;&gt;、Adapter进程通过数据源执行具体逻辑&lt;/span&gt;&lt;/p&gt;&lt;p&gt;3、Adapter进程把结果传递给天琴进程，进行语音播报&lt;/p&gt;&lt;p&gt;例如，空调，猜测应该没有UI交互&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=0.05;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="385.13" y="14449" width="267" height="195" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-376" value="数据源" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
