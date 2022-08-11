@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T05:37:23.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="O3xFVKsCnaf2R_lWruEF" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-11T07:59:58.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="o9V1ZP5js08aloRfRRkI" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="2673" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1283,7 +1283,7 @@
           <mxGeometry x="665" y="5932" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-416" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;com.aispeech.uiintegrate.uicontract&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="595" y="5831" width="245" height="70" as="geometry" />
+          <mxGeometry x="617.5" y="5848" width="245" height="70" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-418" value="aiContract.jar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="80" y="6148" width="60.25" height="30" as="geometry" />
@@ -1370,7 +1370,7 @@
           <mxGeometry x="196.25" y="5738" width="146.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-454" value="&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;lyra&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
-          <mxGeometry x="650" y="5736" width="146.5" height="77" as="geometry" />
+          <mxGeometry x="686.87" y="5747" width="146.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="loB__rDDkQlZ5txPn1ok-455" value="这些Server端能力也会在天琴进程初始化的时候会注册到BinderPool里面的" style="shape=card;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-111.75" y="6922" width="149" height="80" as="geometry" />
@@ -3727,6 +3727,9 @@
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-435" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;初始化&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.05;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-621" y="12754" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-436" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;业务逻辑&lt;br&gt;数据解析、转换等&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="569.5" y="5776" width="126.5" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
