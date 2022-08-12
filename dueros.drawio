@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T06:25:22.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HehqZU9hfa9M48MNaiYq" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T06:26:54.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WqqCpVzdP5_hxYQjpi5o" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="3873" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3903,7 +3903,7 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-505" value="例如，demo apk中的&lt;br&gt;HomeViewAuto" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;flipV=1;position2=0.36;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="15771" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xez7X35yHY3Rv6yxkLVg-507" value="&lt;b&gt;用户自己实现的部分&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-507" value="&lt;b&gt;需要我们自己实现的部分&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-175" y="15592" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-511" value="setXXXRemoteViewImpl()" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=solid;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;position2=1;size=66;position=0.56;" vertex="1" parent="1">
