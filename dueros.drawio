@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T04:37:41.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ONn1Q_KVNKkAcMy_nktL" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T06:09:04.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wy-jc7cIiLSa9WvXQAwl" version="20.2.3" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="3873" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3798,11 +3798,20 @@
         <mxCell id="xez7X35yHY3Rv6yxkLVg-467" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;AIMainWindowManager&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;AIPhoneWindowManager&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;...&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;AITipsWindowManager&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1059.75" y="15853" width="180" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-480" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-469" target="xez7X35yHY3Rv6yxkLVg-477">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-469" value="&lt;font color=&quot;#000000&quot;&gt;BaseDialogViewWrapper&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-852" y="15420" width="149" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-481" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-471" target="xez7X35yHY3Rv6yxkLVg-478">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-471" value="&lt;font color=&quot;#000000&quot;&gt;BaseDialogViewWrapper&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-830.75" y="15569" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-482" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-472" target="xez7X35yHY3Rv6yxkLVg-479">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-472" value="&lt;font color=&quot;#000000&quot;&gt;BaseDialogViewWrapper&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-823" y="15706" width="149" height="80" as="geometry" />
@@ -3812,6 +3821,57 @@
         </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-475" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;AutoWindowMainView&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;AutoWindowPhoneView&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;...&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;AutoWindowTipsView&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-838.5" y="15851" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-477" value="&lt;font color=&quot;#000000&quot;&gt;BaseDialogView&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="15423" width="113" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-478" value="&lt;font color=&quot;#000000&quot;&gt;BaseDialogView&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-633" y="15578" width="113" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-479" value="&lt;font color=&quot;#000000&quot;&gt;BaseDialogView&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-615.5" y="15710.5" width="113" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-484" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-483" target="xez7X35yHY3Rv6yxkLVg-479">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-483" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;HomeViewAuto&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;AbsPhoneChildView&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;...&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;AIWeatherView&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-604" y="15851" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-485" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;XXXUIClientInterface&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;.Stub&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.05;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-847" y="16297" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-486" value="Demo的UI框架" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1392" y="15380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-487" value="&lt;b&gt;天琴进程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1347" y="16084" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-489" value="" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1529" y="16175" width="460" height="339" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-490" value="BinderPool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-1325" y="16196" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-493" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-491" target="xez7X35yHY3Rv6yxkLVg-485">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-495" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-491" target="xez7X35yHY3Rv6yxkLVg-485">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-498" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="xez7X35yHY3Rv6yxkLVg-491" target="xez7X35yHY3Rv6yxkLVg-485">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-491" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;Name&lt;/td&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;IBinder(t天琴进程)&lt;/td&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;IBinderProxy(语音助手进程)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ui.weather&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;AIWeatherServerImpl&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;AiWeatherUIClientInterface&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ui.phone&lt;/td&gt;&lt;td&gt;AiPhoneRemoteManager&lt;br&gt;&lt;/td&gt;&lt;td&gt;PhoneUiCallbackInterface&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;...&lt;/td&gt;&lt;td&gt;...&lt;/td&gt;&lt;td&gt;...&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ui.home&lt;/td&gt;&lt;td&gt;AiHomeRemoteManager&lt;br&gt;&lt;/td&gt;&lt;td&gt;AiHomeUIClientInterface&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1481" y="16246" width="372" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-492" value="BinderPool只列举了UI相关的服务端和客户端双向通信Binder" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;flipH=1;size=39;position=0.24;position2=0.03;" vertex="1" parent="1">
+          <mxGeometry x="-1525" y="16112" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-494" value="&lt;b&gt;语音助手进程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-821" y="16188" width="79.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xez7X35yHY3Rv6yxkLVg-499" value="例如，AiHomeUiCallBackImpl" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;flipV=1;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="16372" width="141" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
