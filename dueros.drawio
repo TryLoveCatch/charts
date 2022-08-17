@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T06:48:47.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="FHxYL9jo7c5RxxEMnu2G" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T07:05:59.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="SgWtl8kJsbvIqgFPyuSd" version="20.0.1" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
-    <mxGraphModel dx="3586" dy="1313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3725" dy="1404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-141" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-1756" y="19456" width="636" height="119" as="geometry" />
+        </mxCell>
         <mxCell id="xez7X35yHY3Rv6yxkLVg-514" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;strokeColor=#000000;" parent="1" source="xez7X35yHY3Rv6yxkLVg-506" target="xez7X35yHY3Rv6yxkLVg-486" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -4328,6 +4331,36 @@
         </mxCell>
         <mxCell id="XFTh3TV3M8BIP1UIgbwJ-126" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、指令注册&lt;/p&gt;&lt;p&gt;2、指令识别&lt;/p&gt;&lt;p&gt;3、指令分发&lt;/p&gt;&lt;p&gt;4、指令处理&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;comic=1;" vertex="1" parent="1">
           <mxGeometry x="-1696" y="18962.5" width="133" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-127" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="XFTh3TV3M8BIP1UIgbwJ-129" target="XFTh3TV3M8BIP1UIgbwJ-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-129" value="初始化" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-1734" y="19479" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-130" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="XFTh3TV3M8BIP1UIgbwJ-131" target="XFTh3TV3M8BIP1UIgbwJ-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-131" value="指令控制器" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1511.5" y="19478.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-132" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=50;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="XFTh3TV3M8BIP1UIgbwJ-134" target="XFTh3TV3M8BIP1UIgbwJ-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-134" value="语音SDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1523" y="19288" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-135" value="指令处理器" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1286.5" y="19481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-139" value="" style="endArrow=none;dashed=1;html=1;sketch=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1752.5" y="19405" as="sourcePoint" />
+            <mxPoint x="-1184.5" y="19405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-140" value="指令转换" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-1406.5" y="19376" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
