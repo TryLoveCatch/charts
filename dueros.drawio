@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T07:05:59.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="SgWtl8kJsbvIqgFPyuSd" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T07:16:32.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ily9P-DH_f8RmjBIdZ9y" version="20.0.1" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="3725" dy="1404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4361,6 +4361,18 @@
         </mxCell>
         <mxCell id="XFTh3TV3M8BIP1UIgbwJ-140" value="指令转换" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-1406.5" y="19376" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-142" value="" style="endArrow=none;dashed=1;html=1;sketch=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1713.5" y="19620.999999999996" as="sourcePoint" />
+            <mxPoint x="-1145.5000000000005" y="19620.999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-143" value="车型" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-1732.25" y="19591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFTh3TV3M8BIP1UIgbwJ-145" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;车型&lt;/td&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;指令&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;处理器&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;车型A&lt;/td&gt;&lt;td&gt;打开空调&lt;/td&gt;&lt;td&gt;handler1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;调整音量&lt;/td&gt;&lt;td&gt;handler2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;车型B&lt;/td&gt;&lt;td&gt;打开空调&lt;/td&gt;&lt;td&gt;handler4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;调整音量&lt;/td&gt;&lt;td&gt;handler2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;静音&lt;/td&gt;&lt;td&gt;handler3&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1673.5" y="19694" width="250.5" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
