@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T08:42:20.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4JDaGoo1EJHydZgvhZV4" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T08:44:09.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="86OVFIeUCzhFG6iHOqVe" version="20.2.3" type="github">
   <diagram id="ojWAwlg4NLYBeGqN4WcS" name="第 1 页">
     <mxGraphModel dx="1438" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="8weczdCDsFXkRjkr8ipB-14" value="专注不同平台的差异化，&lt;br&gt;例如can信号和平台的中间&lt;br&gt;件能力。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=0;fontFamily=Comic Sans MS;fillColor=none;flipV=1;flipH=0;direction=north;size=114;position=0.52;position2=0.04;align=left;" vertex="1" parent="1">
           <mxGeometry x="-83" y="267" width="251" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-15" value="根据flavor区分不同车型，&lt;br&gt;例如C46和N60。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=0;fontFamily=Comic Sans MS;fillColor=none;flipV=0;flipH=0;direction=north;size=78;position=0.4;position2=0.04;align=left;base=12;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="60" width="227" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
