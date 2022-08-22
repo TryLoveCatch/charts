@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T08:54:21.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fST06QC7j6arckNNpDgE" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T08:56:16.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="AmjXw88VGvfHTrhWjkvH" version="20.2.3" type="github">
   <diagram id="ojWAwlg4NLYBeGqN4WcS" name="第 1 页">
     <mxGraphModel dx="1438" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,13 +65,13 @@
           <mxGeometry x="429" y="735" width="238" height="105" as="geometry" />
         </mxCell>
         <mxCell id="8weczdCDsFXkRjkr8ipB-25" value="业务逻辑" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="177" y="647" width="362" height="60" as="geometry" />
+          <mxGeometry x="177" y="647" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8weczdCDsFXkRjkr8ipB-26" value="业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="95" y="662" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8weczdCDsFXkRjkr8ipB-27" value="Skin" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="561" y="646" width="110" height="61" as="geometry" />
+        <mxCell id="8weczdCDsFXkRjkr8ipB-27" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="432" y="646" width="232" height="61" as="geometry" />
         </mxCell>
         <mxCell id="8weczdCDsFXkRjkr8ipB-31" value="语音接口层" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="445" y="747" width="211" height="46" as="geometry" />
@@ -102,6 +102,15 @@
         </mxCell>
         <mxCell id="8weczdCDsFXkRjkr8ipB-39" value="以语音为例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="397" y="482" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-40" value="皮肤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="522" y="641" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-41" value="白天" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="448" y="666" width="88" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-42" value="黑夜" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="558" y="666" width="88" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
