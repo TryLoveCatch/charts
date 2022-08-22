@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T08:22:23.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.3" etag="-bkSPAGA60W_2ELmRbyO" type="github"><diagram id="ojWAwlg4NLYBeGqN4WcS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-22T08:35:32.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8qoBA5BsjoLVx87zmCCx" version="20.2.3" type="github">
+  <diagram id="ojWAwlg4NLYBeGqN4WcS" name="第 1 页">
+    <mxGraphModel dx="1038" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8weczdCDsFXkRjkr8ipB-1" value="Android OS" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="305" width="361" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-2" value="系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="88" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="207" width="361" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-4" value="平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="88" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-5" value="哈曼" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="192" y="221" width="88" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-7" value="..." style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="221" width="88" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="8weczdCDsFXkRjkr8ipB-8" value="华阳" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="422" y="221" width="88" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
