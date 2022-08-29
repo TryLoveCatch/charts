@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T09:02:12.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qAzrapzjerhIMWWlkRPA" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T09:07:13.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gcQGlDpDyOXBXwyKAZ6K" version="20.2.3" type="github">
   <diagram id="_rGLrGhf9AXiHFREIIix" name="第 1 页">
     <mxGraphModel dx="3093" dy="-15324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,6 +233,27 @@
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-96" value="&lt;b&gt;方法调用&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="-1444" y="16271" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-102" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fodertxsaoSaykGRS7Xc-98" target="fodertxsaoSaykGRS7Xc-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-103" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fodertxsaoSaykGRS7Xc-98" target="fodertxsaoSaykGRS7Xc-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-104" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fodertxsaoSaykGRS7Xc-98" target="fodertxsaoSaykGRS7Xc-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-98" value="窗口管理" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hatch;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-1701" y="18128" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-99" value="IWindowManager" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1505.25" y="18017" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-100" value="IWindowViewWrapper" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1505.25" y="18128" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-101" value="IWindowView" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1505.25" y="18244" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
