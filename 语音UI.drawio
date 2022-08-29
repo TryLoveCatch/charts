@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T06:49:37.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7G_YBDa8sUKDkS9BmIMt" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T06:50:05.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bjqkfNBpsIh9_NwnsdtE" version="20.2.3" type="github">
   <diagram id="_rGLrGhf9AXiHFREIIix" name="第 1 页">
     <mxGraphModel dx="3093" dy="-15324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="fodertxsaoSaykGRS7Xc-41" value="平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-1746" y="17350.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fodertxsaoSaykGRS7Xc-42" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fodertxsaoSaykGRS7Xc-42" value="语音Adapter" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="17313" width="238" height="105" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-43" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -137,15 +137,6 @@
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-45" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1407" y="17182" width="232" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="fodertxsaoSaykGRS7Xc-46" value="语音接口层" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-1394" y="17325" width="211" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="fodertxsaoSaykGRS7Xc-47" value="思必驰" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-1396" y="17379" width="88" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="fodertxsaoSaykGRS7Xc-48" value="科大讯飞" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-1271" y="17379" width="88" height="31" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-49" value="平台接口层" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-1647.5" y="17325" width="211" height="46" as="geometry" />
