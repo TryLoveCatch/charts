@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T09:24:40.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="JUTJDyeWzbuz-45rnYsp" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T01:28:03.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="UAAT5cLqmiN6nLp16Ars" version="20.2.3" type="github">
   <diagram id="_rGLrGhf9AXiHFREIIix" name="第 1 页">
     <mxGraphModel dx="3093" dy="-15324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,13 +265,13 @@
           <mxGeometry x="-1701" y="18128" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-99" value="IWindowManager" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-1505.25" y="18017" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1505.25" y="18017" width="132.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-100" value="IWindowViewWrapper" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-1505.25" y="18128" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1505.25" y="18128" width="135.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-101" value="IWindowView" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=hatch;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-1505.25" y="18244" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1505.25" y="18244" width="133.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-105" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;sketch=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="fodertxsaoSaykGRS7Xc-107" target="fodertxsaoSaykGRS7Xc-112">
           <mxGeometry relative="1" as="geometry" />
