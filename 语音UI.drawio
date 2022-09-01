@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T02:20:09.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XMRTPDi8fl5EMcLKnFID" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T02:21:26.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2RBdrNMrCV_k8Gbgsza1" version="20.2.3" type="github">
   <diagram id="_rGLrGhf9AXiHFREIIix" name="第 1 页">
     <mxGraphModel dx="3093" dy="-14983" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="-1037" y="16693" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-11" value="&lt;b&gt;天琴进程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-1537" y="16480" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1525" y="16527" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-12" value="" style="ellipse;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-1719" y="16571" width="460" height="339" as="geometry" />
@@ -81,8 +81,8 @@
         <mxCell id="fodertxsaoSaykGRS7Xc-18" value="BinderPool只列举了UI相关的服务端和客户端双向通信Binder" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;flipH=1;size=39;position=0.24;position2=0.03;" vertex="1" parent="1">
           <mxGeometry x="-1721" y="16552" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fodertxsaoSaykGRS7Xc-19" value="&lt;b&gt;UI进程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-1049.62" y="16617" width="79.25" height="30" as="geometry" />
+        <mxCell id="fodertxsaoSaykGRS7Xc-19" value="&lt;b&gt;虚拟助手进程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1021.9999999999999" y="16545" width="79.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-20" value="例如，AiHomeUiCallBackImpl" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;labelBackgroundColor=none;sketch=1;fillStyle=auto;curveFitting=0.95;fontFamily=Comic Sans MS;fontSize=12;flipV=1;position2=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1117" y="16768" width="141" height="80" as="geometry" />
