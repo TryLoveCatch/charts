@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T01:58:56.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PJTUOOx6YYUsrne-dOjf" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T02:20:09.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XMRTPDi8fl5EMcLKnFID" version="20.2.3" type="github">
   <diagram id="_rGLrGhf9AXiHFREIIix" name="第 1 页">
     <mxGraphModel dx="3093" dy="-14983" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,6 +382,47 @@
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-150" value="IPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1359" y="15952" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-171" value="②" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;strokeColor=#B9E0A5;" edge="1" parent="1" source="fodertxsaoSaykGRS7Xc-154" target="fodertxsaoSaykGRS7Xc-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-172" value="③" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;strokeColor=#B9E0A5;" edge="1" parent="1" source="fodertxsaoSaykGRS7Xc-154" target="fodertxsaoSaykGRS7Xc-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-154" value="天琴进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-946.0000000000001" y="16045" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-173" value="④" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;strokeColor=#B9E0A5;" edge="1" parent="1" source="fodertxsaoSaykGRS7Xc-156" target="fodertxsaoSaykGRS7Xc-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-156" value="虚拟助手进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-946.25" y="16189.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-157" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;1、用户Query，天琴进程录制音频并识别。&lt;/p&gt;&lt;p&gt;2、天琴进程根据识别结果去获取数据，数据来源是云端（天气）或者其他APP（导航）。&lt;/p&gt;&lt;p&gt;3、天琴进程把数据结果传递给虚拟助手进程。&lt;/p&gt;&lt;p&gt;4、虚拟助手进程对数据进行UI展示，呈现给用户。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=0.05;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1082" y="15829" width="267" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-158" value="数据源" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=0.05;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="16045" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-170" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#B9E0A5;" edge="1" parent="1" source="fodertxsaoSaykGRS7Xc-168" target="fodertxsaoSaykGRS7Xc-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-174" value="①" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="fodertxsaoSaykGRS7Xc-170">
+          <mxGeometry x="-0.1594" y="4" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-168" value="" style="shape=actor;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1077" y="16124" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-175" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-647.75" y="16013" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-176" value="云端" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-609" y="16003" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="fodertxsaoSaykGRS7Xc-177" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone;comic=0;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-579.8" y="16080" width="36.6" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
