@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T01:39:10.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5Ggucjsw7QfSYI1d91ly" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T01:48:51.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="w7Eu_x8FTvyEXk3c8ZrB" version="20.2.7" type="github">
   <diagram id="_rGLrGhf9AXiHFREIIix" name="第 1 页">
     <mxGraphModel dx="3038" dy="-14958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,6 +525,12 @@
         </mxCell>
         <mxCell id="fodertxsaoSaykGRS7Xc-252" value="极光" style="rounded=1;whiteSpace=wrap;html=1;comic=1;sketch=0;fillColor=none;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-1171.5" y="17206.5" width="41" height="30.25" as="geometry" />
+        </mxCell>
+        <mxCell id="9HJFVJztjO4CuhDOpASC-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;方案一：View替换&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="-1876" y="17619" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9HJFVJztjO4CuhDOpASC-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;方案二：对话方式&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="-1884" y="19052" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
