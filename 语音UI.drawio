@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T01:56:16.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PFJIx2SifF-jB1Gw7RJx" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T01:57:30.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zLSNKojTfV89pqMellC_" version="20.2.7" type="github">
   <diagram id="_rGLrGhf9AXiHFREIIix" name="第 1 页">
     <mxGraphModel dx="3093" dy="-14924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -580,7 +580,7 @@
         <mxCell id="9HJFVJztjO4CuhDOpASC-19" value="数据：封装回调的返回&lt;br&gt;View：根据具体的回调展示不同的UI" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=1;flipH=1;flipV=0;direction=north;size=23;position=0.17;position2=0;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=hatch;fontColor=#333333;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-1370.5" y="19208" width="167" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9HJFVJztjO4CuhDOpASC-20" value="定义View切换的规则，是替换还是同时显示" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=1;flipH=1;flipV=0;direction=north;size=23;position=0.17;position2=0.44;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=hatch;fontColor=#333333;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="9HJFVJztjO4CuhDOpASC-20" value="统一管理RecycleView" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=1;flipH=1;flipV=0;direction=north;size=23;position=0.17;position2=0.44;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=hatch;fontColor=#333333;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-1370.5" y="19308.5" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9HJFVJztjO4CuhDOpASC-21" value="管理Window显示隐藏等操作" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;sketch=1;flipH=1;flipV=0;direction=north;size=19;position=0.35;position2=0.89;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=hatch;fontColor=#333333;base=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
