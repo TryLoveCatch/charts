@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T08:56:26.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="FW9WhTiKXubZDDSu2U-S" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T09:01:13.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zGRXaI28X2lm4yHFcMp1" version="20.2.7" type="github">
   <diagram id="_rGLrGhf9AXiHFREIIix" name="第 1 页">
-    <mxGraphModel dx="3093" dy="-14924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3493" dy="-14924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -749,6 +749,25 @@
         </mxCell>
         <mxCell id="9HJFVJztjO4CuhDOpASC-127" value="RecycleView" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1613" y="20807" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9HJFVJztjO4CuhDOpASC-130" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=default;" edge="1" parent="1" source="9HJFVJztjO4CuhDOpASC-129" target="9HJFVJztjO4CuhDOpASC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HJFVJztjO4CuhDOpASC-133" value="内容UI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="9HJFVJztjO4CuhDOpASC-130">
+          <mxGeometry x="0.1229" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HJFVJztjO4CuhDOpASC-131" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=default;" edge="1" parent="1" source="9HJFVJztjO4CuhDOpASC-129" target="9HJFVJztjO4CuhDOpASC-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HJFVJztjO4CuhDOpASC-132" value="VPA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="9HJFVJztjO4CuhDOpASC-131">
+          <mxGeometry x="0.114" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HJFVJztjO4CuhDOpASC-129" value="悬浮窗" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=11;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2025" y="19907" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
