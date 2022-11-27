@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T14:22:51.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="wBRJIRuhxd_KEXzaIU-2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T14:31:30.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="a3uccTZTTf4zq6_L9vty" type="github">
   <diagram id="ZsKYVKCZsxW13D_Cj-jd" name="第 1 页">
     <mxGraphModel dx="1438" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,21 @@
         </mxCell>
         <mxCell id="xUJV_SYP3wIa0_mYyU-m-18" value="Model层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-11" y="441.5" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-19" value="View层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-55" y="621" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-20" value="ViewModel层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="262" y="621" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-21" value="Model层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="558" y="621" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-23" value="&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#97d077&quot;&gt;别让 ViewModels（和 Presenters）知道任何关于 Android 框架的类。&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#f19c99&quot;&gt;避免在 ViewModels 中引用 Views&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#97d077&quot;&gt;ViewModel过于臃肿时，分散职责，增加领域层&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#97d077&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;comic=1;sketch=0;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="178" y="683" width="341" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-24" value="&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#97d077&quot;&gt;在 Activities 和 Fragments 中保持最小化的逻辑。&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#97d077&quot;&gt;在 UI 中注册数据推送，让 UI 观察它的改变。&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;comic=1;sketch=0;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="690" width="341" height="263" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
