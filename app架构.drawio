@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T14:07:02.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="k_FGT24yWVZmUqmhFYjZ" type="github"><diagram id="h3ZwDzq2XWAapw6aTHmK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-27T14:12:34.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="E776GWJUJRxfttwgUdv8" type="github">
+  <diagram id="ZsKYVKCZsxW13D_Cj-jd" name="第 1 页">
+    <mxGraphModel dx="1038" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;View&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;treeFolding=0;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="135" y="139" width="179" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;VDataBinding&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;treeFolding=0;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="334" y="139" width="179" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;ViewModel&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;treeFolding=0;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="135" y="229" width="179" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;LiveData&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;treeFolding=0;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="334" y="229" width="179" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-7" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;repository&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;treeFolding=0;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="135" y="318" width="378" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="xUJV_SYP3wIa0_mYyU-m-11" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;dataSource&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;treeFolding=0;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="135" y="407" width="378" height="63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
