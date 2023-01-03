@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T07:10:21.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="90Sssb3hUB7BZ8ghVdDZ" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T07:10:35.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ftljaeirXMhlieALqjAx" version="20.6.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="4021" dy="1555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4591,7 +4591,7 @@
         </mxCell>
         <mxCell id="JnFRjyQvCBpynjYIMmCm-47" value="②、registerRemoteReadyCallback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="JnFRjyQvCBpynjYIMmCm-44">
           <mxGeometry x="0.4439" y="1" relative="1" as="geometry">
-            <mxPoint x="87" y="-9" as="offset" />
+            <mxPoint x="100" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JnFRjyQvCBpynjYIMmCm-43" value="BinderPoolHolder" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
