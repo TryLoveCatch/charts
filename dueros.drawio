@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T05:53:26.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tWouWkHGfZB9FJ2sH9TA" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T05:57:13.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oCH_VkHTnljJ4dZ8ynDG" version="20.6.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="4021" dy="1555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4501,6 +4501,48 @@
         </mxCell>
         <mxCell id="JnFRjyQvCBpynjYIMmCm-22" value="Map&amp;lt;String, IBinder&amp;gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-1151" y="21054" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-23" value="&lt;table align=&quot;center&quot; border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 11px;&quot;&gt;&lt;tbody style=&quot;font-size: 11px;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;IInterface&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiHomeUIServerInterface&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;SystemServerInterface&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;....&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;AiFoodUIServerInterface&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiAlarmUIServerInterface&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiWeatherUIServerInterface&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-951" y="21108" width="198" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-24" value="AIDL" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-897.25" y="21056" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-999.2500000000005" y="21155" as="sourcePoint" />
+            <mxPoint x="-953.25" y="21155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-999.2500000000005" y="21193" as="sourcePoint" />
+            <mxPoint x="-953.25" y="21193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-998.2500000000005" y="21229" as="sourcePoint" />
+            <mxPoint x="-952.25" y="21229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-998.2500000000005" y="21248.999999999996" as="sourcePoint" />
+            <mxPoint x="-952.25" y="21248.999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-998.2500000000005" y="21278.999999999996" as="sourcePoint" />
+            <mxPoint x="-952.25" y="21278.999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-997.2500000000005" y="21323.999999999996" as="sourcePoint" />
+            <mxPoint x="-951.25" y="21323.999999999996" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
