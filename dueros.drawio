@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T01:58:15.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yf_AAge8NZ161k_bDPp-" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T02:24:34.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JcKgItGvmE3rdJ9m9634" version="20.6.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
     <mxGraphModel dx="4929" dy="1766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4786,8 +4786,8 @@
         <mxCell id="JnFRjyQvCBpynjYIMmCm-136" value="业务客户端Stub服务" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1298" y="22642.5" width="193" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JnFRjyQvCBpynjYIMmCm-138" value="注意，业务客户端AIDL，客户端才是服务提供方，实现了Stub；天琴服务端是Proxy，是服务使用方。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-1104.25" y="22645" width="209.25" height="67" as="geometry" />
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-138" value="注意，对于业务客户端接口，天琴客户端才是服务提供方，实现了Stub；天琴服务端是Proxy，是服务使用方。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="-1104.25" y="22645" width="246.25" height="76" as="geometry" />
         </mxCell>
         <mxCell id="JnFRjyQvCBpynjYIMmCm-139" value="业务Server接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1509" y="23081.5" width="128" height="45" as="geometry" />
