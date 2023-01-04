@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T01:57:06.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dLX_v7aL8IhM70EJjn5J" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T01:58:15.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yf_AAge8NZ161k_bDPp-" version="20.6.0" type="github">
   <diagram id="BqSba0YeBKtlmz0u1tCh" name="第 1 页">
-    <mxGraphModel dx="4553" dy="1595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4929" dy="1766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4819,7 +4819,7 @@
         <mxCell id="JnFRjyQvCBpynjYIMmCm-148" value="业务Server接口一般会有一个接口，&lt;span style=&quot;&quot;&gt;registerCallback或者registerView，&lt;/span&gt;&lt;br&gt;需要传递业务客户端接口过去，这样就实现了双向通信" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-1371" y="23059" width="300.63" height="95.5" as="geometry" />
         </mxCell>
-        <mxCell id="JnFRjyQvCBpynjYIMmCm-150" value="&lt;ol&gt;&lt;li&gt;天琴客户端通过bindService得到BinderPoolInterface的Proxy对象&lt;/li&gt;&lt;li&gt;天琴客户端通过BinderPoolInterface#acquireBinder(moduleName)得到业务Server端的Proxy对象&lt;/li&gt;&lt;li&gt;天琴客户端实现业务Client端的Stub接口，用来让天琴服务端调用，反馈业务执行结果&lt;/li&gt;&lt;li&gt;天琴客户端通过业务Server端#registerCallback/registerView，传入业务Client端的Stub对象，这样天琴服务端就持有了业务Client端的Proxy对象&lt;/li&gt;&lt;li&gt;至此，就实现了天琴服务端和客户端的双向通信：服务端-&amp;gt;客户端，通过业务Client接口；客户端-&amp;gt;服务端，通过业务Server接口&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;sketch=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="JnFRjyQvCBpynjYIMmCm-150" value="&lt;ol&gt;&lt;li&gt;天琴客户端通过bindService得到BinderPoolInterface的Proxy对象&lt;/li&gt;&lt;li&gt;天琴客户端通过BinderPoolInterface#acquireBinder(moduleName)得到业务Server端的Proxy对象&lt;/li&gt;&lt;li&gt;天琴客户端实现业务Client端的Stub接口，用来让天琴服务端调用，反馈业务执行结果&lt;/li&gt;&lt;li&gt;天琴客户端通过业务Server端#registerCallback/registerView，传入业务Client端的Stub对象，这样天琴服务端就持有了业务Client端的Proxy对象&lt;/li&gt;&lt;li&gt;至此，就实现了天琴服务端和客户端的双向通信：&lt;/li&gt;&lt;ol&gt;&lt;li&gt;服务端-&amp;gt;客户端，通过业务Client接口；&lt;/li&gt;&lt;li&gt;客户端-&amp;gt;服务端，通过业务Server接口&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;sketch=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1868" y="22823" width="475.62" height="215" as="geometry" />
         </mxCell>
         <mxCell id="JnFRjyQvCBpynjYIMmCm-152" value="业务Server接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
