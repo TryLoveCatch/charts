@@ -1,1 +1,441 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T08:34:36.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="Q0SKajyBRg9E5MBrjUR-" type="github"><diagram id="MMOlq0gXFnXNX2m5AvC_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-06T08:37:21.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="3o1YIurEeFx21Y6jxnj2" type="github">
+  <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
+    <mxGraphModel dx="3290" dy="-19756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rf_9JO-uLzfdIsNycriT-1" value="WrapperMain" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1765" y="20832" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-2" value="天琴服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1803" y="20675" width="113" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1645" y="20758" width="43" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-4" value="&lt;table align=&quot;center&quot; border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 11px;&quot;&gt;&lt;tbody style=&quot;font-size: 11px;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;Name&lt;/td&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;IBinder&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;ui.home&lt;/td&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 11px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;AiHomeServerImpl&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;system&lt;/td&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 11px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;AidlSystemServer&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;....&lt;/td&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;....&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;ui.food&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/td&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;AIFoodServerImpl&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;ui.alarm&lt;/td&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 11px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;AIAlarmServerImpl&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;ui.weather&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/td&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;&lt;pre style=&quot;font-family: Consolas, courier; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 11px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;AIWeatherServerImpl&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1177" y="20746" width="198" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-5" value="AiHomeProxyView" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1598" y="20762" width="159" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-6" value="&lt;div&gt;SystemThirdPartyAccessor&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1598" y="20798" width="161" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-7" value="AIFoodProxyView" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1597" y="20872" width="159" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-8" value="AIAlarmProxyView" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1598" y="20909" width="159" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-9" value="....." style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1597" y="20835" width="161" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-10" value="AIWeatherProxyView" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1596" y="20946" width="159" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fontFamily=Comic Sans MS;fontSize=18;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1435" y="20762" width="43" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-13" target="rf_9JO-uLzfdIsNycriT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-13" value="AccessorBinderPoolService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1394" y="20836" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-14" value="init" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-1561" y="20694" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-15" value="Map&amp;lt;String, IBinder&amp;gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-1131" y="20692" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-16" value="&lt;table align=&quot;center&quot; border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 11px;&quot;&gt;&lt;tbody style=&quot;font-size: 11px;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;IInterface&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiHomeUIServerInterface&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;SystemServerInterface&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;....&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;AiFoodUIServerInterface&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiAlarmUIServerInterface&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiWeatherUIServerInterface&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-931" y="20746" width="198" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-17" value="AIDL" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-877.25" y="20694" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-979.2500000000005" y="20793" as="sourcePoint" />
+            <mxPoint x="-933.25" y="20793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-979.2500000000005" y="20831" as="sourcePoint" />
+            <mxPoint x="-933.25" y="20831" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-978.2500000000005" y="20867" as="sourcePoint" />
+            <mxPoint x="-932.25" y="20867" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-978.2500000000005" y="20886.999999999996" as="sourcePoint" />
+            <mxPoint x="-932.25" y="20886.999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-978.2500000000005" y="20916.999999999996" as="sourcePoint" />
+            <mxPoint x="-932.25" y="20916.999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=11;sketch=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-977.2500000000005" y="20961.999999999996" as="sourcePoint" />
+            <mxPoint x="-931.25" y="20961.999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1492.5" y="21119" as="sourcePoint" />
+            <mxPoint x="-1488.5" y="21643" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-25" value="天琴服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1761.5" y="21122" width="113" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-26" value="天琴客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1348.13" y="21122" width="113" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-30" target="rf_9JO-uLzfdIsNycriT-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-30" target="rf_9JO-uLzfdIsNycriT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-29" value="RemoteCallbackList保存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-28">
+          <mxGeometry x="0.1875" y="-4" relative="1" as="geometry">
+            <mxPoint x="-41" y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-30" value="BinderPoolInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1558.5" y="21231" width="137.5" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-31" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;curved=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-33" target="rf_9JO-uLzfdIsNycriT-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-32" value="①、bindService()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-31">
+          <mxGeometry x="-0.3361" y="4" relative="1" as="geometry">
+            <mxPoint x="10" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-33" value="BinderPoolHolder" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1349.5" y="21163" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-36" target="rf_9JO-uLzfdIsNycriT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-35" value="BinderPool" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-34">
+          <mxGeometry x="-0.2166" y="18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-36" value="BinderPoolService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1761.5" y="21164" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-39" target="rf_9JO-uLzfdIsNycriT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-38" value="②、linkToDeath监听，&lt;br&gt;并调用registerRemoteReadyCallback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-37">
+          <mxGeometry x="0.4439" y="1" relative="1" as="geometry">
+            <mxPoint x="113" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-39" value="BinderPoolHolder" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1351.63" y="21295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-40" value="BinderPoolService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1765" y="21295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1382.0294117647059" y="21319.235294117647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-42" value="RemoteReadyListener" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-41">
+          <mxGeometry x="0.008" y="8" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-44" target="rf_9JO-uLzfdIsNycriT-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-44" value="RemoteReadyInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1561" y="21375" width="137.5" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-47" target="rf_9JO-uLzfdIsNycriT-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-46" value="③、语音准备完成回调" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-45">
+          <mxGeometry x="-0.1125" y="-9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-47" value="BinderPoolService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1765" y="21457" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-50" target="rf_9JO-uLzfdIsNycriT-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-49" value="4、login，传入name和token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-48">
+          <mxGeometry x="0.0011" y="-1" relative="1" as="geometry">
+            <mxPoint x="40" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-50" value="BinderPoolHolder" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1351.63" y="21457" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-53" target="rf_9JO-uLzfdIsNycriT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-52" value="保存name和token，并linkToDeath监听" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-51">
+          <mxGeometry x="0.0889" y="-3" relative="1" as="geometry">
+            <mxPoint x="-62" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-53" value="BinderPoolInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1561" y="21510" width="137.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1550.5" y="21781.000000000004" as="sourcePoint" />
+            <mxPoint x="-1543.3700000000003" y="22575.999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-55" value="天琴服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1819.5" y="21784" width="113" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-56" value="天琴客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1406.13" y="21784" width="113" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-58" target="rf_9JO-uLzfdIsNycriT-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-58" value="AiLitContext" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1415.37" y="21827" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-60" target="rf_9JO-uLzfdIsNycriT-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-60" value="AiLitBusiness" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1416.5" y="21865" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-64" target="rf_9JO-uLzfdIsNycriT-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-62" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-64" target="rf_9JO-uLzfdIsNycriT-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;①、初始化各个业务客户端模块&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-62">
+          <mxGeometry x="-0.2977" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-64" value="UISDKInitialManager" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1416.5" y="21903" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-65" value="&lt;table align=&quot;center&quot; border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 11px;&quot;&gt;&lt;tbody style=&quot;font-size: 11px;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;AbstractMaintainableBinderUser类&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiPhoneManager&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiSpeechManager&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;AiSystemControlManager&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiExternalTtsManager&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1244.62" y="21685" width="215" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-66" value="&lt;table align=&quot;center&quot; border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 11px;&quot;&gt;&lt;tbody style=&quot;font-size: 11px;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;AbstractMaintainableBinderUser类&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiSettingManager&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiAccountManager&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;AiMediaManager&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiBannerManager&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiNaviManager&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiFoodManager&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiHotelManager&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1021.6199999999999" y="21811" width="201.69" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-67" value="&lt;table align=&quot;center&quot; border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 11px;&quot;&gt;&lt;tbody style=&quot;font-size: 11px;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;AbstractMaintainableBinderUser类&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiHome&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiFood&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;font-size: 11px;&quot;&gt;AiHotel&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 11px;&quot;&gt;&lt;td style=&quot;&quot;&gt;&lt;pre style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;....&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, courier&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiAlarm&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiPhone&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;AiWeather&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;comic=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;align=center;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240.37" y="21928" width="213" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-72" target="rf_9JO-uLzfdIsNycriT-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-69" value="acquireBinder(moduleName)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-68">
+          <mxGeometry x="-0.0425" y="-5" relative="1" as="geometry">
+            <mxPoint x="45" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-72" target="rf_9JO-uLzfdIsNycriT-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-71" value="使用asInterface得到对应的业务接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-70">
+          <mxGeometry x="0.2841" y="10" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-72" value="AbstractMaintainableBinderUser" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1453" y="22049" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-75" target="rf_9JO-uLzfdIsNycriT-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-75" target="rf_9JO-uLzfdIsNycriT-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-75" value="BinderPoolInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1617.37" y="22105" width="137.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-78" target="rf_9JO-uLzfdIsNycriT-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-77" value="根据moduleName&lt;br&gt;得到对应的服务Binder" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-76">
+          <mxGeometry x="-0.295" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-78" value="BinderPoolService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1834.37" y="22105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-79" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-81" target="rf_9JO-uLzfdIsNycriT-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-80" value="②、registerCallback或者registerView传入客户端接口Binder" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-79">
+          <mxGeometry x="-0.0496" y="-8" relative="1" as="geometry">
+            <mxPoint x="128" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-81" value="AbstractMaintainableBinderUser&lt;br&gt;子类" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1456.37" y="22217" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-82" value="例如上面列举的三种子类" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="-1254.37" y="22203" width="166" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-83" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-85" target="rf_9JO-uLzfdIsNycriT-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-84" value="保存业务接口Proxy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-83">
+          <mxGeometry x="0.2724" y="-1" relative="1" as="geometry">
+            <mxPoint x="19" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-85" value="业务Server接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1615.87" y="22291" width="137.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-86" value="通过这一步，可以实现双向通信" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=0;size=13;position=0.24;position2=0;base=9;" vertex="1" parent="1">
+          <mxGeometry x="-1208.37" y="22318" width="168.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-87" value="业务Server端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1835.87" y="22294.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-90" target="rf_9JO-uLzfdIsNycriT-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-89" value="③、业务逻辑变动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-88">
+          <mxGeometry x="-0.3183" y="2" relative="1" as="geometry">
+            <mxPoint x="15" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-90" value="业务Server端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1837" y="22408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-91" value="触发" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-92" target="rf_9JO-uLzfdIsNycriT-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-92" value="业务客户端接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1617.37" y="22408" width="137.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-93" value="业务客户端Stub服务" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1422.37" y="22411.5" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-94" value="注意，对于业务客户端接口，天琴客户端才是服务提供方，实现了Stub；天琴服务端是Proxy，是服务使用方。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="-1228.62" y="22414" width="246.25" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-95" value="业务Server接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1462.42" y="22915.5" width="128" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-96" value="业务客户端接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1458.54" y="23021.5" width="124.75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-99" target="rf_9JO-uLzfdIsNycriT-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-99" target="rf_9JO-uLzfdIsNycriT-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-99" value="phone" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1821.42" y="22970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-101" target="rf_9JO-uLzfdIsNycriT-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-101" value="PhoneServerInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1652.5500000000002" y="22908" width="133.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-102" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-103" target="rf_9JO-uLzfdIsNycriT-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-103" value="PhoneCallbackInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1653.42" y="23012" width="133.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-104" value="业务Server接口一般会有一个接口，&lt;span style=&quot;&quot;&gt;registerCallback或者registerView，&lt;/span&gt;&lt;br&gt;需要传递业务客户端接口过去，这样就实现了双向通信" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1324.42" y="22893" width="300.63" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-105" value="&lt;ol&gt;&lt;li&gt;天琴客户端通过bindService得到BinderPoolInterface的Proxy对象&lt;/li&gt;&lt;li&gt;天琴客户端通过BinderPoolInterface#acquireBinder(moduleName)得到业务Server端的Proxy对象&lt;/li&gt;&lt;li&gt;天琴客户端实现业务Client端的Stub接口，用来让天琴服务端调用，反馈业务执行结果&lt;/li&gt;&lt;li&gt;天琴客户端通过业务Server端#registerCallback/registerView，传入业务Client端的Stub对象，这样天琴服务端就持有了业务Client端的Proxy对象&lt;/li&gt;&lt;li&gt;至此，就实现了天琴服务端和客户端的双向通信：&lt;/li&gt;&lt;ol&gt;&lt;li&gt;服务端-&amp;gt;客户端，通过业务Client接口；&lt;/li&gt;&lt;li&gt;客户端-&amp;gt;服务端，通过业务Server接口&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;sketch=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1821.42" y="22657" width="475.62" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-106" value="业务Server接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1468.43" y="23099.5" width="128" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-107" value="业务客户端接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1464.55" y="23205.5" width="124.75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-110" target="rf_9JO-uLzfdIsNycriT-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-109" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-110" target="rf_9JO-uLzfdIsNycriT-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-110" value="setting" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1827.43" y="23154" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-111" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-112" target="rf_9JO-uLzfdIsNycriT-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-112" value="SettingServerInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1658.5600000000002" y="23092" width="150.14" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-113" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-114" target="rf_9JO-uLzfdIsNycriT-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-114" value="SettingCallbackInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1659.43" y="23196" width="154.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-115" value="业务Server接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1476.8700000000001" y="23290.5" width="128" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-116" value="业务客户端接口" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1472.99" y="23396.5" width="124.75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-117" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-119" target="rf_9JO-uLzfdIsNycriT-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-118" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-119" target="rf_9JO-uLzfdIsNycriT-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-119" value="ui.weather" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1835.8700000000001" y="23345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-120" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-121" target="rf_9JO-uLzfdIsNycriT-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-121" value="AiWeatherUIServerInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1667" y="23283" width="170.58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-122" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=14;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-123" target="rf_9JO-uLzfdIsNycriT-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-123" value="AiWeatherUIClientInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1667.8700000000001" y="23387" width="172.45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-124" value="对于业务Server接口来说：&lt;br&gt;1、s端，也就是继承Stub，位于天琴服务端，在服务端初始化的时候保存到了Map里面。&lt;br&gt;2、c端，也就是接口对应的Proxy对象，位于天琴客户端，通过&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;BinderPoolInterface#&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;acquireBinder(moduleName)拿到name对应的业务Server的Proxy对象。&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1329.5500000000002" y="23042.63" width="356.63" height="158.75" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-125" value="对于业务客户端接口来说：&lt;br&gt;1、s端，也就是继承Stub，位于天琴客户端，通过&lt;font color=&quot;#f19c99&quot;&gt;业务Server端&lt;/font&gt;#registerCallback/registerView接口，传入业务客户端的Stub对象。&lt;br&gt;2、c端，也就是接口对应的Proxy对象，位于天琴服务端，通过第1步就拿到了Porxy对象。&lt;br&gt;3、至此，实现了业务接口的双向通信。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=14;flipH=0;direction=south;flipV=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1329.14" y="23343" width="350.81" height="141" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
