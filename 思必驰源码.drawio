@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T09:07:19.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="4k5jORdqvlzNGtbJpUYt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T09:07:50.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="oCHbmy2Py_BWAC9LP5ny" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3450" dy="-19756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
           <mxGeometry x="-1192" y="23811.5" width="213" height="207" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-177" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;①：天琴服务端初始化，保存各个业务Server端接口的Stub对象&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;②：天琴客户端初始化，会初始化各个业务Client端接口的Stub对象&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;③：天琴客户端bindService()，得到BinderPoolInterface的Proxy对象&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;④：天气客户端通过BinderPoolInterface，传递name，得到业务Server端接口的Proxy对象&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;⑤：天琴客户端通过业务Server端接口，传入业务Client端接口的Stub对象，这样天琴服务端得到了业务Client端接口的Proxy对象，可以实现业务的双端通信了。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;⑥：天琴服务端处理业务逻辑，把结果通过业务Client端接口，传递给天琴客户端&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-1902" y="23452" width="536" height="242" as="geometry" />
+          <mxGeometry x="-1898" y="23443" width="536" height="252" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-178" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;curved=1;endArrow=none;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-138" target="rf_9JO-uLzfdIsNycriT-135">
           <mxGeometry relative="1" as="geometry">
@@ -581,6 +581,9 @@
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-202" value="业务Client端Proxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1843.6100000000001" y="24162.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-204" value="AIDL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1622.17" y="23752" width="113" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
