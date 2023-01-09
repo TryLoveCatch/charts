@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T09:21:32.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="sjD6aXFB6e9Jd2ExEvOa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T09:23:53.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="L0-IbgRZU4t5imhuxNyg" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1335,8 +1335,8 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-405" value="&lt;b&gt;aiUiContract&lt;/b&gt;&lt;br&gt;PhoneUiCallbackInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1286.26" y="27982.960000000003" width="156.26" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-407" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;1、这个是可选的，不一定有&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、需要调用UISDKInitiaManager#init()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、目前针对电话，语音助手只会显示联系人结果页，用于用户说打电话给某某时，有多个结果的清空&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=1;size=47;position=0.39;base=21;position2=0.83;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-1007" y="27183" width="280" height="80" as="geometry" />
+        <mxCell id="rf_9JO-uLzfdIsNycriT-407" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;打电话这里什么也没有做。&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=1;flipV=0;size=47;position=0.39;base=21;position2=0.39;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1483.63" y="27714" width="132" height="37" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-409" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
