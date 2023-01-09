@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T09:13:20.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="9lltUglq0oRZ37x1q0Py" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T09:21:32.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="sjD6aXFB6e9Jd2ExEvOa" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1226,25 +1226,25 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-384" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1924.5" y="27214" as="sourcePoint" />
-            <mxPoint x="-1920" y="27710" as="targetPoint" />
+            <mxPoint x="-1914" y="28383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-385" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1665" y="27230" as="sourcePoint" />
-            <mxPoint x="-1661" y="27706" as="targetPoint" />
+            <mxPoint x="-1661" y="28390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-386" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1366.87" y="27222" as="sourcePoint" />
-            <mxPoint x="-1360" y="28012" as="targetPoint" />
+            <mxPoint x="-1357" y="28391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-387" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1062.5" y="27233" as="sourcePoint" />
-            <mxPoint x="-1063" y="28023" as="targetPoint" />
+            <mxPoint x="-1063" y="28403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-388" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.bluetooth;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Comic Sans MS;aspect=fixed;" vertex="1" parent="1">
@@ -1298,7 +1298,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-398" value="AidlPhoneServer" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1349.39" y="27497" width="179.13" height="31" as="geometry" />
+          <mxGeometry x="-1349.39" y="27542.45" width="179.13" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-399" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;outgoingCallRing()&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-400" target="rf_9JO-uLzfdIsNycriT-402">
           <mxGeometry relative="1" as="geometry" />
@@ -1312,31 +1312,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-400" value="PhoneAccessHandlerImpl" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1349.39" y="27583" width="179.13" height="31" as="geometry" />
+          <mxGeometry x="-1349.39" y="27628.45" width="179.13" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-402" value="CarDuiPhoneOutputer" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1349.39" y="27666" width="176.39" height="31" as="geometry" />
+          <mxGeometry x="-1349.39" y="27711.45" width="176.39" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-403" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1070.7399999999998" y="27929.52" as="targetPoint" />
-            <mxPoint x="-1355.37" y="27930.02" as="sourcePoint" />
+            <mxPoint x="-1066.9999999999998" y="27962.960000000003" as="targetPoint" />
+            <mxPoint x="-1351.6299999999999" y="27963.460000000003" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1207.37" y="27929.52" />
-              <mxPoint x="-1207.37" y="27929.52" />
+              <mxPoint x="-1203.6299999999999" y="27962.960000000003" />
+              <mxPoint x="-1203.6299999999999" y="27962.960000000003" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-404" value="显示来电确认页" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-403">
+        <mxCell id="rf_9JO-uLzfdIsNycriT-404" value="显示打电话" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-403">
           <mxGeometry x="-0.3306" relative="1" as="geometry">
             <mxPoint x="56" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-405" value="&lt;b&gt;aiUiContract&lt;/b&gt;&lt;br&gt;PhoneUiCallbackInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="27949.52" width="156.26" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-406" value="展示来电确认页" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1049" y="27518" width="87" height="31" as="geometry" />
+          <mxGeometry x="-1286.26" y="27982.960000000003" width="156.26" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-407" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;1、这个是可选的，不一定有&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、需要调用UISDKInitiaManager#init()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、目前针对电话，语音助手只会显示联系人结果页，用于用户说打电话给某某时，有多个结果的清空&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=1;size=47;position=0.39;base=21;position2=0.83;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1007" y="27183" width="280" height="80" as="geometry" />
@@ -1344,7 +1341,7 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-409" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2149.5" y="27318" as="sourcePoint" />
-            <mxPoint x="-2145" y="27720" as="targetPoint" />
+            <mxPoint x="-2139" y="28367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-413" value="outgoingCallRing()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-410" target="rf_9JO-uLzfdIsNycriT-411">
@@ -1365,10 +1362,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-416" value="PhoneViewRemoteImpl" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1348.24" y="27753" width="176.39" height="31" as="geometry" />
+          <mxGeometry x="-1348.24" y="27798.45" width="176.39" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-419" value="PhoneUiCallbackInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1346.65" y="27831" width="176.39" height="31" as="geometry" />
+        <mxCell id="rf_9JO-uLzfdIsNycriT-421" value="onDisplayOutgoingRing()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-419">
+          <mxGeometry x="0.0127" y="74" relative="1" as="geometry">
+            <mxPoint x="-1302.0588235294117" y="27956.273529411767" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-419" value="PhoneUiCallbackInterface.Proxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1346.65" y="27876.45" width="176.39" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-423" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-422" target="rf_9JO-uLzfdIsNycriT-398">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-422" value="PhoneServerInterface.Stub" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1349.24" y="27496" width="179.13" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-428" value="displayOutgoingRing()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-424" target="rf_9JO-uLzfdIsNycriT-427">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-424" value="AiPhoneUiCallBackImpl" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1049" y="28017.45" width="179.13" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-425" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-426" target="rf_9JO-uLzfdIsNycriT-424">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-426" value="PhoneUiCallbackInterface.Stub" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1048.85" y="27971" width="179.13" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-430" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-427" target="rf_9JO-uLzfdIsNycriT-429">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-427" value="AbsPhoneRemoteView" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1049" y="28102" width="179.13" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-429" value="用户实现类，展示打电话界面" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1049" y="28179" width="179.13" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
