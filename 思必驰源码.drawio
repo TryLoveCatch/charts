@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T05:23:55.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="GTiW4zevKeFUDcwwFoof" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T06:01:57.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="tSoxsaVgF54vXJIcYRHd" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1811,6 +1811,18 @@
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-584" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;根据联系人名字，查询数据库&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=34;position=0.25;base=11;position2=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1176.96" y="30196" width="128.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-587" value="feedbackCollections()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-585" target="rf_9JO-uLzfdIsNycriT-586">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-585" value="OnContactsQueryListenerImpl" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1323.42" y="30331" width="176.39" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-586" value="DuiInputer" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1323.42" y="30406" width="176.39" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-588" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;反馈联系人集合给思必驰云服务&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=34;position=0.25;base=11;position2=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1162.89" y="30362" width="128.5" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
