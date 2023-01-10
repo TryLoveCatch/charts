@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T08:43:37.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="ixVykVGbxRTYs4dzwr46" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T08:57:26.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="MVmzstvPULnMnBUxRUnh" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3573" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1569,17 +1569,6 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-476" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;这里也没做啥&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=34;position=0.25;base=11;position2=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1159.5" y="28775" width="128.5" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-477" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1894.7900000000002" y="31761" as="targetPoint" />
-            <mxPoint x="-2083.789999999999" y="31764" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-478" value="打电话" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-477">
-          <mxGeometry x="-0.3306" relative="1" as="geometry">
-            <mxPoint x="18" y="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-479" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-2149.47" y="29590" width="51" height="92" as="geometry" />
         </mxCell>
@@ -1598,73 +1587,35 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-484" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1900.97" y="29583" as="sourcePoint" />
-            <mxPoint x="-1882.47" y="31800" as="targetPoint" />
+            <mxPoint x="-1878" y="32326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-485" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1641.47" y="29599" as="sourcePoint" />
-            <mxPoint x="-1637.47" y="31804.176470588234" as="targetPoint" />
+            <mxPoint x="-1637" y="32314.352941176472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-486" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1343.34" y="29591" as="sourcePoint" />
-            <mxPoint x="-1323" y="32544.058823529413" as="targetPoint" />
+            <mxPoint x="-1323" y="32344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-487" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1038.97" y="29602" as="sourcePoint" />
-            <mxPoint x="-1035" y="32290" as="targetPoint" />
+            <mxPoint x="-1035" y="32345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-488" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.bluetooth;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Comic Sans MS;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-2019.7900000000002" y="31773" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-489" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1633.7900000000002" y="31815" as="targetPoint" />
-            <mxPoint x="-1882.2900000000002" y="31815.5" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-1734.2900000000002" y="31815" />
-              <mxPoint x="-1734.2900000000002" y="31815" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-490" value="打电话了" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-489">
-          <mxGeometry x="-0.3306" relative="1" as="geometry">
-            <mxPoint x="41" y="-5" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="-1794.0900000000001" y="31906" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-491" value="自定义AIDL" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1814.7900000000002" y="31827" width="123" height="31" as="geometry" />
+          <mxGeometry x="-1522.47" y="31823" width="123" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-492" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1333.7900000000002" y="31988.45" as="targetPoint" />
-            <mxPoint x="-1618.4200000000003" y="31988.95" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-1470.4200000000003" y="31988.45" />
-              <mxPoint x="-1470.4200000000003" y="31988.45" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-493" value="打电话" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-492">
-          <mxGeometry x="-0.3306" relative="1" as="geometry">
-            <mxPoint x="56" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-494" value="&lt;b&gt;aiContract&lt;/b&gt;&lt;br&gt;PhoneServerInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1530.2100000000003" y="32008.45" width="133.42" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-495" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-496">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1836.2605882352943" y="31814.882352941175" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-496" value="打电话View" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1879.7900000000002" y="31762" width="87" height="31" as="geometry" />
+        <mxCell id="rf_9JO-uLzfdIsNycriT-496" value="展示通话中View" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1871.75" y="31983" width="133.5" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-568" value="queryContacts()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-498">
           <mxGeometry relative="1" as="geometry">
@@ -1684,7 +1635,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-505" value="显示打电话" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-504">
+        <mxCell id="rf_9JO-uLzfdIsNycriT-505" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;显示拨号中&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-504">
           <mxGeometry x="-0.3306" relative="1" as="geometry">
             <mxPoint x="56" y="-3" as="offset" />
           </mxGeometry>
@@ -1695,22 +1646,8 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-508" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2125.97" y="29687" as="sourcePoint" />
-            <mxPoint x="-2105.47" y="31793" as="targetPoint" />
+            <mxPoint x="-2100" y="32296" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-509" value="outgoingCallRing()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-510" target="rf_9JO-uLzfdIsNycriT-512">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-510" value="AiPhoneManger" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1617.3500000000001" y="31820" width="123" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-511" value="outgoingCallRing()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-512">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1534.4370588235295" y="31990.764705882353" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-512" value="PhoneServerInterface.Proxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1617.3500000000001" y="31898" width="165.56" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-515" value="查询完成之后回调" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-516">
           <mxGeometry x="0.0128" y="44" relative="1" as="geometry">
@@ -1727,7 +1664,7 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-518" value="语音：打电话给张三" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1329.4" y="29604" width="179.13" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-519" value="displayOutgoingRing()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-520" target="rf_9JO-uLzfdIsNycriT-524">
+        <mxCell id="rf_9JO-uLzfdIsNycriT-519" value="displayDialing()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-520" target="rf_9JO-uLzfdIsNycriT-524">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-520" value="AiPhoneUiCallBackImpl" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
@@ -1745,7 +1682,7 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-524" value="AbsPhoneRemoteView" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1020.7900000000001" y="32153.55" width="179.13" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-525" value="用户实现类，展示打电话界面" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+        <mxCell id="rf_9JO-uLzfdIsNycriT-525" value="用户实现类，展示拨号中页面" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1020.7900000000001" y="32230.55" width="179.13" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-570" value="queryContacts()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-567" target="rf_9JO-uLzfdIsNycriT-569">
@@ -1920,6 +1857,21 @@
             <mxPoint x="-1226.37" y="31385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-654" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-616">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1310.6470588235293" y="32013.764705882353" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1336" y="31320" />
+              <mxPoint x="-1336" y="31694" />
+              <mxPoint x="-1311" y="31694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-655" value="onDisplayDialing()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-654">
+          <mxGeometry x="0.4429" y="-2" relative="1" as="geometry">
+            <mxPoint x="46" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-616" value="PhonePresenterImpl" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1316.3700000000001" y="31305" width="179.13" height="31" as="geometry" />
         </mxCell>
@@ -1947,7 +1899,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-630" value="通知客户端打电话" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-624">
+        <mxCell id="rf_9JO-uLzfdIsNycriT-630" value="通知Adapter拨号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-624">
           <mxGeometry x="0.1844" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1975,8 +1927,86 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-632" value="PhoneCallbackImpl" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1511.3600000000001" y="31592" width="165.56" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-637" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-634" target="rf_9JO-uLzfdIsNycriT-636">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-634" value="DialUpCallback" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1512.21" y="31670" width="165.56" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-640" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-636">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1385.9411764705883" y="31806.117647058825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-636" value="Adapter需要实现这个接口，处理自己的业务逻辑" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1509.97" y="31734" width="165.56" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-638" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1334.4199999999998" y="31803" as="targetPoint" />
+            <mxPoint x="-1619.05" y="31803.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1471.0500000000002" y="31803" />
+              <mxPoint x="-1471.0500000000002" y="31803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-639" value="通知车机执行拨号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-638">
+          <mxGeometry x="0.1844" y="2" relative="1" as="geometry">
+            <mxPoint x="-38" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-643" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=15;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1651.48" y="31893" as="targetPoint" />
+            <mxPoint x="-1866.48" y="31893" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1763.4800000000002" y="31893" />
+              <mxPoint x="-1763.4800000000002" y="31893" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-644" value="通知手机拨号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-643">
+          <mxGeometry x="0.1844" y="2" relative="1" as="geometry">
+            <mxPoint x="-38" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-650" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-645">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1931.8235294117646" y="31959.64705882353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-645" value="拨号" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2031.5" y="31891" width="133.5" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-647" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1884" y="31961" as="targetPoint" />
+            <mxPoint x="-2093" y="31958" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2004" y="31958" />
+              <mxPoint x="-2004" y="31961" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-648" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;通知拨号结果&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-647">
+          <mxGeometry x="-0.3306" relative="1" as="geometry">
+            <mxPoint x="18" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-649" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.bluetooth;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Comic Sans MS;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2020.5" y="31969" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-651" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;这里应该还会走一遍通话中的流程，这里就不再赘述了，跟手机打电话的流程差不多。&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=1;flipV=1;size=34;position=0.25;base=11;position2=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2012" y="32022.55" width="192.5" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-653" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-652">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1708.2941176470588" y="31890.823529411766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-652" value="展示拨号中View" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1775" y="31815" width="133.5" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
