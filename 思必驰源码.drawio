@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T09:23:53.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="L0-IbgRZU4t5imhuxNyg" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T01:43:49.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="r8lycs_f1r0nzGElioPJ" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1399,6 +1399,25 @@
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-429" value="用户实现类，展示打电话界面" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1049" y="28179" width="179.13" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-433" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1927" y="28261" as="targetPoint" />
+            <mxPoint x="-2136" y="28258" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2041" y="28258" />
+              <mxPoint x="-2041" y="28261" />
+              <mxPoint x="-1947" y="28261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-434" value="接听" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="rf_9JO-uLzfdIsNycriT-433">
+          <mxGeometry x="-0.3306" relative="1" as="geometry">
+            <mxPoint x="18" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-435" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.bluetooth;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontFamily=Comic Sans MS;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2063.5" y="28269" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
