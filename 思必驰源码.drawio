@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T01:46:45.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="wPuq_zaAPjhWpA0e_Gwd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T02:09:33.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="wO8iphQ1FZaVpheEYjzd" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="4150" dy="-19327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1885,9 +1885,6 @@
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-622" value="PhoneThirdPartyAccessor" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1316.3700000000001" y="31384" width="179.13" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-623" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;注册打断唤醒词，拨打、确定、取消等&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=34;position=0.25;base=11;position2=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1137.2399999999998" y="31339" width="230.37" height="57" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-624" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
