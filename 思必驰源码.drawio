@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T09:28:39.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="SSrNmc_PEZGN7ecFBtr9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T09:32:37.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="xQ6zZyCUJBfuGkKNLVkm" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="4035" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2079,7 +2079,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-704" value="特殊组件信息" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1961.0000000000002" y="33221" width="149.13" height="52" as="geometry" />
+          <mxGeometry x="-1967.4900000000002" y="32962" width="149.13" height="52" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-731" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rf_9JO-uLzfdIsNycriT-705" target="rf_9JO-uLzfdIsNycriT-729">
           <mxGeometry relative="1" as="geometry" />
@@ -2125,6 +2125,9 @@
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-736" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;规则：&lt;br&gt;1、if new为null或者0&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;1.1、packageName没有变化；false&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;1.2、否则，清空old；回调热词更新；packageName更新false&lt;br&gt;2、if old为null，packageName更新；true&lt;br&gt;3、if old和new的size不同，packageName更新；true&lt;br&gt;4、遍历old，if new里面没有对应key，packageName更新；true&lt;br&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=35;position=0.45;base=23;position2=0.6;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1656.74" y="32748" width="398.99" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_9JO-uLzfdIsNycriT-737" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;123&lt;br&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=35;position=0.45;base=23;position2=0.6;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1805.12" y="32916" width="398.99" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
