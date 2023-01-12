@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T09:28:00.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="E92Tvsk0RcodAinKfyR4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T09:28:39.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="SSrNmc_PEZGN7ecFBtr9" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="4035" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2123,7 +2123,7 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-730" value="注册命令监听" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1910.63" y="33727" width="149.13" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-736" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;规则：&lt;br&gt;1、if new为null或者0&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;1.1、packageName没有变化；false&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;1.2、否则，清空old；回调热词更新；packageName更新false&lt;br&gt;2、if old为null，packageName更新；true&lt;br&gt;3、if old和new的size不同，packageName更新；true&lt;br&gt;4、遍历old，new里面没有对应key，packageName更新；true&lt;br&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=35;position=0.45;base=23;position2=0.6;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="rf_9JO-uLzfdIsNycriT-736" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;规则：&lt;br&gt;1、if new为null或者0&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;1.1、packageName没有变化；false&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;1.2、否则，清空old；回调热词更新；packageName更新false&lt;br&gt;2、if old为null，packageName更新；true&lt;br&gt;3、if old和new的size不同，packageName更新；true&lt;br&gt;4、遍历old，if new里面没有对应key，packageName更新；true&lt;br&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=35;position=0.45;base=23;position2=0.6;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1656.74" y="32748" width="398.99" height="137" as="geometry" />
         </mxCell>
       </root>
