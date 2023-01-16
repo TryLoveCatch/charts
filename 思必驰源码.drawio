@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T08:04:27.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xQZptZicK-WCTzG0Z_TY" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T09:12:48.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yC1xit107XPyAKskP-Vg" version="20.8.4" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2054,8 +2054,8 @@
         <mxCell id="rf_9JO-uLzfdIsNycriT-699" value="遍历节点，得到节点文本或者描述" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-1761.9800000000002" y="32793" width="149.13" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-700" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;这里会根据accessibility_config.json里面配置的packageContentType来进行区分，是使用文本还是描述。&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=east;flipH=1;flipV=0;size=30;position=0.65;base=19;position2=0.54;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-1830.72" y="32696" width="210.58" height="91" as="geometry" />
+        <mxCell id="rf_9JO-uLzfdIsNycriT-700" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;这里会根据accessibility_config.json里面配置的packageContentType来进行区分，是使用文本还是描述。这个时候，不可见的控件会break&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=east;flipH=1;flipV=0;size=30;position=0.65;base=19;position2=0.54;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-1830.72" y="32684" width="210.58" height="103" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-708" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="rf_9JO-uLzfdIsNycriT-701" target="rf_9JO-uLzfdIsNycriT-702" edge="1">
           <mxGeometry relative="1" as="geometry" />
