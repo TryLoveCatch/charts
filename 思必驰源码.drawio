@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T08:59:27.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Iy2dmBw50WUnh5D2acaz" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T09:14:34.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KaGPIhO9YfjsM0g3ZyP2" version="20.8.4" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2169,8 +2169,11 @@
         <mxCell id="-wjXUVXwmcAACowxY425-12" value="DuiDMWkupRetCallback&lt;br&gt;dmWkupRetCallback" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Comic Sans MS;arcSize=28;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-1814" y="33734" width="149.13" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="-wjXUVXwmcAACowxY425-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="-wjXUVXwmcAACowxY425-14" target="-wjXUVXwmcAACowxY425-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-14" value="onMessage()" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1949.1299999999999" y="33847" width="149.13" height="52" as="geometry" />
+          <mxGeometry x="-2011.9999999999998" y="33857" width="149.13" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="-wjXUVXwmcAACowxY425-15" target="-wjXUVXwmcAACowxY425-22">
           <mxGeometry relative="1" as="geometry" />
@@ -2180,10 +2183,8 @@
             <mxPoint x="17" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-wjXUVXwmcAACowxY425-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" target="-wjXUVXwmcAACowxY425-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1517" y="33917" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="-wjXUVXwmcAACowxY425-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="-wjXUVXwmcAACowxY425-15" target="-wjXUVXwmcAACowxY425-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-15" value="onCall()" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1605.5" y="33847" width="149.13" height="52" as="geometry" />
@@ -2209,25 +2210,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-28" value="SmartAppPresenter&lt;br&gt;clickText(String textDescribe)" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1636.9199999999998" y="34027" width="234.71" height="52" as="geometry" />
+          <mxGeometry x="-1847.36" y="34189" width="234.71" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="-wjXUVXwmcAACowxY425-30" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;之前在注册的时候，有保存过List&amp;lt;TextBean&amp;gt;，这里又对集合进行遍历，拿到文本一致的TextBean&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=1;flipV=1;size=57;position=0.24;base=30;position2=0;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1776" y="33960" width="198.36" height="63" as="geometry" />
+        <mxCell id="-wjXUVXwmcAACowxY425-30" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;之前在注册的时候，有保存过List&amp;lt;TextBean&amp;gt;，这里又对集合进行遍历，拿到文本一致的TextBean&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=1;flipV=1;size=57;position=0.24;base=30;position2=0.43;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2045.72" y="34178" width="198.36" height="63" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="-wjXUVXwmcAACowxY425-34" target="-wjXUVXwmcAACowxY425-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-34" value="AccessibilityActionUtils&lt;br&gt;clickScreen(int clickType, int x, int y)" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1636.9199999999998" y="34183" width="234.71" height="52" as="geometry" />
+          <mxGeometry x="-1847.36" y="34345" width="234.71" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-36" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div&gt;对clickType进行了处理&lt;/div&gt;&lt;div&gt;- 0：点击&lt;/div&gt;&lt;div&gt;- 1：双击&lt;/div&gt;&lt;div&gt;- 2：长按&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=north;flipH=1;flipV=1;size=62;position=0.51;base=21;position2=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-1461" y="34113" width="209" height="70" as="geometry" />
+          <mxGeometry x="-1671.44" y="34275" width="209" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-37" value="AccessibilityActionService&lt;br&gt;clickXY(int x, int y, int duration)" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1636.9199999999998" y="34315" width="234.71" height="52" as="geometry" />
+          <mxGeometry x="-1847.36" y="34477" width="234.71" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-39" value="&lt;div style=&quot;&quot;&gt;使用dispatchGesture来完成对应的手势操作&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=north;flipH=1;flipV=1;size=50;position=0.28;base=21;position2=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1456.3700000000001" y="34249" width="323.13" height="61" as="geometry" />
+          <mxGeometry x="-1666.8100000000002" y="34411" width="323.13" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjXUVXwmcAACowxY425-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="-wjXUVXwmcAACowxY425-40" target="-wjXUVXwmcAACowxY425-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjXUVXwmcAACowxY425-40" value="LocalSmartAppProcessImpl&lt;br&gt;matchTextFromAsr(String text)" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-2122" y="33968" width="256" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjXUVXwmcAACowxY425-43" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;这里会把热词放到json里面的text字段中去&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=1;flipV=1;size=57;position=0.24;base=30;position2=0;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2088" y="33754" width="198.36" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjXUVXwmcAACowxY425-44" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;1、从识别文本中拿到热词&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2、进行一些处理，具体逻辑其实不是很明白&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=1;flipV=1;size=57;position=0.24;base=30;position2=0;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2272" y="33902" width="198.36" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
