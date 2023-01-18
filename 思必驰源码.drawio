@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T09:14:34.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KaGPIhO9YfjsM0g3ZyP2" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T02:10:34.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dY03IO3Q9QSxnig8mg_C" version="20.8.4" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2142,7 +2142,7 @@
           <mxGeometry x="-2056" y="32473" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-9" value="热词响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2149.47" y="33597" width="169" height="30" as="geometry" />
+          <mxGeometry x="-2098.47" y="33607" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="-wjXUVXwmcAACowxY425-11" target="-wjXUVXwmcAACowxY425-12">
           <mxGeometry relative="1" as="geometry" />
@@ -2241,6 +2241,9 @@
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-44" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;1、从识别文本中拿到热词&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2、进行一些处理，具体逻辑其实不是很明白&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=1;flipV=1;size=57;position=0.24;base=30;position2=0;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2272" y="33902" width="198.36" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="-wjXUVXwmcAACowxY425-48" value="SmartAppOutputer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1768" y="33868" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
