@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T05:26:13.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hkehSzGlyonGs7aRFdBc" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T06:29:28.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cuQ-GK1m3SpdUJBR99jp" version="20.8.8" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
-    <mxGraphModel dx="3900" dy="-19480" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4167" dy="-19602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2189,8 +2189,8 @@
         <mxCell id="-wjXUVXwmcAACowxY425-15" value="onCall()" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" parent="1" vertex="1">
           <mxGeometry x="-1605.5" y="33847" width="149.13" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="-wjXUVXwmcAACowxY425-21" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1、该Action是否通过接口方式注册热词&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2、判断是否是全局免唤醒词，例如向上滑、返回等等&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3、else 辅助功能方式注册的热词了&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=east;flipH=1;flipV=0;size=40;position=0.63;base=70;position2=0.94;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1513.17" y="33734" width="290.17" height="107.56" as="geometry" />
+        <mxCell id="-wjXUVXwmcAACowxY425-21" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1、该Action是否通过接口方式注册热词，所以接口方式优先级最高，也可以理解，毕竟是用户实用代码设置的，应该是第一优先级&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2、判断是否是全局免唤醒词，例如向上滑、返回等等&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3、else 辅助功能方式注册的热词了&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=12;sketch=1;curveFitting=1;jiggle=2;direction=east;flipH=1;flipV=0;size=40;position=0.63;base=70;position2=0.94;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1513.17" y="33723" width="290.17" height="118.56" as="geometry" />
         </mxCell>
         <mxCell id="-wjXUVXwmcAACowxY425-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" parent="1" source="-wjXUVXwmcAACowxY425-22" target="-wjXUVXwmcAACowxY425-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
