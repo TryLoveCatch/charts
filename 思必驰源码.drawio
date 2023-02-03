@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T08:23:57.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="X-lbjdPcBRKwU4dMkbHb" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T08:26:07.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ExQ4_tv0Y3BOjzrO7efo" version="20.8.8" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2567,7 +2567,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VIHVPPjnr8AGasshYjkv-80" value="UISDKInitialManager" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1987" y="37099" width="117.02" height="40" as="geometry" />
+          <mxGeometry x="-1981.01" y="37099" width="126.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VIHVPPjnr8AGasshYjkv-96" value="init" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-82" target="VIHVPPjnr8AGasshYjkv-93">
           <mxGeometry relative="1" as="geometry" />
@@ -2599,10 +2599,15 @@
         <mxCell id="VIHVPPjnr8AGasshYjkv-92" value="把UI Client端接口传给业务Server端" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-1481.16" y="37228" width="109.16" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-94" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-89" target="VIHVPPjnr8AGasshYjkv-93">
+        <mxCell id="VIHVPPjnr8AGasshYjkv-94" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-89">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1383.915" y="37089" as="sourcePoint" />
-            <mxPoint x="-1697.04" y="37170" as="targetPoint" />
+            <mxPoint x="-1577" y="37204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1384" y="37194" />
+              <mxPoint x="-1533" y="37194" />
+              <mxPoint x="-1533" y="37204" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VIHVPPjnr8AGasshYjkv-95" value="acquireBinder" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="VIHVPPjnr8AGasshYjkv-94">
