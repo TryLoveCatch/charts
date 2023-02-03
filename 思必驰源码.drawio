@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T02:57:58.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RFfDdPaOCAf0VhOTvJbE" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T03:06:06.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4U3SeqFPEdPEBBYpsIU2" version="20.8.8" type="github">
   <diagram id="tqOxDU6sjfhV4BSjFbmr" name="第 1 页">
     <mxGraphModel dx="3635" dy="-19642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1907,7 +1907,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf_9JO-uLzfdIsNycriT-626" value="&lt;b&gt;aiContract&lt;/b&gt;&lt;br&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;YeqqdPtl9o32vQxealvc4kyBnbf&quot;&gt;&lt;div class=&quot;old-record-id-C6osdWSgsoceA0xiM7sc4QIsn8d&quot; style=&quot;&quot;&gt;PhoneCallbackInterface&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;YeqqdPtl9o32vQxealvc4kyBnbf&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;PhoneCallbackInterface&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+m&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7103698990923038724&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:232,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:232,&amp;quot;end&amp;quot;:254},&amp;quot;recordId&amp;quot;:&amp;quot;C6osdWSgsoceA0xiM7sc4QIsn8d&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" parent="1" vertex="1">
+        <mxCell id="rf_9JO-uLzfdIsNycriT-626" value="&lt;b&gt;aiContract&lt;/b&gt;&lt;br&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;YeqqdPtl9o32vQxealvc4kyBnbf&quot;&gt;&lt;div class=&quot;old-record-id-C6osdWSgsoceA0xiM7sc4QIsn8d&quot; style=&quot;&quot;&gt;PhoneCallbackInterface&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;YeqqdPtl9o32vQxealvc4kyBnbf&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;PhoneCallbackInterface&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+m&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7103698990923038724&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:232,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:232,&amp;quot;end&amp;quot;:254},&amp;quot;recordId&amp;quot;:&amp;quot;C6osdWSgsoceA0xiM7sc4QIsn8d&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;arcSize=28;" parent="1" vertex="1">
           <mxGeometry x="-1236.2900000000002" y="31558" width="133.42" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rf_9JO-uLzfdIsNycriT-629" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="rf_9JO-uLzfdIsNycriT-627" edge="1">
@@ -2273,7 +2273,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-wjXUVXwmcAACowxY425-65" value="打电话" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" parent="-wjXUVXwmcAACowxY425-64" vertex="1" connectable="0">
+        <mxCell id="-wjXUVXwmcAACowxY425-65" value="传递热词" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" parent="-wjXUVXwmcAACowxY425-64" vertex="1" connectable="0">
           <mxGeometry x="-0.3306" relative="1" as="geometry">
             <mxPoint x="56" y="-3" as="offset" />
           </mxGeometry>
@@ -2363,84 +2363,76 @@
             <mxPoint x="-1647.61" y="36279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
+        <mxCell id="VIHVPPjnr8AGasshYjkv-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;fontSize=15;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1657.6899999999998" y="35838.45" as="targetPoint" />
-            <mxPoint x="-1942.3200000000002" y="35838.95" as="sourcePoint" />
+            <mxPoint x="-1423" y="35953" as="targetPoint" />
+            <mxPoint x="-1644.14" y="35953.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1794.32" y="35838.45" />
-              <mxPoint x="-1794.32" y="35838.45" />
+              <mxPoint x="-1496.1399999999999" y="35953" />
+              <mxPoint x="-1496.1399999999999" y="35953" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-14" value="打电话" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="VIHVPPjnr8AGasshYjkv-13">
-          <mxGeometry x="-0.3306" relative="1" as="geometry">
-            <mxPoint x="56" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-15" value="&lt;b&gt;aiContract&lt;/b&gt;&lt;br&gt;SmartAppServerInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1883.61" y="35858.45" width="162.92" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;sendMsgToSpeech()&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-17" target="VIHVPPjnr8AGasshYjkv-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-17" value="AidlSmartAppServer" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1635.08" y="35889.45" width="179.13" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;smartAppAccessHandler()&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-19" target="VIHVPPjnr8AGasshYjkv-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-19" value="LocalSmartAppProcessImpl" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1635.08" y="35975.45" width="179.13" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-20" value="updateHotwordsSegment()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-21" target="VIHVPPjnr8AGasshYjkv-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-21" value="HotwordProxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1635.08" y="36058.45" width="176.39" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;打电话这里什么也没有做。&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=1;flipV=0;size=47;position=0.39;base=21;position2=0.39;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1769.32" y="36061" width="132" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-23" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;updateHotWords()&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1876.61" y="35713" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-24" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;AiSmartAppManager&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1939.4099999999999" y="35590" width="123" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-25" value="subscribeHotwordAction()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-26" target="VIHVPPjnr8AGasshYjkv-27">
-          <mxGeometry x="0.0312" relative="1" as="geometry">
+        <mxCell id="VIHVPPjnr8AGasshYjkv-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;传递action+data&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="VIHVPPjnr8AGasshYjkv-13">
+          <mxGeometry x="0.1246" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-26" value="HotwordProxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1633.9299999999998" y="36145.45" width="176.39" height="31" as="geometry" />
+        <mxCell id="VIHVPPjnr8AGasshYjkv-15" value="&lt;b&gt;aiContract&lt;/b&gt;&lt;br&gt;SmartAppCallbackInterface" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1622.1699999999998" y="35974" width="162.92" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-27" value="SmartAppOutputer" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1632.34" y="36223.45" width="176.39" height="31" as="geometry" />
+        <mxCell id="VIHVPPjnr8AGasshYjkv-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;onCallHotword()&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-17" target="VIHVPPjnr8AGasshYjkv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VIHVPPjnr8AGasshYjkv-17" value="SmartAppPresenter" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1640.1299999999999" y="35672" width="179.13" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="VIHVPPjnr8AGasshYjkv-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;onHotWordCall()&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-19" target="VIHVPPjnr8AGasshYjkv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VIHVPPjnr8AGasshYjkv-19" value="SmartAppThirdPartyAccessor" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1641.57" y="35751" width="179.13" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="VIHVPPjnr8AGasshYjkv-20" value="onMessage()" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1550" y="35943" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VIHVPPjnr8AGasshYjkv-21" value="SmartAppCallbackInterface.Proxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1642.99" y="35836" width="185.08" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="VIHVPPjnr8AGasshYjkv-23" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;onMessage()&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1725" y="36100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VIHVPPjnr8AGasshYjkv-24" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;SmartAppCallbackImpl&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1787.87" y="35995" width="123" height="31" as="geometry" />
         </mxCell>
         <mxCell id="VIHVPPjnr8AGasshYjkv-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-29" target="VIHVPPjnr8AGasshYjkv-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-29" value="SmartAppServerInterface.Stub" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1634.9299999999998" y="35843" width="179.13" height="31" as="geometry" />
+        <mxCell id="VIHVPPjnr8AGasshYjkv-34" value="onCall()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="VIHVPPjnr8AGasshYjkv-28">
+          <mxGeometry x="-0.7605" relative="1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VIHVPPjnr8AGasshYjkv-29" value="SmartAppOutputer" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1640.1299999999999" y="35590" width="179.13" height="31" as="geometry" />
         </mxCell>
         <mxCell id="VIHVPPjnr8AGasshYjkv-30" value="热词响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2169.3699999999994" y="35464" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-31" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot;&gt;sendMsgToSpeech()&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=24;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-32">
-          <mxGeometry x="-0.2372" y="48" relative="1" as="geometry">
-            <mxPoint x="-1890.7276470588233" y="35841.705882352944" as="targetPoint" />
-            <mxPoint as="offset" />
+        <mxCell id="VIHVPPjnr8AGasshYjkv-36" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;onTriggered()&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.638;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VIHVPPjnr8AGasshYjkv-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1724.06" y="36208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-32" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;SmartAppServerInterface.Proxy&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1940.03" y="35711" width="207.5" height="31" as="geometry" />
+        <mxCell id="VIHVPPjnr8AGasshYjkv-37" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;OnWakeUpTriggeredListener&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1831" y="36103" width="167.07" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="VIHVPPjnr8AGasshYjkv-33" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;这里会注册语音监听&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=0;size=34;position=0.25;base=11;position2=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1443.86" y="36198" width="128.5" height="37" as="geometry" />
+        <mxCell id="VIHVPPjnr8AGasshYjkv-38" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;CtlCd9akJoQLvZxJ6qicZoycnGc&quot;&gt;&lt;div class=&quot;old-record-id-H8Yodeskgok2gexA7nlcygrCn7f&quot; style=&quot;&quot;&gt;业务实现该接口，根据action进行对应的UI处理，action也是业务注册的时候自己设置的&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-1792.44" y="36211" width="123" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
