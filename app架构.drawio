@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T03:16:53.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Pj6xVowMXW3yuIETt15y" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T05:43:36.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="k-F5uYfZNQNzRy3IDWai" version="20.8.16" type="github">
   <diagram id="ZsKYVKCZsxW13D_Cj-jd" name="第 1 页">
     <mxGraphModel dx="1450" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,12 @@
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-15" value="ArticleApiModel——&amp;gt;Article——&amp;gt;ArticleUiState&lt;br&gt;每一层对应的Model都不太一样&lt;br&gt;1、ArticleApiModel，DataSource返回的数据，原始数据&lt;br&gt;2、Article，上一步返回的数据，可能包含很多无关数据，分离数据，只返回上层关心的数据&lt;br&gt;3、ArticleUiState，UI = UI Element + UI State，element就是我们在界面绘制的元素，state就是这些元素的状态，比如TextView的text是什么，是否登录等等" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;direction=north;flipV=1;align=left;position2=0.71;" vertex="1" parent="1">
           <mxGeometry x="-318" y="1508" width="336.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yp6bAI607DKWpd9Y9Nxo-20" value="命名规则" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-259" y="1948" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yp6bAI607DKWpd9Y9Nxo-21" value="1、数据类型 + 来源类型 + DataSource&lt;br&gt;	&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;例如，ArticleRemoteDataSource、ArticleLocalDataSource、ArticleMockDataSource，如&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;果Remote比较多，也可以细分，ArticleNetworkDataSource、ArticleIpcDataSource&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2、数据类型 + Repository&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;例如，ArticleRepository&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3、功能 + UiState&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;例如，用于显示新闻的屏幕的状态可以称为 NewsUiState，新闻报道列表中的新闻报道的状&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;态可以为 NewsItemUiState&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;4、功能 + ViewModel&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;例如，展示新闻的界面NewsViewModel&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-221" y="1978" width="673" height="188" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
