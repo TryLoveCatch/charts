@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T02:45:53.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="o_ga0t8PY8cq5QgCoJ7j" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T03:16:53.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Pj6xVowMXW3yuIETt15y" version="20.8.16" type="github">
   <diagram id="ZsKYVKCZsxW13D_Cj-jd" name="第 1 页">
     <mxGraphModel dx="1450" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,31 +77,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-1" value="&lt;font&gt;IArticleDataSource&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillStyle=solid;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="1754" width="120" height="38" as="geometry" />
+          <mxGeometry x="4" y="1778" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-2" value="&lt;font&gt;ILoginDataSource&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillStyle=solid;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="562" y="1740" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-3" value="&lt;font&gt;ArticleNetworkDataSource&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillStyle=solid;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1836" width="175" height="38" as="geometry" />
+          <mxGeometry x="-131" y="1860" width="175" height="38" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-4" value="&lt;font&gt;ArticleTestDataSource&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillStyle=solid;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="46" y="1836" width="143" height="38" as="geometry" />
+          <mxGeometry x="85" y="1860" width="143" height="38" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-10" value="Article" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="yp6bAI607DKWpd9Y9Nxo-5" target="yp6bAI607DKWpd9Y9Nxo-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-5" value="&lt;font&gt;ArticleRepository&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillStyle=solid;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="1674" width="120" height="38" as="geometry" />
+          <mxGeometry x="4" y="1698" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="yp6bAI607DKWpd9Y9Nxo-14" value="ArticleUiState" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="yp6bAI607DKWpd9Y9Nxo-9" target="yp6bAI607DKWpd9Y9Nxo-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-9" value="&lt;font&gt;ArticleViewModel&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillStyle=solid;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-33" y="1598" width="120" height="38" as="geometry" />
+          <mxGeometry x="6" y="1622" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-11" value="1、在VM里面会创建Repository，并且会传入需要的DataSource，也就是说这里会决定使用什么DataSource，测试数据还是网路数据&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、协程在这里创建&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;flipV=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="98" y="1572" width="294" height="84" as="geometry" />
+          <mxGeometry x="137" y="1596" width="294" height="84" as="geometry" />
         </mxCell>
         <mxCell id="yp6bAI607DKWpd9Y9Nxo-12" value="1、构造函数至少需要CoroutineDispatcher和IArticleDataSource&lt;br&gt;2、Repository是有可能互相依赖的，比如说依赖于LoginRepository，所以构造函数可能会需要其他的Repository。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=north;flipV=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-316" y="1654" width="267" height="71.5" as="geometry" />
+          <mxGeometry x="-277" y="1678" width="267" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yp6bAI607DKWpd9Y9Nxo-13" value="&lt;font&gt;ArticleFragment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillStyle=solid;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="6" y="1540" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="yp6bAI607DKWpd9Y9Nxo-15" value="ArticleApiModel——&amp;gt;Article——&amp;gt;ArticleUiState&lt;br&gt;每一层对应的Model都不太一样&lt;br&gt;1、ArticleApiModel，DataSource返回的数据，原始数据&lt;br&gt;2、Article，上一步返回的数据，可能包含很多无关数据，分离数据，只返回上层关心的数据&lt;br&gt;3、ArticleUiState，UI = UI Element + UI State，element就是我们在界面绘制的元素，state就是这些元素的状态，比如TextView的text是什么，是否登录等等" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;direction=north;flipV=1;align=left;position2=0.71;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="1508" width="336.5" height="132.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
