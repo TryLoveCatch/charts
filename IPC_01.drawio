@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T01:58:01.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IM84I9uGwt5-3SBa2aU7" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-11T02:01:54.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nBlNoDdFGpU8H6BUgFFq" version="20.8.16" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1050" dy="1044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,11 +457,14 @@
         <mxCell id="MS5o9K_yfGOzdhD67yCV-37" value="TotalService" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="153" y="2619" width="425" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="MS5o9K_yfGOzdhD67yCV-38" value="Binder管理" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=12;direction=south;flipH=0;flipV=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="MS5o9K_yfGOzdhD67yCV-38" value="Binder管理，提供set/get，Map存起来。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=12;direction=south;flipH=0;flipV=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;align=left;" vertex="1" parent="1">
           <mxGeometry x="581" y="2686" width="152" height="53" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-39" value="1、在组件化里面，这里会拆分成两部分，一个是module，一个是对外接口module。兄弟工程只需要依赖对外接口module。&lt;br&gt;2、但是我们这里需要对外提供Binder，所有既然已经有Binder，同进程调用其实不涉及IPC过程。但是如果有额外的对外接口，又不再Binder的接口里面，这个还需要额外处理。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=12;direction=south;flipH=0;flipV=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;align=left;" vertex="1" parent="1">
           <mxGeometry x="576" y="2754" width="277.5" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="MS5o9K_yfGOzdhD67yCV-40" value="对外提供唯一的Service，根据Key提供对应的Binder给客户端，但是对应的AIDL文件，客户端也需要依赖，这个怎么处理呢？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=12;direction=south;flipH=0;flipV=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;align=left;" vertex="1" parent="1">
+          <mxGeometry x="581" y="2606" width="228" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
