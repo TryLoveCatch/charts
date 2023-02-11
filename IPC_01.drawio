@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T05:54:29.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RC_6Ri5A4lwdw01VZP51" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-11T05:55:55.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fUiWoc5i5-iQw3mC-4Iy" version="20.8.16" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1050" dy="1044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,12 +466,6 @@
         <mxCell id="MS5o9K_yfGOzdhD67yCV-40" value="对外提供唯一的Service，根据Key提供对应的Binder给客户端，但是对应的AIDL文件，客户端也需要依赖，这个怎么处理呢？一个服务一个JAR包？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fontFamily=Comic Sans MS;fontSize=12;direction=south;flipH=0;flipV=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;align=left;" vertex="1" parent="1">
           <mxGeometry x="581" y="2599" width="228" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="MS5o9K_yfGOzdhD67yCV-41" value="壳工程" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="135" y="3041" width="112" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="MS5o9K_yfGOzdhD67yCV-42" value="User" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="132" y="3189" width="112" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-46" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MS5o9K_yfGOzdhD67yCV-43" target="MS5o9K_yfGOzdhD67yCV-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -485,13 +479,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-43" value="MQTT" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="85.5" y="3550" width="112" height="67" as="geometry" />
+          <mxGeometry x="128.5" y="3258" width="112" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="MS5o9K_yfGOzdhD67yCV-44" target="MS5o9K_yfGOzdhD67yCV-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-44" value="业务/功能逻辑" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="305.5" y="3425" width="112" height="67" as="geometry" />
+          <mxGeometry x="426" y="3055" width="112" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="MS5o9K_yfGOzdhD67yCV-45" target="MS5o9K_yfGOzdhD67yCV-52">
           <mxGeometry relative="1" as="geometry" />
@@ -500,7 +494,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-45" value="跨进程接口" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="305.5" y="3552" width="112" height="67" as="geometry" />
+          <mxGeometry x="426" y="3182" width="112" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=12;" edge="1" parent="1" source="MS5o9K_yfGOzdhD67yCV-48" target="MS5o9K_yfGOzdhD67yCV-58">
           <mxGeometry relative="1" as="geometry" />
@@ -509,25 +503,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-48" value="同进程接口" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="307" y="3713" width="112" height="67" as="geometry" />
+          <mxGeometry x="427.5" y="3343" width="112" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-50" value="APP测试工程" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="305.75" y="3859" width="112" height="67" as="geometry" />
+          <mxGeometry x="426.25" y="3489" width="112" height="67" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-52" value="AIDL Jar" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="3515" width="95" height="54" as="geometry" />
+          <mxGeometry x="629" y="3145" width="95" height="54" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-53" value="Stub实现类" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="3592" width="95" height="56" as="geometry" />
+          <mxGeometry x="629" y="3222" width="95" height="56" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-56" value="可以依赖其他工程的同进程接口" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="498" y="3431.5" width="95" height="54" as="geometry" />
+          <mxGeometry x="618.5" y="3061.5" width="95" height="54" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-58" value="接口实现" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="3780" width="95" height="56" as="geometry" />
+          <mxGeometry x="629" y="3410" width="95" height="56" as="geometry" />
         </mxCell>
         <mxCell id="MS5o9K_yfGOzdhD67yCV-60" value="Jar或者maven" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=solid;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="3680" width="95" height="56" as="geometry" />
+          <mxGeometry x="629" y="3310" width="95" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
