@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T06:49:44.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AGmWXdqiMKdQ0_V1wEyZ" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T06:52:02.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8yIbWw1e87QVZfY7KHDV" version="20.8.20" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1567" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -756,8 +756,8 @@
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-63" value="1、ServerName&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;确定调用哪个服务&lt;br&gt;2、PackageName&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;确定使用哪个结果callback&lt;br&gt;3、callId&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;调用端唯一ID，确定是哪次调用" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;position2=0.83;align=left;" vertex="1" parent="1">
           <mxGeometry x="138" y="9082" width="200" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-64" value="ServerA和ServerB也可以是一个APP。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fillColor=#d5e8d4;strokeColor=#82b366;direction=east;flipH=1;position2=0.34;" vertex="1" parent="1">
-          <mxGeometry x="-166" y="6463" width="172" height="78" as="geometry" />
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-64" value="ServerA和ServerB也可以是一个APP。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fillColor=#f5f5f5;strokeColor=#666666;direction=south;flipH=1;position2=0.34;flipV=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="6562" width="176" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-77" target="DzBO7t1ZIwuDMpc-xEhf-91">
           <mxGeometry relative="1" as="geometry" />
@@ -812,8 +812,8 @@
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-97" value="也可能依赖一些必要的服务注册，才算Ready" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="273.75" y="5658" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-102" value="注册的时候，需要传入ServerName和PackageName" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;direction=north;flipH=1;position2=0;size=56;position=0.37;base=16;" vertex="1" parent="1">
-          <mxGeometry x="554" y="6404" width="214" height="56" as="geometry" />
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-102" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;注册的时候，需要传入ServerName和PackageName&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=east;flipH=1;position2=1;size=28;position=0.6;base=26;" vertex="1" parent="1">
+          <mxGeometry x="376" y="6511" width="119" height="94" as="geometry" />
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-103" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-104">
           <mxGeometry relative="1" as="geometry">
