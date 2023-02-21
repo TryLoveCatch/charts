@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T01:11:54.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JOVn9vXqftP8mE3NI3rn" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T01:50:41.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5JcKoQY-NfS-X88Oo1co" version="20.8.20" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
-    <mxGraphModel dx="1050" dy="1044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1450" dy="1044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -913,6 +913,28 @@
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-135" value="Server" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="473" y="5658" width="134.75" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-137" value="" style="endArrow=none;dashed=1;html=1;shadow=0;sketch=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1" y="2206" as="sourcePoint" />
+            <mxPoint x="981" y="2202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-138" value="服务放到同一个进程组件化架构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DzBO7t1ZIwuDMpc-xEhf-137">
+          <mxGeometry x="-0.1935" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-139" value="" style="endArrow=none;dashed=1;html=1;shadow=0;sketch=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-35" y="4106" as="sourcePoint" />
+            <mxPoint x="1032" y="4106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-140" value="ServiceManager方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DzBO7t1ZIwuDMpc-xEhf-139">
+          <mxGeometry x="-0.2765" relative="1" as="geometry">
+            <mxPoint x="71" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
