@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T05:34:10.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="txiEZV7LVcpo90jHSYrg" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T05:48:33.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bRB14lEnLscoM_VdIdsq" version="20.8.20" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1567" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1022,13 +1022,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-182" value="onServiceDisconnected" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=auto;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="107.75" y="4866" width="134" height="80" as="geometry" />
+          <mxGeometry x="110" y="4854" width="134" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-197" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontSize=12;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-185" target="DzBO7t1ZIwuDMpc-xEhf-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-185" value="binderDied" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=auto;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="347.75" y="4880" width="134" height="80" as="geometry" />
+          <mxGeometry x="336" y="4893" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-204" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontSize=12;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-186" target="DzBO7t1ZIwuDMpc-xEhf-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-205" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontSize=12;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-186" target="DzBO7t1ZIwuDMpc-xEhf-203">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-186" value="clear" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=auto;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="36.75" y="4982" width="108" height="58" as="geometry" />
@@ -1047,8 +1053,23 @@
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-196" value="bindService" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=auto;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="367.75" y="5012" width="108" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-201" value="1、IpcInterface置为null&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、清空集合&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、清空Handler&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fontSize=12;direction=north;flipH=0;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;size=35;position=0.36;position2=0.01;align=left;" vertex="1" parent="1">
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-201" value="1、IpcInterface置为null&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;、清空Handler&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、调用Clent和Server的clear&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fontSize=12;direction=north;flipH=0;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;size=35;position=0.36;position2=0.01;align=left;" vertex="1" parent="1">
           <mxGeometry x="-158" y="4948" width="189" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-202" value="Client" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=auto;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-59" y="5079" width="90" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-203" value="Server" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fillStyle=auto;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="77" y="5105" width="90" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-206" value="1、IpcInterface置为null&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;2、IResultCallback置为null&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、清空集合&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fontSize=12;direction=north;flipH=0;flipV=1;fillColor=#dae8fc;strokeColor=#6c8ebf;size=35;position=0.36;position2=0.01;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-264" y="5121" width="212" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-207" value="1、IpcInterface置为null&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;2、&lt;span style=&quot;background-color: initial;&quot;&gt;清空集合&lt;br&gt;&lt;/span&gt;3、清空Handler" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fontSize=12;direction=north;flipH=1;flipV=1;fillColor=#dae8fc;strokeColor=#6c8ebf;size=35;position=0.36;position2=0.01;align=left;" vertex="1" parent="1">
+          <mxGeometry x="167" y="5137" width="212" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-208" value="1、bindService可能会有多个使用进程调用，虽然只会有一个实际调用，但是每一个使用进程都会获取到onServiceConnected的回调" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fontSize=12;direction=north;flipH=1;flipV=0;fillColor=#f8cecc;strokeColor=#b85450;size=35;position=0.36;position2=0.01;align=left;" vertex="1" parent="1">
+          <mxGeometry x="585" y="4777" width="265" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
