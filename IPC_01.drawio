@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T06:47:01.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bCoBCUV5ANcs1sy1YcOM" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T01:11:54.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JOVn9vXqftP8mE3NI3rn" version="20.8.20" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1050" dy="1044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -901,6 +901,18 @@
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-131" value="一个服务组件可能有多个对外功能，这个时候在我们的框架上有两种选择：&lt;br&gt;1、每一个功能注册一个Server&lt;br&gt;2、注册一个Server，通过data来自行区分&lt;br&gt;&lt;br&gt;建议选择方法2" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;direction=south;flipV=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1086" y="4601" width="277" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-132" value="Client" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="134.25" y="5658" width="134.75" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-133" value="IPCSDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="134.25" y="5721" width="476.75" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-134" value="IPCService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="304.25" y="5658" width="134.75" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-135" value="Server" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="473" y="5658" width="134.75" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
