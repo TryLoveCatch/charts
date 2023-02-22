@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T01:51:15.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nsIF7Nd-GCe68DuJIkab" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T01:52:03.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iJBT5m2TaH3UYoxqFnCi" version="20.8.20" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1567" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-265" value="监听服务端进程" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-11">
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-265" value="监听服务端进程" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-11" target="DzBO7t1ZIwuDMpc-xEhf-400">
           <mxGeometry x="-0.0191" relative="1" as="geometry">
             <mxPoint x="354" y="6656" as="targetPoint" />
             <mxPoint as="offset" />
@@ -1239,8 +1239,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-337" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-297" target="DzBO7t1ZIwuDMpc-xEhf-336">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-337" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-297" target="DzBO7t1ZIwuDMpc-xEhf-404">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486" y="7334" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-338" value="1、通过Proxy对象监听服务端进程&lt;br&gt;2、传入packageName，找到对应的静态广播，并发送" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="DzBO7t1ZIwuDMpc-xEhf-337">
           <mxGeometry x="-0.2058" y="5" relative="1" as="geometry">
@@ -1314,9 +1316,11 @@
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-329" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Key&lt;/b&gt;&lt;/td&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;com.baic.test1.ServerA&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;IServerInterface.Stub&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;com.baic.test1.ServerB&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IServerInterface.&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Stub&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;com.baic.test2&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IServerInterface.&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Stub&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
           <mxGeometry x="364" y="6857" width="301" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-366" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-336" target="DzBO7t1ZIwuDMpc-xEhf-293">
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-366" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-404" target="DzBO7t1ZIwuDMpc-xEhf-293">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546" y="7364" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="553" y="7364" />
               <mxPoint x="766" y="7364" />
               <mxPoint x="766" y="7099" />
             </Array>
@@ -1326,9 +1330,6 @@
           <mxGeometry x="0.4306" y="4" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-336" value="DeathRecipient" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="426" y="7334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-342" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-339" target="DzBO7t1ZIwuDMpc-xEhf-341">
           <mxGeometry relative="1" as="geometry" />
@@ -1520,6 +1521,9 @@
         </mxCell>
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-400" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;IpcDeathRecipient&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IpcDeathRecipient&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IpcDeathRecipient&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
           <mxGeometry x="274.75" y="6657" width="160" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-404" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;IpcDeathRecipient&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IpcDeathRecipient&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IpcDeathRecipient&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="393" y="7341" width="160" height="97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
