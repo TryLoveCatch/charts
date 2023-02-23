@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T02:16:52.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2GpHymFuy6ofzZTntt79" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T02:40:10.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LoMsKEafsUvwM9QjjLXr" version="20.8.22" type="github">
   <diagram id="qyncAu6Qv25V_P7t79dN" name="第 1 页">
     <mxGraphModel dx="1450" dy="1044" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -726,7 +726,7 @@
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-58" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;curved=1;strokeColor=#FF9999;" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-36" target="DzBO7t1ZIwuDMpc-xEhf-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-516" value="serverName&lt;br&gt;packageName&lt;br&gt;callId&lt;br&gt;data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" parent="DzBO7t1ZIwuDMpc-xEhf-58" vertex="1" connectable="0">
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-516" value="serverName&lt;br&gt;clientName&lt;br&gt;callId&lt;br&gt;data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" parent="DzBO7t1ZIwuDMpc-xEhf-58" vertex="1" connectable="0">
           <mxGeometry x="-0.3198" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -755,7 +755,7 @@
         <mxCell id="DzBO7t1ZIwuDMpc-xEhf-509" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;fontFamily=Comic Sans MS;fontSize=11;" parent="1" source="DzBO7t1ZIwuDMpc-xEhf-56" target="DzBO7t1ZIwuDMpc-xEhf-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-517" value="serverName&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;packageName&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;callId&lt;br&gt;data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" parent="DzBO7t1ZIwuDMpc-xEhf-509" vertex="1" connectable="0">
+        <mxCell id="DzBO7t1ZIwuDMpc-xEhf-517" value="serverName&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;clientName&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;callId&lt;br&gt;data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" parent="DzBO7t1ZIwuDMpc-xEhf-509" vertex="1" connectable="0">
           <mxGeometry x="-0.5082" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1922,6 +1922,51 @@
         </mxCell>
         <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-1" value="这个集合是RemoteCallbackList" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;direction=south;fillColor=#f5f5f5;strokeColor=#666666;size=26;position=0.21;base=10;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="360" y="5358.5" width="145.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-2" value="根据name查询服务" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cZ91EYJNUH3R_ZQ0OQyB-3">
+          <mxGeometry x="-0.6758" y="-28" relative="1" as="geometry">
+            <mxPoint x="476.6875" y="11898" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-3" value="IPCService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="506" y="11993" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-4" value="1、clientName&lt;br&gt;2、IResultCallback" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;curved=1;strokeColor=#FF9999;" edge="1" parent="1" target="cZ91EYJNUH3R_ZQ0OQyB-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.75" y="12020" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="cZ91EYJNUH3R_ZQ0OQyB-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630.0625" y="11898" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="612.75" y="11899" />
+              <mxPoint x="612.75" y="11943" />
+              <mxPoint x="595.75" y="11943" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-7" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Key&lt;/b&gt;&lt;/td&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;clientNameA&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;RemoteCallbackList&amp;lt;IResultCallback&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;clientNameB&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;RemoteCallbackList&amp;lt;IResultCallback&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="446.75" y="11799" width="306.75" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZ91EYJNUH3R_ZQ0OQyB-11" target="cZ91EYJNUH3R_ZQ0OQyB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-11" value="IPCSDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="254.25" y="11989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-13" value="IIpcResultListener" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="cZ91EYJNUH3R_ZQ0OQyB-12" target="cZ91EYJNUH3R_ZQ0OQyB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-12" value="Client A" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1.8799999999999972" y="11989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-15" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;IIpcResultListener&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;IIpcResultListener&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="221" y="11861" width="184.88" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ91EYJNUH3R_ZQ0OQyB-17" value="clientName，使用的是packageName，所以&lt;b&gt;一个客户端只有一个IResultCallback&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;position2=0.53;align=left;fontColor=#333333;direction=east;flipV=1;size=24;position=0.46;base=25;" vertex="1" parent="1">
+          <mxGeometry x="339" y="12039" width="179.01" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
