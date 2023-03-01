@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T06:43:32.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="eRM2lYG_7AQc8WGOeFEU" type="github"><diagram name="第 1 页" id="yL9H_qhpLR_tQB5QavoR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-01T06:56:18.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NA6Q9PADVNH37bhYgkvb" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="yL9H_qhpLR_tQB5QavoR">
+    <mxGraphModel dx="1050" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-5" value="点击icon" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" source="fH1kUX0DgGbrLvZ_6lLT-1" target="fH1kUX0DgGbrLvZ_6lLT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-1" value="Dock栏" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="28" y="216" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="fH1kUX0DgGbrLvZ_6lLT-2" target="fH1kUX0DgGbrLvZ_6lLT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-7" value="start or stop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="fH1kUX0DgGbrLvZ_6lLT-6">
+          <mxGeometry x="-0.28" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-2" value="语音适配层" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="276" y="216" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="fH1kUX0DgGbrLvZ_6lLT-3" target="fH1kUX0DgGbrLvZ_6lLT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-9" value="回调" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="fH1kUX0DgGbrLvZ_6lLT-8">
+          <mxGeometry x="-0.2308" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-3" value="天琴助手" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="276" y="376" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-4" value="语音助手" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="500" y="376" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-10" value="判断是否wake，如果是，就stop；如果否，就start" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=north;flipV=1;size=26;position=0.26;position2=0.26;" vertex="1" parent="1">
+          <mxGeometry x="92" y="302" width="215" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="fH1kUX0DgGbrLvZ_6lLT-11" value="1、show&lt;br&gt;2、hide" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;fillStyle=auto;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;direction=west;flipV=1;size=37;position=0.45;position2=0.65;base=31;" vertex="1" parent="1">
+          <mxGeometry x="411" y="321" width="139" height="76" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
