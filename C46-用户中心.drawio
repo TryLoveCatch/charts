@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T02:51:45.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9P4jqwCfT5MVeb5cIb-c" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T02:51:56.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZWroBkyb18tucCEdpeOj" version="21.0.8" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="1235" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,8 @@
         <mxCell id="CxpHUTLvTEu1nHUiymsm-25" value="&lt;font&gt;当前用户登出&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="617" y="361" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CxpHUTLvTEu1nHUiymsm-31" value="是否存在优先级的区别？&lt;br&gt;主动登录、蓝牙登录、自动登录" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;flipH=0;flipV=0;direction=south;size=90;position=0.26;position2=0;base=28;fontFamily=Comic Sans MS;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="739" y="410" width="278" height="71" as="geometry" />
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-31" value="是否存在优先级的区别？&lt;br&gt;主动登录、蓝牙登录、自动登录" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;flipH=0;flipV=0;direction=south;size=55;position=0.2;position2=0;base=28;fontFamily=Comic Sans MS;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="739" y="410" width="252" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
