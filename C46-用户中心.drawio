@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T02:41:19.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZKnQBcEjonBbd-sU3Bu-" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T02:44:01.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HDW8bXoAsgPsbL5_wmhQ" version="21.0.8" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="1050" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,6 +26,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-30" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CxpHUTLvTEu1nHUiymsm-22">
+          <mxGeometry x="-0.6267" y="24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CxpHUTLvTEu1nHUiymsm-2" value="UserId是否缓存过？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="189" y="222" width="138" height="69" as="geometry" />
         </mxCell>
@@ -33,6 +38,9 @@
           <mxGeometry x="195" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CxpHUTLvTEu1nHUiymsm-14" value="否" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-9" target="CxpHUTLvTEu1nHUiymsm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-24" value="是" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-9" target="CxpHUTLvTEu1nHUiymsm-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CxpHUTLvTEu1nHUiymsm-9" value="当前已登录？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1" parent="1">
@@ -56,13 +64,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CxpHUTLvTEu1nHUiymsm-15" value="&lt;font&gt;登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="185" y="521" width="120" height="60" as="geometry" />
+          <mxGeometry x="195" y="556" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CxpHUTLvTEu1nHUiymsm-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-18" target="CxpHUTLvTEu1nHUiymsm-15">
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-18" target="CxpHUTLvTEu1nHUiymsm-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CxpHUTLvTEu1nHUiymsm-18" value="&lt;font&gt;取消自动登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="412" y="468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-26" value="否" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-23" target="CxpHUTLvTEu1nHUiymsm-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-23" target="CxpHUTLvTEu1nHUiymsm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-29" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CxpHUTLvTEu1nHUiymsm-28">
+          <mxGeometry x="-0.8799" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-23" value="用户是否相同？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="608" y="222" width="138" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-25" target="CxpHUTLvTEu1nHUiymsm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-25" value="&lt;font&gt;当前用户登出&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="617" y="361" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
