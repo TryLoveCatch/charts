@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T05:18:42.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nVaYKkpWRqeq78xNUwOS" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T05:25:29.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2lHK2JgAuZSG-Pe8uNhK" version="21.0.8" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="1235" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,6 +76,21 @@
         </mxCell>
         <mxCell id="CxpHUTLvTEu1nHUiymsm-31" value="是否存在优先级的区别？&lt;br&gt;主动登录、蓝牙登录、自动登录" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;flipH=0;flipV=0;direction=south;size=55;position=0.2;position2=0;base=28;fontFamily=Comic Sans MS;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="739" y="410" width="252" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-32" value="&lt;font&gt;蓝牙登录信号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="189" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-35" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-33" target="CxpHUTLvTEu1nHUiymsm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-33" value="主动获取信号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="123" y="-69" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-36" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CxpHUTLvTEu1nHUiymsm-34" target="CxpHUTLvTEu1nHUiymsm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxpHUTLvTEu1nHUiymsm-34" value="&lt;font&gt;信号更改回调&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="318" y="-69" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
