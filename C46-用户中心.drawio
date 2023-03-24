@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T05:37:47.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fpev8MwrU2ujRkdKvrGr" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T05:38:53.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cUl4NU4WumMwhjgJZcKu" version="21.0.10" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="1850" dy="1844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,10 +406,13 @@
         <mxCell id="tl__pHLyT1ZWY71HYHQn-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;endArrow=classic;" edge="1" parent="1" source="tl__pHLyT1ZWY71HYHQn-39" target="tl__pHLyT1ZWY71HYHQn-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tl__pHLyT1ZWY71HYHQn-64" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;endArrow=classic;" edge="1" parent="1" source="tl__pHLyT1ZWY71HYHQn-39" target="tl__pHLyT1ZWY71HYHQn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tl__pHLyT1ZWY71HYHQn-39" value="UserManager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-114" y="2441" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tl__pHLyT1ZWY71HYHQn-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;endArrow=classic;" edge="1" parent="1" source="tl__pHLyT1ZWY71HYHQn-40" target="tl__pHLyT1ZWY71HYHQn-39">
+        <mxCell id="tl__pHLyT1ZWY71HYHQn-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;endArrow=classic;" edge="1" parent="1" source="tl__pHLyT1ZWY71HYHQn-40" target="tl__pHLyT1ZWY71HYHQn-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tl__pHLyT1ZWY71HYHQn-40" value="UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -458,7 +461,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tl__pHLyT1ZWY71HYHQn-60" value="SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-358" y="2441" width="120" height="60" as="geometry" />
+          <mxGeometry x="-343" y="2441" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
