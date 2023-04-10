@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T06:46:45.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gZgeiiiRZnGnmUtcGaiq" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T03:04:11.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IFBTef1_vzU0EiGYExwK" version="21.1.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="2300" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3804" dy="4156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -713,8 +713,16 @@
         <mxCell id="rgVC746WpPL3yaBDPz7Z-84" value="&lt;font&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="246.5" y="-1326" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rgVC746WpPL3yaBDPz7Z-91" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;endArrow=classic;" edge="1" parent="1" source="rgVC746WpPL3yaBDPz7Z-89" target="rgVC746WpPL3yaBDPz7Z-90">
+        <mxCell id="rgVC746WpPL3yaBDPz7Z-91" value="失败" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;endArrow=classic;" edge="1" parent="1" source="rgVC746WpPL3yaBDPz7Z-89" target="rgVC746WpPL3yaBDPz7Z-90">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rgVC746WpPL3yaBDPz7Z-98" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;endArrow=classic;" edge="1" parent="1" source="rgVC746WpPL3yaBDPz7Z-89" target="rgVC746WpPL3yaBDPz7Z-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rgVC746WpPL3yaBDPz7Z-99" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" connectable="0" parent="rgVC746WpPL3yaBDPz7Z-98">
+          <mxGeometry x="-0.8389" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rgVC746WpPL3yaBDPz7Z-89" value="无网蓝牙登录？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="414" y="-2132" width="138" height="69" as="geometry" />
