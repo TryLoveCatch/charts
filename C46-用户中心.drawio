@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T09:25:53.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="x6zaRgZRHratoAYlqYIH" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T09:29:41.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_Gt4dmvxunyDwpO8Mymn" version="21.2.1" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="1850" dy="3444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1001,7 +1001,7 @@
         <mxCell id="9dyZK0PPWt3tN2fBmHlh-193" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-212" y="3568" width="109.07" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="9dyZK0PPWt3tN2fBmHlh-195" value="获取用户签署状态" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="9dyZK0PPWt3tN2fBmHlh-195" value="获取用户签署状态" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-500.93" y="4401" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9dyZK0PPWt3tN2fBmHlh-197" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;fillColor=#f8cecc;" edge="1" parent="1" source="9dyZK0PPWt3tN2fBmHlh-196" target="9dyZK0PPWt3tN2fBmHlh-93">
@@ -1017,7 +1017,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dyZK0PPWt3tN2fBmHlh-196" value="获取隐私协议最新版本" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="9dyZK0PPWt3tN2fBmHlh-196" value="获取隐私协议最新版本" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-103.93" y="4530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9dyZK0PPWt3tN2fBmHlh-200" value="失败" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;fillColor=#f8cecc;" edge="1" parent="1" source="9dyZK0PPWt3tN2fBmHlh-199" target="9dyZK0PPWt3tN2fBmHlh-95">
@@ -1030,7 +1030,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dyZK0PPWt3tN2fBmHlh-199" value="上报用户签署状态" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="9dyZK0PPWt3tN2fBmHlh-199" value="上报用户签署状态" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-691.93" y="4656" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
