@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T02:18:22.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WQGzdiRPngprJcPmCyfU" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T02:18:37.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="iRQK7zHX6LMCfN5yje50" version="21.2.1" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="1850" dy="3444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1189,11 +1189,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9dyZK0PPWt3tN2fBmHlh-307" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="9dyZK0PPWt3tN2fBmHlh-278" target="9dyZK0PPWt3tN2fBmHlh-255">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="4580" />
+              <mxPoint x="1130" y="5208" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9dyZK0PPWt3tN2fBmHlh-308" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="9dyZK0PPWt3tN2fBmHlh-307">
           <mxGeometry x="-0.7728" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-51" y="36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9dyZK0PPWt3tN2fBmHlh-278" value="用户签署版本&lt;br&gt;&amp;gt;=&lt;br&gt;隐私协议版本?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;" vertex="1" parent="1">
