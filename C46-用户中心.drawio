@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T07:36:59.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DOfv3Nr1Qx0sbqZ0IMMq" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T07:39:08.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QzFbQk2_bFb9VDcAH0cK" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1297,7 +1297,7 @@
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-84" value="" style="endArrow=classic;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="7034" as="sourcePoint" />
+            <mxPoint x="47" y="7030" as="sourcePoint" />
             <mxPoint x="-380" y="7026" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1409,48 +1409,10 @@
         <mxCell id="dYQsRh62R8_zcW7nfPX3-108" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;②、登出&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-838" y="7464" width="99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-109" value="" style="endArrow=classic;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-117" value="登出" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="7654" as="sourcePoint" />
-            <mxPoint x="-380" y="7646" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-110" value="请求token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="dYQsRh62R8_zcW7nfPX3-109">
-          <mxGeometry x="0.3982" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-111" value="" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-378.9" y="7721" as="sourcePoint" />
-            <mxPoint x="-90.9" y="7725" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-112" value="返回token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="dYQsRh62R8_zcW7nfPX3-111">
-          <mxGeometry x="-0.2509" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="dYQsRh62R8_zcW7nfPX3-114">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-333.82352941176487" y="7719.64705882353" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-114" value="根据uid得到三方token" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-377" y="7665" width="108" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-115" style="edgeStyle=none;shape=connector;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="dYQsRh62R8_zcW7nfPX3-116">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15.714285714285325" y="7797.142857142859" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-116" value="三方token" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-76.13" y="7729" width="122.13" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-117" value="登录" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-74" y="7799" as="sourcePoint" />
-            <mxPoint x="207" y="7799" as="targetPoint" />
+            <mxPoint x="-77" y="7659" as="sourcePoint" />
+            <mxPoint x="204" y="7659" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
