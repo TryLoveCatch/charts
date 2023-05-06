@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T07:33:35.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cXxBbRmQWXXM5mnSq-cy" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T07:34:43.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0rIqJeI2CrKRfeBXzQ-o" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1325,13 +1325,18 @@
         <mxCell id="dYQsRh62R8_zcW7nfPX3-89" value="根据uid得到三方token" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-377" y="7045" width="108" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-93" style="edgeStyle=none;shape=connector;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="dYQsRh62R8_zcW7nfPX3-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15.714285714285325" y="7177.142857142859" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-91" value="三方token" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-76.13" y="7109" width="122.13" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-92" value="登录" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-74" y="7160" as="sourcePoint" />
-            <mxPoint x="207" y="7160" as="targetPoint" />
+            <mxPoint x="-74" y="7179" as="sourcePoint" />
+            <mxPoint x="207" y="7179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
