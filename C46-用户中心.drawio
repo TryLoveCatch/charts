@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T07:14:26.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="bvlUDWxpKiuncragJeUF" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T07:14:43.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LZKrYan-4oV3M7sRusl6" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1703,7 +1703,7 @@
             <mxPoint x="-379" y="9495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-238" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;绑定&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="dYQsRh62R8_zcW7nfPX3-237">
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-238" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;绑定成功&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="dYQsRh62R8_zcW7nfPX3-237">
           <mxGeometry x="-0.2252" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
