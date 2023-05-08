@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T06:30:01.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sy7wuwTrm2uMd-VhHJxz" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T06:30:22.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0mw8sEMIluT-0DFqdoSR" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2388,7 +2388,7 @@
         <mxCell id="dYQsRh62R8_zcW7nfPX3-387" value="更新绑定状态" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-371" y="11306" width="108" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-388" value="这里应该没有更新绑定状态吧？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;comic=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#d5e8d4;size=22;position=0.12;position2=0;base=31;" vertex="1" parent="1">
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-388" value="更新绑定状态时在哪里呢？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;comic=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#d5e8d4;size=22;position=0.12;position2=0;base=31;" vertex="1" parent="1">
           <mxGeometry x="-289" y="10926" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
