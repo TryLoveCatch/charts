@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T07:06:53.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="csFFUsKkrItXlYDs6Tpb" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T07:10:45.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="e5MZBhtGefhM-qNnp9Di" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2233,7 +2233,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-375" value="调用三方SDK解绑接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="dYQsRh62R8_zcW7nfPX3-374">
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-375" value="调用三方SDK解绑接口&lt;br&gt;或者&lt;br&gt;广播" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="dYQsRh62R8_zcW7nfPX3-374">
           <mxGeometry x="-0.3306" relative="1" as="geometry">
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
