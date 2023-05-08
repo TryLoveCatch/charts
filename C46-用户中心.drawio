@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T07:14:59.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rZuhU9u6QW_cdXm1BHOt" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T07:15:07.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="A3K7IXClErDXxAtfqzph" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2184,7 +2184,7 @@
             <mxPoint x="-633" y="9608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-364" value="需要绑定的MQTT通知吗？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;comic=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=north;flipH=0;flipV=0;size=39;position=0.23;position2=0;" vertex="1" parent="1">
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-364" value="需要绑定的MQTT通知吗？其他三个同理" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;comic=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=north;flipH=0;flipV=0;size=39;position=0.23;position2=0;" vertex="1" parent="1">
           <mxGeometry x="-801" y="9541" width="156" height="59" as="geometry" />
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-366" value="TSP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontStyle=1" vertex="1" parent="1">
