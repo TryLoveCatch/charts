@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T06:10:04.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rxWaD0Ys0is7POVUYw7t" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T06:14:19.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-JDPehh_oejxqJTc4rA4" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1721,8 +1721,8 @@
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-242" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;界面返回&lt;/span&gt;" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
           <mxGeometry x="-0.1985" y="2" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-90" y="9605" as="sourcePoint" />
-            <mxPoint x="-639" y="9608" as="targetPoint" />
+            <mxPoint x="-90" y="9631" as="sourcePoint" />
+            <mxPoint x="-639" y="9634" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -2248,8 +2248,8 @@
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-358" value="获取三方账号绑定关系" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-638" y="9654" as="sourcePoint" />
-            <mxPoint x="-381" y="9654" as="targetPoint" />
+            <mxPoint x="-638" y="9673" as="sourcePoint" />
+            <mxPoint x="-381" y="9673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-359" value="获取三方账号绑定关系" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
@@ -2275,6 +2275,15 @@
             <mxPoint x="-77" y="11732" as="sourcePoint" />
             <mxPoint x="204" y="11732" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-363" value="绑定成功MQTT" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-384" y="9593" as="sourcePoint" />
+            <mxPoint x="-633" y="9593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-364" value="需要绑定MQTT通知吗？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;comic=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=north;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-809" y="9552" width="164" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
