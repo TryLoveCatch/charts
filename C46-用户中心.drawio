@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T07:14:11.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fCWkytVAZQXx8j2J9_Cf" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T07:14:26.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="bvlUDWxpKiuncragJeUF" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1985,7 +1985,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-305" value="喜马拉雅没有绑定和解绑接口，目前首次绑定对应的就是登录接口。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Comic Sans MS;fontSize=15;sketch=1;curveFitting=1;jiggle=2;direction=south;flipH=0;flipV=1;size=36;position=0.45;base=15;position2=0.26;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="221" y="9410" width="251" height="76" as="geometry" />
+          <mxGeometry x="217" y="9421" width="251" height="76" as="geometry" />
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-306" value="退出登录" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-76.13" y="10071" width="122.13" height="31" as="geometry" />
