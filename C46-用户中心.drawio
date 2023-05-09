@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T02:52:25.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BiTH4wxhR4HkCCA9j96b" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T02:53:15.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="M9HnEZHNqEvPBHMQnu4U" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2583,6 +2583,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-389" y="13067" as="sourcePoint" />
             <mxPoint x="-638" y="13067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-481" value="获取三方账号绑定关系" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-629" y="13610" as="sourcePoint" />
+            <mxPoint x="-372" y="13610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-482" value="获取三方账号绑定关系" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-628" y="12455" as="sourcePoint" />
+            <mxPoint x="-371" y="12455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-483" value="获取三方账号绑定关系" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-638" y="11318" as="sourcePoint" />
+            <mxPoint x="-381" y="11318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-484" value="获取三方账号绑定关系" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-638" y="10150" as="sourcePoint" />
+            <mxPoint x="-381" y="10150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
