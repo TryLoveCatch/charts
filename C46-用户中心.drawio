@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T02:52:03.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PJuhXTT4zj5QNbfw66pH" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T02:52:25.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BiTH4wxhR4HkCCA9j96b" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2423,8 +2423,8 @@
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-437" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;界面返回&lt;/font&gt;" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
           <mxGeometry x="-0.1496" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-91" y="13079" as="sourcePoint" />
-            <mxPoint x="-639" y="13079" as="targetPoint" />
+            <mxPoint x="-91" y="13097" as="sourcePoint" />
+            <mxPoint x="-639" y="13097" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -2577,6 +2577,12 @@
             <mxPoint x="-374" y="12354" as="sourcePoint" />
             <mxPoint x="-629" y="12354" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYQsRh62R8_zcW7nfPX3-480" value="绑定成功MQTT" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;fillColor=#f8cecc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-389" y="13067" as="sourcePoint" />
+            <mxPoint x="-638" y="13067" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
