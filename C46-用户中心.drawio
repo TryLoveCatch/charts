@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T02:55:04.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RwR-RSJ81wSwqm6FII_B" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T02:55:18.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AgPg8meYXB8gnSLAHgxo" version="21.2.9" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2528,9 +2528,6 @@
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-475" value="更新绑定状态" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-371" y="10041" width="108" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="dYQsRh62R8_zcW7nfPX3-476" value="是否可以这样实现？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;comic=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#d5e8d4;size=22;position=0.12;position2=0;base=31;" vertex="1" parent="1">
-          <mxGeometry x="-340.07" y="9922" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dYQsRh62R8_zcW7nfPX3-477" value="绑定成功MQTT" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;fillColor=#f8cecc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
