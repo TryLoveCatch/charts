@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T02:50:04.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NzyVbEH34reULDcISG4r" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T07:29:31.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sSWcBHenSaPXD2irXgI-" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="2435" dy="3492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2761,18 +2761,18 @@
           <mxGeometry x="-424.97" y="13947" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqk7eAyBocHR1p3EWRLD-11" value="DataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;" parent="1" vertex="1">
-          <mxGeometry x="-638" y="14642" width="286" height="60" as="geometry" />
+          <mxGeometry x="-634.98" y="14716" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqk7eAyBocHR1p3EWRLD-12" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="-635" y="14566" width="286" height="60" as="geometry" />
+          <mxGeometry x="-631.98" y="14640" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqk7eAyBocHR1p3EWRLD-13" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-635" y="14488" width="286" height="60" as="geometry" />
+          <mxGeometry x="-631.98" y="14562" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqk7eAyBocHR1p3EWRLD-14" value="可选" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;direction=south;flipH=0;flipV=1;size=28;position=0.35;position2=0.04;base=10;" parent="1" vertex="1">
-          <mxGeometry x="-339.05" y="14477" width="147" height="39" as="geometry" />
+          <mxGeometry x="-336.03000000000003" y="14551" width="147" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="lqk7eAyBocHR1p3EWRLD-15" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="lqk7eAyBocHR1p3EWRLD-15" value="AIDL客户端" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-630.99" y="14372" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqk7eAyBocHR1p3EWRLD-16" value="ViewModel" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontSize=15;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -2794,7 +2794,7 @@
           <mxGeometry x="-776" y="14298" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lqk7eAyBocHR1p3EWRLD-21" value="Service进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Comic Sans MS;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-804" y="14581" width="88" height="30" as="geometry" />
+          <mxGeometry x="-800.98" y="14655" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PuCURGR4xXUWzacloGKU-1" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#9673a6;fontFamily=Comic Sans MS;fontSize=15;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="-633" y="14294" width="286" height="60" as="geometry" />
@@ -2810,6 +2810,9 @@
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-3" value="&amp;nbsp;SharedPreferences" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="-482.99" y="15041" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-V5Tc_pzAT3UOnryDUB-5" value="AIDL服务端" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-630.07" y="14477" width="286" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
