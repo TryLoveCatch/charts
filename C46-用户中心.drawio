@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T06:16:29.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TnDJXrmhGYHIiGlct3GW" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T03:43:45.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oyEunV9ANkS0tQXJ5Dh1" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2851,16 +2851,16 @@
           <mxGeometry x="-703.86" y="14414" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-28" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="-90.99000000000004" y="14350" width="286" height="60" as="geometry" />
+          <mxGeometry x="-92.99000000000004" y="14324" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-29" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontSize=15;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-90.99000000000004" y="14271" width="286" height="60" as="geometry" />
+          <mxGeometry x="-92.99000000000004" y="14245" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-30" value="Service进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-7.300000000000011" y="14198" width="91.3" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-31" value="DataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#9673a6;fontFamily=Comic Sans MS;fontSize=15;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="-93.00000000000003" y="14428" width="286" height="60" as="geometry" />
+          <mxGeometry x="-95.00000000000003" y="14402" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-42" value="IPC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#ae4132;fontFamily=Comic Sans MS;fontSize=15;fillColor=#fad9d5;fillStyle=solid;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-291.05" y="14193" width="70.98" height="430" as="geometry" />
@@ -2912,6 +2912,9 @@
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-70" value="IPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="183" y="13959" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B-V5Tc_pzAT3UOnryDUB-71" value="Platform" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#0e8088;fontFamily=Comic Sans MS;fontSize=15;fillColor=#b0e3e6;" vertex="1" parent="1">
+          <mxGeometry x="-95.00000000000003" y="14484" width="286" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
