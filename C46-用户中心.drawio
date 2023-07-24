@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T09:36:23.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dCb0x1lHSpKpzIbrIJAo" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T09:47:50.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="V46Roy1Fp1NwRuFtu5HK" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3015,7 +3015,13 @@
           <mxGeometry x="-479.99" y="18455" width="286" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-154" value="Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="-291.05" y="18278" width="105.05" height="151" as="geometry" />
+          <mxGeometry x="-291.05" y="18278" width="98.05" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="B-V5Tc_pzAT3UOnryDUB-156" value="1、Service进程取内存的值&lt;br&gt;2、APP进程取AIDL的值&lt;br&gt;3、1和2AIDL本身就支持&lt;br&gt;4、数据库的值，Service进程通过contentProvider&lt;br&gt;5、数据库的值，APP进程直接保存到数据库" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;flipV=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-174" y="18507" width="336" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="B-V5Tc_pzAT3UOnryDUB-158" value="1、Service进程是为了解决在内存不足的时候，APP被杀死，然后又被拉起，重复杀死-拉起的过程&lt;br&gt;2、Service进程需要拉起APP进程？&lt;br&gt;3、Service进程主要是维护了内存缓存的用户信息&lt;br&gt;4、内存缓存的更新逻辑，需要监听登录和登出回调" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;flipV=0;direction=south;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="18275" width="336" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
