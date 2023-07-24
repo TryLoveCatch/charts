@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T06:21:27.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3OYpOwtBcDQr3bSvp580" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T06:22:04.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Crc0Kjh5S67bVWWTVUng" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2829,11 +2829,11 @@
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-8" value="OthenRepository" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-256.74" y="15123" width="137" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="B-V5Tc_pzAT3UOnryDUB-9" value="LoginDataSource" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="B-V5Tc_pzAT3UOnryDUB-9" value="ILoginDataSource" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-583.18" y="15263" width="133" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="B-V5Tc_pzAT3UOnryDUB-10" value="UserInfoDataSource" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-407.17999999999995" y="15267" width="133" height="66" as="geometry" />
+        <mxCell id="B-V5Tc_pzAT3UOnryDUB-10" value="IUserInfoDataSource" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-407.18" y="15267" width="165.18" height="67" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-21" value="DataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="-701.85" y="14492" width="286" height="60" as="geometry" />
