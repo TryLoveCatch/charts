@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T02:37:48.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nK3s_ALZhL0XC-lVTtQP" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T02:48:31.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QfzBHOM0CyGkm5tgSA1T" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3050,7 +3050,7 @@
         <mxCell id="bwdZmp--9l1pZPXtv23i-8" value="DataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-289" y="19200" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bwdZmp--9l1pZPXtv23i-12" value="1、同一套代码，在不同进程执行&lt;br&gt;2、" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f5f5f5;flipV=1;direction=south;align=left;fontColor=#333333;size=44;position=0.37;" vertex="1" parent="1">
+        <mxCell id="bwdZmp--9l1pZPXtv23i-12" value="1、同一套代码，在不同进程执行&lt;br&gt;2、APP进程通过AIDL访问Service进程&lt;br&gt;3、Service进程通过ContentProvider访问APP进程" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f5f5f5;flipV=1;direction=south;align=left;fontColor=#333333;size=44;position=0.37;" vertex="1" parent="1">
           <mxGeometry x="-102.93" y="19098" width="276" height="92" as="geometry" />
         </mxCell>
       </root>
