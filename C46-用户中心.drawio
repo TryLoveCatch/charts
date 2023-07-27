@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T09:18:49.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qg4JM_y1qNR6ITYx1pIG" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T09:22:57.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Fft4cfgXgcudR8EWjHxP" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3521,6 +3521,24 @@
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-213" value="1、充值提醒和流量预警，与MQTT的关系未定义" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;direction=south;size=65;position=0.46;position2=0.62;align=left;" vertex="1" parent="1">
           <mxGeometry x="-371" y="23969" width="306.02" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-217" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-214" target="bwdZmp--9l1pZPXtv23i-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-218" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-214" target="bwdZmp--9l1pZPXtv23i-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-214" value="Mqtt" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-638" y="24667" width="244.01" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-215" value="register" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-786" y="24815" width="209" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-216" value="unregister" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-482" y="24815" width="209" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-219" value="1、具体监听那种消息，由业务自己控制&lt;br&gt;2、监听到之后，业务执行自己的业务逻辑" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;direction=south;size=65;position=0.46;position2=0.62;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-385.02" y="24609" width="306.02" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
