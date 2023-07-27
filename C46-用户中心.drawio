@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T05:32:22.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bH4IB1MuFMXcR3e3B8mi" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T05:41:12.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DFsca1c4uKci5tHSJKBA" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2950" dy="3873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3373,7 +3373,10 @@
         <mxCell id="bwdZmp--9l1pZPXtv23i-160" value="验证码登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-659.9" y="22684" width="161" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bwdZmp--9l1pZPXtv23i-161" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="bwdZmp--9l1pZPXtv23i-174" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-161" target="bwdZmp--9l1pZPXtv23i-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-161" value="ILoginConfig" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-373.93" y="22807" width="173" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-168" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-162" target="bwdZmp--9l1pZPXtv23i-161">
@@ -3407,6 +3410,12 @@
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-166" value="离线登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-78.12999999999994" y="22940" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-173" value="1、isCanLogin，根据规则判断是否可以继续登录流程，在开始登录的时候&lt;br&gt;2、getCurrentLogin，得到当前的登录信息，在登录完成的时候，用来比对是否可以进行更新数据库等后续操作" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;fillColor=#ffe6cc;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-427.32" y="23057" width="284.32" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-177" value="1、根据业务规则来进行逻辑处理，例如最简单，当前正在登录或者已经登录，就直接禁止后续登录，类似于现在已有的逻辑&lt;br&gt;2、也可以根据不同的登录类型，进行优先级处理" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;fillColor=#ffe6cc;direction=south;size=60;position=0.32;base=27;position2=0.15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-139" y="23101" width="382" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
