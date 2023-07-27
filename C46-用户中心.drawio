@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T03:58:39.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aXSzpuZGqgWG-Ssk1wKx" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T01:21:22.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YvMrCzpOaaUhXTIJmye8" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3092,7 +3092,7 @@
         <mxCell id="bwdZmp--9l1pZPXtv23i-31" value="Server" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-337.65000000000003" y="19788" width="80.91" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bwdZmp--9l1pZPXtv23i-32" value="网络/本地" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#9673a6;fontFamily=Comic Sans MS;fontSize=15;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="bwdZmp--9l1pZPXtv23i-32" value="其他" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#9673a6;fontFamily=Comic Sans MS;fontSize=15;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="-241.72" y="19786" width="92.72" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-38" value="使用ContentProvider和IBinder屏蔽进程的差异，同一进程就方法调用，不同进程就IPC通信" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;flipV=1;direction=south;align=left;size=44;position=0.37;flipH=1;" vertex="1" parent="1">
