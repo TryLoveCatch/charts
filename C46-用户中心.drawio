@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T04:04:07.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8z8ZZsZsrbUmHMIInEr9" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T05:32:22.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bH4IB1MuFMXcR3e3B8mi" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="2950" dy="3873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3366,6 +3366,47 @@
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-157" value="getUserList" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-108.93" y="21696" width="182" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-167" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-160" target="bwdZmp--9l1pZPXtv23i-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-160" value="验证码登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-659.9" y="22684" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-161" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-373.93" y="22807" width="173" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-168" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-162" target="bwdZmp--9l1pZPXtv23i-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-162" value="二维码登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-712" y="22807" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-169" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.09;entryY=0.854;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-163" target="bwdZmp--9l1pZPXtv23i-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-163" value="声纹登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="22930" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-170" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-164" target="bwdZmp--9l1pZPXtv23i-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-164" value="自动登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-76.55999999999995" y="22674" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-171" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-202.9300000000003" y="22837" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-165" value="蓝牙登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-9.779999999999951" y="22802" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-172" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-166" target="bwdZmp--9l1pZPXtv23i-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-166" value="离线登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-78.12999999999994" y="22940" width="161" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
