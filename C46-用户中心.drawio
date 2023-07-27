@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T08:48:32.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="byOTwuu6-ctPQSbRZwEp" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T08:49:39.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="w4W2ihKE-7nnA0hRrEwz" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2700" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3460,7 +3460,7 @@
           <mxGeometry x="-396.01" y="23839" width="209" height="68" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-192" value="1、uid和token需要通过参数传递过来，这样可以和UserManager解耦&lt;br&gt;2、具体的高德、qq音乐等的单独sdk支持，这里需要保证通知到即可" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;direction=south;size=65;position=0.46;position2=0.62;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-324.02" y="23307" width="306.02" height="120" as="geometry" />
+          <mxGeometry x="-343" y="23334" width="306.02" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-196" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-193" target="bwdZmp--9l1pZPXtv23i-194">
           <mxGeometry relative="1" as="geometry" />
@@ -3471,11 +3471,20 @@
         <mxCell id="bwdZmp--9l1pZPXtv23i-193" value="IBind&lt;br&gt;notify()" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-1104" y="23561" width="161" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-200" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-194" target="bwdZmp--9l1pZPXtv23i-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-194" value="EventBind&lt;br&gt;notify()" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="-1179" y="23701" width="161" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-201" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-195" target="bwdZmp--9l1pZPXtv23i-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-195" value="BroadcastBind&lt;br&gt;notify()" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="-989" y="23703" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-199" value="三方统一SDK" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontSize=15;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-1106" y="23834" width="182" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
