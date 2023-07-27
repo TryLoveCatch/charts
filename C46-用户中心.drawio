@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T05:41:12.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DFsca1c4uKci5tHSJKBA" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T05:49:31.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MBt7cin9SAGGaWvCRsv3" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="2950" dy="3873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2435" dy="3558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3138,45 +3138,45 @@
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-86" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4.285714285714221" y="20345.714285714286" as="targetPoint" />
+            <mxPoint x="-4.285714285714221" y="20417.714285714286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-79" value="更新内存值" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-58" y="20292" width="108" height="31" as="geometry" />
+          <mxGeometry x="-58" y="20364" width="108" height="31" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-80" value="AIDL" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-621" y="20284" as="sourcePoint" />
-            <mxPoint x="-78" y="20284" as="targetPoint" />
+            <mxPoint x="-621" y="20356" as="sourcePoint" />
+            <mxPoint x="-78" y="20356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-83" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-81" target="bwdZmp--9l1pZPXtv23i-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-81" value="TSP请求" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-618" y="20161" width="87" height="31" as="geometry" />
+          <mxGeometry x="-618" y="20233" width="87" height="31" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-84" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-82">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-571.4285714285711" y="20277.857142857145" as="targetPoint" />
+            <mxPoint x="-571.4285714285711" y="20349.857142857145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-82" value="更新DB" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-615.25" y="20215" width="87" height="31" as="geometry" />
+          <mxGeometry x="-615.25" y="20287" width="87" height="31" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-85" value="SDK通知" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-58" y="20350" width="108" height="31" as="geometry" />
+          <mxGeometry x="-58" y="20422" width="108" height="31" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-89" value="更新页面" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-615.25" y="20447" width="87" height="31" as="geometry" />
+          <mxGeometry x="-615.25" y="20519" width="87" height="31" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-92" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="bwdZmp--9l1pZPXtv23i-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-571.4285714285711" y="20445" as="targetPoint" />
+            <mxPoint x="-571.4285714285711" y="20517" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-91" value="跳转界面" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-615.25" y="20391" width="87" height="31" as="geometry" />
+          <mxGeometry x="-615.25" y="20463" width="87" height="31" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-93" value="IPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-412.55999999999995" y="20647" width="113" height="24" as="geometry" />
@@ -3416,6 +3416,15 @@
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-177" value="1、根据业务规则来进行逻辑处理，例如最简单，当前正在登录或者已经登录，就直接禁止后续登录，类似于现在已有的逻辑&lt;br&gt;2、也可以根据不同的登录类型，进行优先级处理" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;fillColor=#ffe6cc;direction=south;size=60;position=0.32;base=27;position2=0.15;align=left;" vertex="1" parent="1">
           <mxGeometry x="-139" y="23101" width="382" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-178" value="AIDL" style="endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-621" y="20161" as="sourcePoint" />
+            <mxPoint x="-78" y="20161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwdZmp--9l1pZPXtv23i-179" value="是否可以登录" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-61.71" y="20169" width="108" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
