@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T01:28:22.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3FOyBSehibr6ErrQvgIm" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T01:51:51.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TVy7qqkdX-4ErPQSnutE" version="21.6.2" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="3100" dy="3720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3573,11 +3573,8 @@
         <mxCell id="bwdZmp--9l1pZPXtv23i-230" value="Vocal SDK" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-730.5" y="25473" width="357" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="bwdZmp--9l1pZPXtv23i-231" value="1、充值提醒和流量预警，在APP进程合适时机注册" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;direction=south;size=65;position=0.46;position2=0.62;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-431.5" y="24970" width="306.02" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="bwdZmp--9l1pZPXtv23i-232" value="这里会有很多前置项：" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;direction=south;size=65;position=0.46;position2=0.62;align=left;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-1283" y="25180" width="283.02" height="95" as="geometry" />
+        <mxCell id="bwdZmp--9l1pZPXtv23i-232" value="这里会有很多前置项，有些还是可选的，所以需要提供接口扩展，来支持这些可变的需求。&lt;br&gt;例如，麦克风权限、p档这些并不是每个项目都会有的，需要抽离出去。&lt;br&gt;这个最好还需要通知每一个条件的结果，因为每个条件可能还会有自己的业务处理，比如说展示UI、提醒等等，例如如果非p档，会提示用户。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;direction=south;size=65;position=0.46;position2=0.62;align=left;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-1356" y="25085" width="369" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
