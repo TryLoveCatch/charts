@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T07:48:19.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nw29PJTNYgIrk0APAmSe" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T07:54:41.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PhzhLYdCgxYy2CHxhAFO" version="21.6.5" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="3500" dy="3711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4082,11 +4082,6 @@
             <mxPoint x="-1589.9399999999996" y="28170.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ftKmftb66T_5zK8bnGlW-142" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="ftKmftb66T_5zK8bnGlW-141">
-          <mxGeometry x="-0.059" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ftKmftb66T_5zK8bnGlW-150" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="ftKmftb66T_5zK8bnGlW-141">
           <mxGeometry x="-0.2977" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -4098,7 +4093,7 @@
         <mxCell id="ftKmftb66T_5zK8bnGlW-148" value="自动登录是否开启？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-1774.49" y="28016" width="106" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ftKmftb66T_5zK8bnGlW-153" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="ftKmftb66T_5zK8bnGlW-149" target="ftKmftb66T_5zK8bnGlW-152">
+        <mxCell id="ftKmftb66T_5zK8bnGlW-153" value="是" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="ftKmftb66T_5zK8bnGlW-149" target="ftKmftb66T_5zK8bnGlW-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ftKmftb66T_5zK8bnGlW-149" value="最近未退出登录的用户id？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -4122,10 +4117,10 @@
         <mxCell id="ftKmftb66T_5zK8bnGlW-159" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;endArrow=classic;" edge="1" parent="1" source="ftKmftb66T_5zK8bnGlW-156" target="ftKmftb66T_5zK8bnGlW-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ftKmftb66T_5zK8bnGlW-156" value="发送广播" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ftKmftb66T_5zK8bnGlW-156" value="登录成功回调" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-1799" y="28466" width="163.01" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ftKmftb66T_5zK8bnGlW-158" value="登录成功回调" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#9673a6;fontFamily=Comic Sans MS;fontSize=15;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="ftKmftb66T_5zK8bnGlW-158" value="发送广播" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#9673a6;fontFamily=Comic Sans MS;fontSize=15;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="-1803" y="28565" width="163.01" height="55" as="geometry" />
         </mxCell>
       </root>
