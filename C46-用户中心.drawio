@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T03:51:54.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ohl-_bwr7tNhop-Xqdzt" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T03:55:45.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6yqUEhuIKIaOx--9lTqH" version="21.6.5" type="github">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
     <mxGraphModel dx="3750" dy="3863" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="-956.59" y="22068" width="1445" height="437" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-10" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="19004" width="367" height="279" as="geometry" />
+          <mxGeometry x="-490" y="19004" width="359" height="190" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-52" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-642" y="16068" width="785" height="180" as="geometry" />
@@ -3017,16 +3017,13 @@
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-149" value="DataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-477.98" y="18533" width="286" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B-V5Tc_pzAT3UOnryDUB-150" value="ViewModel" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="-479.99" y="18365" width="167.99" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="B-V5Tc_pzAT3UOnryDUB-151" value="View" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-479.99" y="18282" width="164.99" height="60" as="geometry" />
+        <mxCell id="B-V5Tc_pzAT3UOnryDUB-150" value="APP进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="-479.99" y="18278" width="167.99" height="147" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-152" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-479.99" y="18455" width="286" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B-V5Tc_pzAT3UOnryDUB-154" value="Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="B-V5Tc_pzAT3UOnryDUB-154" value="Service进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="-291.05" y="18278" width="98.05" height="151" as="geometry" />
         </mxCell>
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-156" value="1、Service进程取内存的值&lt;br&gt;2、APP进程取AIDL的值&lt;br&gt;3、1和2AIDL本身就支持&lt;br&gt;4、数据库的值，Service进程通过contentProvider&lt;br&gt;5、数据库的值，APP进程直接保存到数据库&lt;br&gt;6、代理模式" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;flipV=0;direction=south;align=left;" parent="1" vertex="1">
@@ -3038,29 +3035,26 @@
         <mxCell id="B-V5Tc_pzAT3UOnryDUB-159" value="1、非主流程，不要影响主流程，例如隐私协议、三方绑定等等&lt;br&gt;2、" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Comic Sans MS;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-488" y="18706" width="346" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="bwdZmp--9l1pZPXtv23i-1" value="接口层" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-454" y="19114" width="295" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-2" value="APP进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-456.01" y="18848" width="164.01" height="146" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-4" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="-456.01" y="19025" width="136.01" height="60" as="geometry" />
+          <mxGeometry x="-456.01" y="19025" width="163.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-5" value="Service进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="-267.07" y="18847" width="98.05" height="151" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-6" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="-291" y="19025" width="128" height="60" as="geometry" />
+          <mxGeometry x="-270" y="19025" width="101" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-7" value="DataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="-456.01" y="19200" width="144.01" height="60" as="geometry" />
+          <mxGeometry x="-450.18" y="19109" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-8" value="DataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="-289" y="19200" width="135" height="60" as="geometry" />
+          <mxGeometry x="-270" y="19111" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-12" value="1、同一套代码，在不同进程执行&lt;br&gt;2、APP进程通过AIDL访问Service进程&lt;br&gt;3、Service进程通过ContentProvider访问APP进程" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f5f5f5;flipV=1;direction=south;align=left;fontColor=#333333;size=44;position=0.37;" parent="1" vertex="1">
-          <mxGeometry x="-102.93" y="19098" width="276" height="92" as="geometry" />
+          <mxGeometry x="-114" y="19085" width="276" height="92" as="geometry" />
         </mxCell>
         <mxCell id="bwdZmp--9l1pZPXtv23i-15" value="APP进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-472.05" y="19367" width="164.01" height="146" as="geometry" />
@@ -4006,24 +4000,24 @@
           <mxGeometry x="-334.00999999999993" y="27116" width="163.01" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ftKmftb66T_5zK8bnGlW-116" value="APP进程" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-1637" y="15579" width="224" height="117" as="geometry" />
+          <mxGeometry x="-1296" y="18335.5" width="224" height="117" as="geometry" />
         </mxCell>
         <mxCell id="ftKmftb66T_5zK8bnGlW-117" value="三方进程" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fontFamily=Comic Sans MS;fontSize=15;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="-1260" y="15579" width="224" height="117" as="geometry" />
+          <mxGeometry x="-919" y="18335.5" width="224" height="117" as="geometry" />
         </mxCell>
         <mxCell id="ftKmftb66T_5zK8bnGlW-122" value="Service进程" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;fontFamily=Comic Sans MS;fontSize=15;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-1450" y="15761" width="224" height="117" as="geometry" />
+          <mxGeometry x="-1109" y="18517.5" width="224" height="117" as="geometry" />
         </mxCell>
         <mxCell id="ftKmftb66T_5zK8bnGlW-123" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;curved=1;startArrow=block;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ftKmftb66T_5zK8bnGlW-116" target="ftKmftb66T_5zK8bnGlW-122">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1516" y="15717" as="sourcePoint" />
-            <mxPoint x="-1438" y="15717" as="targetPoint" />
+            <mxPoint x="-1175" y="18473.5" as="sourcePoint" />
+            <mxPoint x="-1097" y="18473.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftKmftb66T_5zK8bnGlW-124" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;labelBackgroundColor=default;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=15;fontColor=default;curved=1;startArrow=block;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftKmftb66T_5zK8bnGlW-117" target="ftKmftb66T_5zK8bnGlW-122">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1140" y="15750" as="sourcePoint" />
-            <mxPoint x="-1022" y="15862" as="targetPoint" />
+            <mxPoint x="-799" y="18506.5" as="sourcePoint" />
+            <mxPoint x="-681" y="18618.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
