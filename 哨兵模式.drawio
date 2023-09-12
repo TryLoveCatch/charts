@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T03:24:45.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="UDijuNR5By9laO9Qt59j" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T03:32:44.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yISLWyX-vT46ZPiD0RkK" version="21.7.2" type="github">
   <diagram name="第 1 页" id="FeDAz2yLDvK6xiYRFFCP">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="638" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-1" value="待机状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="17" y="141" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="WCTlzMXXT-KYrttnkhmQ-2" target="WCTlzMXXT-KYrttnkhmQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-5" value="LVDS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="WCTlzMXXT-KYrttnkhmQ-4">
+          <mxGeometry x="0.0619" y="5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-2" value="APA" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="59" y="210" width="109" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-3" value="ICC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="281" y="210" width="109" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-6" value="事件状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="17" y="329" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="WCTlzMXXT-KYrttnkhmQ-9" target="WCTlzMXXT-KYrttnkhmQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-8" value="LVDS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="WCTlzMXXT-KYrttnkhmQ-7">
+          <mxGeometry x="0.0619" y="5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-9" value="APA" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="59" y="398" width="109" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="WCTlzMXXT-KYrttnkhmQ-10" target="WCTlzMXXT-KYrttnkhmQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-15" value="FTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="WCTlzMXXT-KYrttnkhmQ-14">
+          <mxGeometry x="-0.2593" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-10" value="ICC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="281" y="398" width="109" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="WCTlzMXXT-KYrttnkhmQ-11" target="WCTlzMXXT-KYrttnkhmQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-11" value="事件" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="281" y="541" width="109" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-13" value="DVR" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="498" y="398" width="109" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-16" value="1、图像处理&lt;br&gt;2、输出MP4" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="284" y="321" width="112" height="69" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
