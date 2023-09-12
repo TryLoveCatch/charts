@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T03:47:50.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Hwo52CQxM8y2Z7KPwIFy" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T03:57:42.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="u-gL8ssyW36hNDsuukQW" version="21.7.2" type="github">
   <diagram name="第 1 页" id="FeDAz2yLDvK6xiYRFFCP">
     <mxGraphModel dx="1050" dy="638" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="WCTlzMXXT-KYrttnkhmQ-21" value="ECU" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="504" y="644" width="109" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-26" value="缓存最近两分钟视频" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="284" y="136" width="112" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
