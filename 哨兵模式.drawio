@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T03:57:42.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="u-gL8ssyW36hNDsuukQW" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T04:03:16.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QhhiS8o5oD5bID-wLP8O" version="21.7.2" type="github">
   <diagram name="第 1 页" id="FeDAz2yLDvK6xiYRFFCP">
     <mxGraphModel dx="1050" dy="638" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,19 @@
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="WCTlzMXXT-KYrttnkhmQ-10" target="WCTlzMXXT-KYrttnkhmQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="363" y="368" />
+              <mxPoint x="525" y="368" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-28" value="DVR录制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="WCTlzMXXT-KYrttnkhmQ-27">
+          <mxGeometry x="0.1164" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WCTlzMXXT-KYrttnkhmQ-10" value="ICC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="281" y="398" width="109" height="51" as="geometry" />
         </mxCell>
@@ -93,6 +106,36 @@
         </mxCell>
         <mxCell id="WCTlzMXXT-KYrttnkhmQ-26" value="缓存最近两分钟视频" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="284" y="136" width="112" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-29" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="98" y="820" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-30" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="396" y="820" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-31" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="247" y="820" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-32" value="前两分钟" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="118" y="779" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-33" value="后两分钟" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="429" y="779" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-34" value="事件中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="274" y="779" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-35" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="446" y="869" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-36" value="事件2触发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="479" y="889" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-37" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;direction=north;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="324" y="894" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WCTlzMXXT-KYrttnkhmQ-38" value="前两分钟吗？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="350" y="924" width="77" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
