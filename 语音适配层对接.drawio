@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T05:53:21.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="YY_hqcGJu9soWC-GUCt7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T05:57:30.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="__czxp-JZjpRInloGFz2" version="22.1.4" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
-    <mxGraphModel>
+    <mxGraphModel dx="1450" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4i7KHp0y6DTovzWUpK-D-1" value="语音厂商" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4i7KHp0y6DTovzWUpK-D-2" value="语音厂商" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4i7KHp0y6DTovzWUpK-D-3" value="语音适配层" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
