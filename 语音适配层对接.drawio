@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T06:20:41.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rOvjadUSkVaNaUdGb3-t" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T06:23:21.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Fp8A03zL0XFPed7o38bD" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
         <mxCell id="lcLU0hfqhYh_Q9zvZTJo-76" value="1、接收的参数是思必驰返回cmd和data，返回值为List&amp;lt;AbstractNluParser&amp;gt;&lt;br&gt;2、根据cmd区分单意图还是多意图&lt;br&gt;3、大多数可以直接根据cmd来确定解析器&lt;br&gt;4、车控类的指令，需要根据cmd和data里面的json数据来确定解析器&lt;br&gt;5、还有有一个默认的解析器CommonParser，直接cmd和data进行了包装&lt;br&gt;6、多意图，就是解析data里面的数据，确定有几个意图，然后遍历，执行单意图的逻辑，有三点不太一样：&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;6.1、返回的解析器集合，单意图一般是一个，多意图会有多个&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;6.2、多意图需要立马返回一个好的&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;6.3、解析器里面有一个boolean值，标识是否为多意图" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f5f5f5;direction=west;size=30;position=0.44;base=31;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-300" y="3400" width="320" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-77" value="1、通过NluParserFactory找到指令对应的解析器&lt;br&gt;2、通过SpeechDispatcher发送NLU消息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=south;size=38;position=0.38;base=10;" vertex="1" parent="1">
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-77" value="1、指令解析器基础类&lt;br&gt;2、主要方法为parse，返回一个NluMsgBean，&lt;br&gt;3、这个Bean是NLU消息对应的实体类，用于发送消息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=south;size=38;position=0.38;base=10;" vertex="1" parent="1">
           <mxGeometry x="202" y="3310" width="290" height="80" as="geometry" />
         </mxCell>
       </root>
