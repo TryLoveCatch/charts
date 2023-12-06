@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T09:06:13.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GwFeeMhJScj7wXlOD8E3" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T09:10:59.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zo89q4gKFR25dkU95fqn" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -528,6 +528,36 @@
         </mxCell>
         <mxCell id="lcLU0hfqhYh_Q9zvZTJo-130" value="1、初始化消息框架&lt;br&gt;2、注册消息监听" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;direction=west;size=30;position=0.45;base=20;" vertex="1" parent="1">
           <mxGeometry x="80.07" y="4910" width="154.87" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-136" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="lcLU0hfqhYh_Q9zvZTJo-131" target="lcLU0hfqhYh_Q9zvZTJo-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-139" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="lcLU0hfqhYh_Q9zvZTJo-131" target="lcLU0hfqhYh_Q9zvZTJo-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-131" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;消息&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="5160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-132" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;NLU&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="5070" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-133" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Result&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="5145" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-134" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;TTS&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="5220" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-135" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Event&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="5300" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-137" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="lcLU0hfqhYh_Q9zvZTJo-131" target="lcLU0hfqhYh_Q9zvZTJo-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-138" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="lcLU0hfqhYh_Q9zvZTJo-131" target="lcLU0hfqhYh_Q9zvZTJo-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-140" value="1、NLU&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;语音层接收的消息不可能是NLU消息，因为这个NLU消息是语音层发送的&lt;br&gt;2、Result&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;这个是对NLU消息的结果返回&lt;br&gt;3、TTS&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;这个是调用语音层的能力，播放TTS，其实可以封装到Event里面。&lt;br&gt;4、Event&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;模块间的消息通信。例如免唤醒的结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="5120" width="254" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
