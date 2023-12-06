@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T08:33:58.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bXyIaQM4aiWyffy92_jd" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T08:37:57.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Am8hBLfTyxoG4qoBTHeJ" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,6 +433,9 @@
         </mxCell>
         <mxCell id="lcLU0hfqhYh_Q9zvZTJo-90" value="1、发送NLU消息&lt;br&gt;2、需要注意的是，发送的是同步消息，因为免唤醒需要同步返回结果。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;direction=west;size=30;position=0.45;base=20;" vertex="1" parent="1">
           <mxGeometry x="82.56" y="3860" width="154.87" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-91" value="&lt;h1&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;消息处理&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;1、消息发送&lt;br&gt;&lt;/p&gt;&lt;p&gt;2、消息接收&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-334" y="4080" width="334" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
