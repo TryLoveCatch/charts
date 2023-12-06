@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T01:22:46.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GZqCpTJFxwscA5h5qSdI" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T02:06:57.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OjLNT42j2-9YSKD700xH" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
           <mxGeometry x="-260" y="1260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4i7KHp0y6DTovzWUpK-D-38" value="1、VoiceCommandClazz注解，用于标识需要解析assets下面的json文件，生成VoiceCommand&lt;br&gt;2、初始化消息通信框架，并注册消息监听&lt;br&gt;3、添加事件消息的处理器，有两个 来源，一个是本身就是语音层需要处理的，另一个是上层自己处理的" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=north;position2=0.55;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="1250" width="240" height="110" as="geometry" />
+          <mxGeometry x="-530" y="1250" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4i7KHp0y6DTovzWUpK-D-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;endArrow=classic;" parent="1" source="4i7KHp0y6DTovzWUpK-D-41" target="4i7KHp0y6DTovzWUpK-D-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
