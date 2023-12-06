@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T03:19:35.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6EnGUayDXDQME_gw8GCL" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T03:19:43.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="r2E6hsrZd4tIVXcYBzqE" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
         <mxCell id="lcLU0hfqhYh_Q9zvZTJo-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="lcLU0hfqhYh_Q9zvZTJo-20" target="lcLU0hfqhYh_Q9zvZTJo-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-19" value="根据VoiceCommandClazz&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;注解解析wakeup.json生成类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="lcLU0hfqhYh_Q9zvZTJo-18">
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-19" value="根据VoiceCommandClazz注解&lt;br&gt;解析wakeup.json生成类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="lcLU0hfqhYh_Q9zvZTJo-18">
           <mxGeometry x="-0.1462" y="1" relative="1" as="geometry">
             <mxPoint x="13" y="-19" as="offset" />
           </mxGeometry>
