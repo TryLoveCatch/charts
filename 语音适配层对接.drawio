@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T01:22:22.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="m2J1mNtTGq9lkBOM3nOw" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T01:22:46.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GZqCpTJFxwscA5h5qSdI" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
         <mxCell id="4i7KHp0y6DTovzWUpK-D-59" value="订阅语音指令&lt;br&gt;1、订阅DUI指令，并集&lt;br&gt;2、订阅免唤醒，区分车型&lt;br&gt;3、语音引擎Jar回调，区分车型&lt;br&gt;4、订阅打开三方应用指令，sys.车载控制应用名" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;direction=south;size=30;position=0.33;base=10;" parent="1" vertex="1">
           <mxGeometry x="140" y="1110" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4i7KHp0y6DTovzWUpK-D-60" value="分发指令&lt;br&gt;1、发送NLU消息。主要是厂商的语义消息&lt;br&gt;2、同步发送NLU消息。主要是免唤醒，需要同步返回结果&lt;br&gt;3、发送事件消息。主要是通知其他模块处理&lt;br&gt;4、同步发送事件消息。针对思必驰Jar里面的回调&lt;br&gt;5、发送广播消息。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f8cecc;direction=south;size=30;position=0.33;base=10;" parent="1" vertex="1">
+        <mxCell id="4i7KHp0y6DTovzWUpK-D-60" value="分发指令&lt;br&gt;1、发送NLU消息。主要是厂商的语义消息&lt;br&gt;2、同步发送NLU消息。主要是免唤醒，需要同步返回结果&lt;br&gt;3、发送事件消息。主要是通知其他模块处理&lt;br&gt;4、同步发送事件消息。针对思必驰Jar里面的回调&lt;br&gt;5、发送广播消息。无需接收方" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f8cecc;direction=south;size=30;position=0.33;base=10;" parent="1" vertex="1">
           <mxGeometry x="110" y="1425" width="340" height="110" as="geometry" />
         </mxCell>
       </root>
