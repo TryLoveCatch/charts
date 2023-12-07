@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T04:04:15.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oxl4cEw6FG471_oKTd2T" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T04:04:39.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="63Rb4soMc0wfH0lQ4CNU" version="22.1.7" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -645,7 +645,7 @@
           <mxGeometry x="-320" y="6220" width="440" height="160" as="geometry" />
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-2" value="语音适配层" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-367" y="6529" width="120" height="60" as="geometry" />
+          <mxGeometry x="-283" y="6509" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;endArrow=classic;fillColor=#d5e8d4;" edge="1" parent="1" source="O1BhySs6jEzZFm_wkth8-3" target="O1BhySs6jEzZFm_wkth8-2">
           <mxGeometry relative="1" as="geometry" />
@@ -656,18 +656,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="56" y="6514" width="200" height="90" as="geometry" />
+          <mxGeometry x="140" y="6494" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-4" value="UISDK" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="68.56" y="6554" width="70" height="40" as="geometry" />
+          <mxGeometry x="152.56" y="6534" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-5" value="语音UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="126" y="6514" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="6494" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-6" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-120" y="6714" as="sourcePoint" />
-            <mxPoint x="-120" y="6454" as="targetPoint" />
+            <mxPoint x="-36" y="6694" as="sourcePoint" />
+            <mxPoint x="-36" y="6434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;curved=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="O1BhySs6jEzZFm_wkth8-2" target="O1BhySs6jEzZFm_wkth8-3">
@@ -679,7 +679,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-9" value="voice-contract" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-162.5" y="6423" width="90" height="30" as="geometry" />
+          <mxGeometry x="-78.5" y="6403" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
