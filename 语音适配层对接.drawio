@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T02:45:32.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mvgQZi6s_0UE410DYCYZ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T02:51:43.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UwKl1gSdSRqfCEhv-4Uy" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -607,8 +607,8 @@
         <mxCell id="lcLU0hfqhYh_Q9zvZTJo-168" value="1、根据消息类型判断，如果是Event类型，就是Event结果返回&lt;br&gt;2、Json转换为EventMsgBean" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f5f5f5;direction=west;size=30;position=0.45;base=20;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-140.75" y="5807" width="177.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-169" value="1、SpeechBase.内部有一个List&amp;lt;EventHandlerInterface&amp;gt;列表，Event消息来了之后，会遍历SpeechBase.eventHandlerList，调用其processModuleEvent()处理Event消息。&lt;br&gt;2、目前主要有三个Event处理器，通用、导航和蓝牙电话" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=south;size=30;position=0.51;base=20;flipV=1;position2=0.55;" vertex="1" parent="1">
-          <mxGeometry x="151.5" y="5710" width="530" height="187" as="geometry" />
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-169" value="1、SpeechBase.内部有一个List&amp;lt;EventHandlerInterface&amp;gt;列表，Event消息来了之后，会遍历SpeechBase.eventHandlerList，调用其processModuleEvent()处理Event消息。&lt;br&gt;2、目前语音层的Event处理器有三个Event处理器，通用、导航和蓝牙电话&lt;br&gt;3、另外不同车型也可以添加不同的Event处理器到SpeechBase.eventHandlerList&lt;br&gt;4、这个SpeechBase.eventHandlerList赋值是在SpeechBase初始化的时候，在语音初始化模块有分析过&lt;br&gt;5、举几个例子&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5.1、通用Event处理器里面，处理OTA升级、倒车语音不响应的逻辑&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5.2、蓝牙电话Event处理器里面，当蓝牙电话来电了，需要告知思必驰" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=south;size=30;position=0.51;base=20;flipV=1;position2=0.55;" vertex="1" parent="1">
+          <mxGeometry x="147" y="5720" width="530" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
