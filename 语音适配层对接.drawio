@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T03:02:49.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lRM3SEi0Yk8fhL-78VOn" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T03:54:38.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FlrpAY7KWQ8qHfpDjBXS" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -632,14 +632,17 @@
         </mxCell>
         <mxCell id="lcLU0hfqhYh_Q9zvZTJo-176" value="" style="endArrow=none;dashed=1;html=1;rounded=1;labelBackgroundColor=default;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-462" y="6210" as="sourcePoint" />
-            <mxPoint x="714" y="6210" as="targetPoint" />
+            <mxPoint x="-462" y="7320" as="sourcePoint" />
+            <mxPoint x="714" y="7320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lcLU0hfqhYh_Q9zvZTJo-177" value="中间层" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="lcLU0hfqhYh_Q9zvZTJo-176">
           <mxGeometry x="-0.142" y="4" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-178" value="&lt;h1&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;VUI&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;1、语音层主要是服务端，有几个作用：&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.1、根据客户端类型，返回对应的IBinder&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.2、根据客户端调用的方法，在Stub里面处理具体的业务逻辑&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.3、接收客户端的IBinder，在合适的地方，调用对应的方法，告知客户端&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="6220" width="340" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
