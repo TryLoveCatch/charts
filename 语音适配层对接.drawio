@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T02:57:14.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="p70pYDK50e16SEEkNTX-" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T02:59:32.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MqPhlSHEzHDY7LxyHYpD" version="22.1.5" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -629,6 +629,17 @@
         </mxCell>
         <mxCell id="lcLU0hfqhYh_Q9zvZTJo-175" value="1、区分是否上屏&lt;br&gt;2、根据是否上屏，调用思必驰的不同播报TTS接口" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=south;size=30;position=0.51;base=20;flipV=1;position2=0.55;" vertex="1" parent="1">
           <mxGeometry x="146" y="5982" width="323" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-176" value="" style="endArrow=none;dashed=1;html=1;rounded=1;labelBackgroundColor=default;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-462" y="6210" as="sourcePoint" />
+            <mxPoint x="714" y="6210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lcLU0hfqhYh_Q9zvZTJo-177" value="中间层" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="lcLU0hfqhYh_Q9zvZTJo-176">
+          <mxGeometry x="-0.142" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
