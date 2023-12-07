@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T04:05:40.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cXUr4nGxCG76A1cUZd92" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T07:13:13.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gj8dhRJ4b58bKuBLbP77" version="22.1.7" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -680,6 +680,12 @@
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-9" value="voice-contract" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-78.5" y="6403" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1BhySs6jEzZFm_wkth8-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;VuiSdk&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="-272.25" y="6740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O1BhySs6jEzZFm_wkth8-14" value="1、语音适配层通过这个类可以调用到响应模块的XxxUiClientInterface方法，来通知UI层进行对应的展示" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f5f5f5;direction=north;size=30;position=0.45;base=20;fontColor=#333333;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-140.75" y="6746.25" width="313.34" height="73.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
