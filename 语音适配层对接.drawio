@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T09:30:37.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4cSuTh0b8jmqk9IUgbu5" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T09:32:18.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HzbUntz8zPE4XkpwQOmy" version="22.1.7" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1905" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -933,6 +933,12 @@
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-114" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="O1BhySs6jEzZFm_wkth8-111" target="O1BhySs6jEzZFm_wkth8-112">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1BhySs6jEzZFm_wkth8-116" value="1、华阳&lt;br&gt;2、哈曼" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=south;size=30;position=0.45;base=20;" vertex="1" parent="1">
+          <mxGeometry x="147" y="9835.82" width="103" height="54.18" as="geometry" />
+        </mxCell>
+        <mxCell id="O1BhySs6jEzZFm_wkth8-117" value="1、高德&lt;br&gt;2、腾讯&lt;br&gt;3、网易云&lt;br&gt;4、雷石&lt;br&gt;5、喜马拉雅" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;direction=south;size=30;position=0.45;base=20;" vertex="1" parent="1">
+          <mxGeometry x="147" y="9940" width="136" height="94.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
