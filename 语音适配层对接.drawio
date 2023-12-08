@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T09:12:01.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FMQYOsDvQasMC2UCeEuZ" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T09:18:06.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BAgUY7Y4fPI3NWmqqva6" version="22.1.7" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1905" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -907,6 +907,17 @@
         </mxCell>
         <mxCell id="O1BhySs6jEzZFm_wkth8-108" value="1、onNluCall&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.1、从SystemImpl里面找到对应的XxxProjectImpl&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1.2、根据数据里面的orderType，调用XxxProjectImpl对应的方法&lt;br&gt;2、onEventCall&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1、按需实现，很多都是空实现&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2、发送事件消息&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2.1、发送给语音层&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2.2、发送给其他模块" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;direction=south;size=30;position=0.45;base=20;" vertex="1" parent="1">
           <mxGeometry x="195" y="9460" width="366.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="O1BhySs6jEzZFm_wkth8-109" value="" style="endArrow=none;dashed=1;html=1;rounded=1;labelBackgroundColor=default;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=14;fontColor=default;shape=connector;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-476.38" y="9780" as="sourcePoint" />
+            <mxPoint x="699.62" y="9780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1BhySs6jEzZFm_wkth8-110" value="业务层" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" connectable="0" parent="O1BhySs6jEzZFm_wkth8-109">
+          <mxGeometry x="-0.142" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
