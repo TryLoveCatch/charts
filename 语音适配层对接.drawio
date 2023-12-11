@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T08:13:59.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FLmJjQOMDXbYIqRfru5Z" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T08:14:56.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ho2dRU0NR9vCVj7dxz84" version="22.1.7" type="github">
   <diagram name="第 1 页" id="d6u8rMSGMx_cfphLrP2_">
     <mxGraphModel dx="1850" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1072,7 +1072,7 @@
         <mxCell id="1GIAz-41YqI4x0j2uPhj-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.212;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="1" source="1GIAz-41YqI4x0j2uPhj-39" target="1GIAz-41YqI4x0j2uPhj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1GIAz-41YqI4x0j2uPhj-51" value="1、在MediaProjectImpl里面会进行仲裁，决定是调用哪个三方的逻辑" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#dae8fc;direction=west;size=40;position=0.31;position2=0.14;base=20;" vertex="1" parent="1">
+        <mxCell id="1GIAz-41YqI4x0j2uPhj-51" value="1、在MediaProjectImpl里面会进行仲裁，决定是调用哪个三方的逻辑&lt;br&gt;2、目前仲裁逻辑有两个：&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1、音频焦点&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2、前台\后台" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;dashed=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#dae8fc;direction=west;size=40;position=0.31;position2=0.14;base=20;" vertex="1" parent="1">
           <mxGeometry x="-64" y="10990" width="190" height="130" as="geometry" />
         </mxCell>
       </root>
