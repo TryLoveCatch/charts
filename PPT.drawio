@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:17:11.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HvekbBy0cWBrtMu0Vz-2" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:17:39.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="40gkm1voI3VIpgLsnJvu" version="24.0.7" type="github">
   <diagram name="第 1 页" id="_ezP6FdAih6US3dKR02p">
     <mxGraphModel dx="1450" dy="1426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,19 +10,19 @@
         <mxCell id="y9fO-XsbQayIAW7Wvodx-7" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.hard_drive;fillColor=#637D8A;gradientColor=#324752;strokeColor=none;rounded=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="139" y="-88" width="122" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-8" value="硬件平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-8" value="硬件平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="174" y="-34" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
           <mxGeometry x="388" y="-273.5" width="134.92" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-10" value="云端数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-10" value="云端数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="425.46000000000004" y="-180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Kubernetes_Fleet_Manager.svg;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;verticalAlign=middle;fontFamily=Comic Sans MS;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
           <mxGeometry x="-94" y="-271" width="88" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-13" value="三方能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-13" value="三方能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-83" y="-172" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_android;rounded=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
