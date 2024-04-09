@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:18:02.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="z7Xhd0_4bcMOqc1uJVDZ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:19:56.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zu4iooj0mA0dp1RVEU97" version="24.0.7" type="github">
   <diagram name="第 1 页" id="_ezP6FdAih6US3dKR02p">
     <mxGraphModel dx="1450" dy="1426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,7 @@
           <mxGeometry x="139" y="-88" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-8" value="硬件平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="174" y="-34" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
-          <mxGeometry x="388" y="-273.5" width="134.92" height="85" as="geometry" />
+          <mxGeometry x="174" y="-32" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-10" value="云端数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="425.46000000000004" y="-180" width="60" height="30" as="geometry" />
@@ -54,6 +51,9 @@
             <mxPoint x="193.5" y="-278" as="sourcePoint" />
             <mxPoint x="193.5" y="-355" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;rounded=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="386" y="-266" width="134" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
