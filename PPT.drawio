@@ -1,14 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:03:43.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3Q7WIQYu0qYvcNpaiLbU" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:16:48.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FDANLJUILnl-0RxzoSe0" version="24.0.7" type="github">
   <diagram name="第 1 页" id="_ezP6FdAih6US3dKR02p">
-    <mxGraphModel dx="1050" dy="1026" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1450" dy="1426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y9fO-XsbQayIAW7Wvodx-1" value="Android OS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="4" y="315" width="607" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-3" value="&lt;font&gt;应用软件层&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
-          <mxGeometry x="129" y="-271" width="120" height="80" as="geometry" />
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-7" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.hard_drive;fillColor=#637D8A;gradientColor=#324752;strokeColor=none;rounded=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="139" y="-88" width="122" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-8" value="硬件平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="174" y="-34" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="388" y="-273.5" width="134.92" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-10" value="云端数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="425.46000000000004" y="-180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Kubernetes_Fleet_Manager.svg;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;verticalAlign=middle;fontFamily=Comic Sans MS;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="-271" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-13" value="三方能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-83" y="-172" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_android;rounded=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="142" y="-264" width="119" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;rounded=1;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="144" y="-453" width="94" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-19" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="15" y="-220.5" as="sourcePoint" />
+            <mxPoint x="122" y="-220.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-20" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="272" y="-224" as="sourcePoint" />
+            <mxPoint x="379" y="-224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-21" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="199" y="-182" as="sourcePoint" />
+            <mxPoint x="199" y="-97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;endWidth=25;endSize=7.67;width=23;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="193.5" y="-278" as="sourcePoint" />
+            <mxPoint x="193.5" y="-355" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
