@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:25:25.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7qvGi6QpqXlLLytgJKFA" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:25:44.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4hyodYth7ViphhZ9mII_" version="24.0.7" type="github">
   <diagram name="第 1 页" id="_ezP6FdAih6US3dKR02p">
     <mxGraphModel dx="1635" dy="1536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="y9fO-XsbQayIAW7Wvodx-37" value="网络库" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#ffcccc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="22.25" y="549" width="114" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-38" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-38" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="440.25" y="511" width="169" height="210" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-39" value="&lt;b&gt;三方接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -100,25 +100,25 @@
         <mxCell id="y9fO-XsbQayIAW7Wvodx-40" value="地图" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#fad7ac;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="453.25" y="546" width="62" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-41" value="语音" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-41" value="语音" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#d0cee2;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="533.25" y="546" width="62" height="35" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-42" value="音乐" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#fad7ac;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="453.25" y="587" width="62" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-43" value="游戏" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-43" value="游戏" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#d0cee2;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="538.25" y="587" width="62" height="35" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-44" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#fad7ac;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="453.25" y="631" width="62" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-45" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-45" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#d0cee2;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="538.25" y="631" width="62" height="35" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-46" value="天气" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#fad7ac;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="456.25" y="675" width="62" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="y9fO-XsbQayIAW7Wvodx-47" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="y9fO-XsbQayIAW7Wvodx-47" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#d0cee2;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="538.25" y="675" width="62" height="35" as="geometry" />
         </mxCell>
         <mxCell id="y9fO-XsbQayIAW7Wvodx-48" value="MVI库" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=#ffcccc;fillStyle=solid;" vertex="1" parent="1">
