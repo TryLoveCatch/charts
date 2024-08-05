@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-05T07:52:33.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8TMacXpsWrVBVCLQOtMD" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-05T08:19:39.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4NbxMPdYBug2aFTjlRWD" version="24.6.0" type="github">
   <diagram name="第 1 页" id="vZNRNvNg1LICzzsJC16B">
     <mxGraphModel dx="1450" dy="1026" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,18 @@
         </mxCell>
         <mxCell id="rI_pii_pBIPFBuCm645B-20" value="1、播放模块入口&lt;div&gt;2、音视频控制逻辑&lt;/div&gt;&lt;div&gt;3、&lt;span style=&quot;background-color: initial;&quot;&gt;IPlayerView回调&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" vertex="1" parent="1">
           <mxGeometry x="-39" y="853.5" width="177" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rI_pii_pBIPFBuCm645B-21" value="AdayoAccountManager" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1116" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rI_pii_pBIPFBuCm645B-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="306" y="1086" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rI_pii_pBIPFBuCm645B-23" value="1、同等同出&lt;br&gt;2、绑定流程" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="1119.5" width="177" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rI_pii_pBIPFBuCm645B-24" value="三方绑定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="1029" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
