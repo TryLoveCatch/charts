@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-05T07:50:41.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5AX4W_Nqu4jpQ1JlXy9w" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-05T07:52:33.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8TMacXpsWrVBVCLQOtMD" version="24.6.0" type="github">
   <diagram name="第 1 页" id="vZNRNvNg1LICzzsJC16B">
     <mxGraphModel dx="1450" dy="1026" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="rI_pii_pBIPFBuCm645B-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="294" y="531" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rI_pii_pBIPFBuCm645B-12" value="1、使用ExoPlayer，处理播放逻辑&lt;div&gt;2、对外暴露IPlayerView&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" vertex="1" parent="1">
+        <mxCell id="rI_pii_pBIPFBuCm645B-12" value="1、使用ExoPlayer，处理播放器逻辑&lt;div&gt;2、对外暴露IPlayerView&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" vertex="1" parent="1">
           <mxGeometry x="-44" y="564.5" width="177" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="rI_pii_pBIPFBuCm645B-13" value="播放模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
@@ -48,6 +48,15 @@
         </mxCell>
         <mxCell id="rI_pii_pBIPFBuCm645B-16" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" vertex="1" parent="1">
           <mxGeometry x="-44" y="710.5" width="177" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rI_pii_pBIPFBuCm645B-18" value="IPlayerPresenter" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="155" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rI_pii_pBIPFBuCm645B-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="299" y="820" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rI_pii_pBIPFBuCm645B-20" value="1、播放模块入口&lt;div&gt;2、音视频控制逻辑&lt;/div&gt;&lt;div&gt;3、&lt;span style=&quot;background-color: initial;&quot;&gt;IPlayerView回调&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="853.5" width="177" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
