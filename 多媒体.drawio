@@ -115,6 +115,9 @@
         <mxCell id="aCMh7m9hiYbjE-_qJLpg-13" value="RadioManager" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="711" y="586" width="82" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="aCMh7m9hiYbjE-_qJLpg-14" value="UI" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="608" y="516.5" width="184" height="51.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
