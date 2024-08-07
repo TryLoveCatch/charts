@@ -43,7 +43,7 @@
         <mxCell id="rI_pii_pBIPFBuCm645B-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="294" y="774" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rI_pii_pBIPFBuCm645B-16" value="1、播放前的处理，例如播放列表的获取&lt;div&gt;2、&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" parent="1" vertex="1">
+        <mxCell id="rI_pii_pBIPFBuCm645B-16" value="1、播放前的处理，例如播放列表的获取&lt;div&gt;2、当前播放的保存逻辑&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" parent="1" vertex="1">
           <mxGeometry x="-44" y="807.5" width="177" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="rI_pii_pBIPFBuCm645B-18" value="IPlayerPresenter" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
