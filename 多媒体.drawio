@@ -124,7 +124,7 @@
         <mxCell id="aCMh7m9hiYbjE-_qJLpg-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="308" y="1644" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aCMh7m9hiYbjE-_qJLpg-17" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" vertex="1" parent="1">
+        <mxCell id="aCMh7m9hiYbjE-_qJLpg-17" value="1、Service服务" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" vertex="1" parent="1">
           <mxGeometry x="-30" y="1677.5" width="177" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="aCMh7m9hiYbjE-_qJLpg-18" value="仪表通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
