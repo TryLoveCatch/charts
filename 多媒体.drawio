@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BzF6WY7H4D1moD96wcmC-43" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1025.5" y="521" width="184" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="BzF6WY7H4D1moD96wcmC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="381" y="33" width="335" height="143" as="geometry" />
         </mxCell>
@@ -247,11 +250,47 @@
         <mxCell id="BzF6WY7H4D1moD96wcmC-39" value="聚合" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="1044.25" y="373" width="44" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;curved=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="BzF6WY7H4D1moD96wcmC-40" target="BzF6WY7H4D1moD96wcmC-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BzF6WY7H4D1moD96wcmC-40" value="自制" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="1096.5" y="373" width="44" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BzF6WY7H4D1moD96wcmC-41" value="广播" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="1149" y="374" width="44" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-42" value="分类" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1040.75" y="550" width="64.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-45" value="子类" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1120.5" y="550" width="64.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-46" value="专辑" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1040.75" y="588" width="64.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-47" value="声音列表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1120.5" y="588" width="64.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-48" value="自制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="521" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-56" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="361" width="184" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-57" value="分类" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1272.25" y="390" width="64.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-58" value="子类" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1352" y="390" width="64.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-59" value="专辑" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1272.25" y="428" width="64.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-60" value="声音列表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1352" y="428" width="64.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-61" value="广播" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1319" y="361" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
