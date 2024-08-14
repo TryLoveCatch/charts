@@ -208,6 +208,39 @@
         <mxCell id="BzF6WY7H4D1moD96wcmC-18" value="喜马拉雅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="576" y="283" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-26" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="853" y="103" width="368" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-27" value="TSP" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="876" y="158" width="120" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-28" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="158" width="169" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-29" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="188" width="141" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-30" value="网络接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="988" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-31" value="依赖 Token" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="337" width="107.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-32" value="喜马拉雅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1080.5" y="156" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-33" value="不依赖Token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="184" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-34" value="登&lt;div&gt;录&lt;/div&gt;&lt;div&gt;二&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1044" y="220" width="27" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-36" value="登&lt;div&gt;录&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1088.25" y="222" width="27" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-37" value="游&lt;div&gt;客token&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="222" width="27" height="86" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
