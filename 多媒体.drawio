@@ -217,7 +217,7 @@
         <mxCell id="BzF6WY7H4D1moD96wcmC-27" value="TSP" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="876" y="158" width="120" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="BzF6WY7H4D1moD96wcmC-28" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="BzF6WY7H4D1moD96wcmC-28" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=zigzag;" vertex="1" parent="1">
           <mxGeometry x="1026" y="158" width="182" height="297" as="geometry" />
         </mxCell>
         <mxCell id="BzF6WY7H4D1moD96wcmC-29" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillStyle=auto;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
