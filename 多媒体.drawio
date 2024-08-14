@@ -196,13 +196,13 @@
         <mxCell id="BzF6WY7H4D1moD96wcmC-17" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="549" y="283" width="124" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="BzF6WY7H4D1moD96wcmC-12" value="不依赖TSP bindToken" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#dae8fc;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="BzF6WY7H4D1moD96wcmC-12" value="不依赖 Token" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#dae8fc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="560" y="313" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BzF6WY7H4D1moD96wcmC-13" value="网络接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="511" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BzF6WY7H4D1moD96wcmC-14" value="依赖TSP bindToken" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="BzF6WY7H4D1moD96wcmC-14" value="依赖 Token" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="557" y="372" width="107.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BzF6WY7H4D1moD96wcmC-18" value="喜马拉雅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
