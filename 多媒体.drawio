@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BzF6WY7H4D1moD96wcmC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="381" y="33" width="335" height="143" as="geometry" />
+        </mxCell>
         <mxCell id="rI_pii_pBIPFBuCm645B-1" value="ModuleBridge" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="98" y="-155" width="120" height="60" as="geometry" />
         </mxCell>
@@ -174,6 +177,15 @@
         </mxCell>
         <mxCell id="aCMh7m9hiYbjE-_qJLpg-34" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#9673a6;align=left;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#e1d5e7;flipV=0;flipH=0;direction=north;base=13;size=31;position=0.27;" parent="1" vertex="1">
           <mxGeometry x="-20" y="2453.5" width="177" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-2" value="TSP" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="421" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-3" value="喜马拉雅" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#dae8fc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="554" y="92" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BzF6WY7H4D1moD96wcmC-9" value="网络接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="516" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
