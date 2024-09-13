@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YlDCwj8djNIpttUBDTGe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="129" y="228" width="120" height="60" as="geometry" />
+        <mxCell id="YlDCwj8djNIpttUBDTGe-1" value="com_qwenapi.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlDCwj8djNIpttUBDTGe-3" value="调用千问的SDK进行网络请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="297" y="291.5" width="83" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="YlDCwj8djNIpttUBDTGe-4" value="bridge_qwen.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlDCwj8djNIpttUBDTGe-5" value="bridge_all.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="141" y="118" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlDCwj8djNIpttUBDTGe-6" value="predict_no_ui_long_connection()，一般咱们都选择了单个模型，所以会从model_info里面找到对应的大模型，调用对应的方法，例如千问就是调用了&lt;span style=&quot;text-align: center;&quot;&gt;bridge_qwen.py的&lt;/span&gt;predict_no_ui_long_connection方法" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="297" y="115" width="355" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
