@@ -22,8 +22,8 @@
         <mxCell id="YlDCwj8djNIpttUBDTGe-7" value="SourceCode_Analyse.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="137" y="26" width="141" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="YlDCwj8djNIpttUBDTGe-8" value="解析工程，是走的&quot;解析任意code项目&quot;方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="301" y="43" width="366" height="30" as="geometry" />
+        <mxCell id="YlDCwj8djNIpttUBDTGe-8" value="1、解析工程，是走的&quot;解析任意code项目&quot;方法&lt;div&gt;1.1、解析zip&lt;/div&gt;&lt;div&gt;1.2、遍历文件夹，找到正则对应的文件&lt;/div&gt;&lt;div&gt;2、调用&quot;解析源代码新&quot;方法&lt;/div&gt;&lt;div&gt;2.1、512个文件限制，可以去掉&lt;/div&gt;&lt;div&gt;2.2、代码文件并没有上传，而是把代码放到了prompt里&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="297" y="22" width="387" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
