@@ -37,6 +37,9 @@
         <mxCell id="YlDCwj8djNIpttUBDTGe-12" value="调用千问最后参数的message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="347" y="376" width="219" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YlDCwj8djNIpttUBDTGe-13" value="循环分析单个文件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="233" y="-173" width="143" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
