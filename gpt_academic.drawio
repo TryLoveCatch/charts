@@ -4,28 +4,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YlDCwj8djNIpttUBDTGe-1" value="com_qwenapi.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="YlDCwj8djNIpttUBDTGe-1" value="com_qwenapi.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="141" y="283" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YlDCwj8djNIpttUBDTGe-3" value="调用千问的SDK进行网络请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="297" y="291.5" width="83" height="43" as="geometry" />
+          <mxGeometry x="297" y="291.5" width="268" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="YlDCwj8djNIpttUBDTGe-4" value="bridge_qwen.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="YlDCwj8djNIpttUBDTGe-4" value="bridge_qwen.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="141" y="199" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YlDCwj8djNIpttUBDTGe-5" value="bridge_all.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="YlDCwj8djNIpttUBDTGe-5" value="bridge_all.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="141" y="118" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YlDCwj8djNIpttUBDTGe-6" value="predict_no_ui_long_connection()，一般咱们都选择了单个模型，所以会从model_info里面找到对应的大模型，调用对应的方法，例如千问就是调用了&lt;span style=&quot;text-align: center;&quot;&gt;bridge_qwen.py的&lt;/span&gt;predict_no_ui_long_connection方法" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="297" y="115" width="373" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="YlDCwj8djNIpttUBDTGe-7" value="SourceCode_Analyse.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="YlDCwj8djNIpttUBDTGe-7" value="SourceCode_Analyse.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="141" y="-67.5" width="141" height="64" as="geometry" />
         </mxCell>
         <mxCell id="YlDCwj8djNIpttUBDTGe-8" value="1、解析工程，是走的&quot;解析任意code项目&quot;方法&lt;div&gt;1.1、解析zip&lt;/div&gt;&lt;div&gt;1.2、遍历文件夹，找到正则对应的文件&lt;/div&gt;&lt;div&gt;2、调用&quot;解析源代码新&quot;方法&lt;/div&gt;&lt;div&gt;2.1、512个文件限制，可以去掉&lt;/div&gt;&lt;div&gt;2.2、代码文件并没有上传，而是把代码放到了prompt里&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="298" y="-80" width="387" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="YlDCwj8djNIpttUBDTGe-9" value="crazy_utils.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="YlDCwj8djNIpttUBDTGe-9" value="crazy_utils.py" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="141" y="26" width="141" height="64" as="geometry" />
         </mxCell>
         <mxCell id="YlDCwj8djNIpttUBDTGe-10" value="1、调用&quot;request_gpt_model_multi_threads_with_very_awesome_ui_and_high_efficiency&quot;方法&lt;div&gt;2、多线程调用&lt;span style=&quot;background-color: initial;&quot;&gt;predict_no_ui_long_connection()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
