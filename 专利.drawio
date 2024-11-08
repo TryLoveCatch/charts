@@ -531,6 +531,9 @@
         <mxCell id="Dv4H5l0o-GmDzY6lEwkn-52" value="工程汇总处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="406" y="4179" width="96" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-57" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="4511" width="82" height="73" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
