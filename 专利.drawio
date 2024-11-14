@@ -926,10 +926,10 @@
         <mxCell id="Dv4H5l0o-GmDzY6lEwkn-338" value="身高" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-349">
           <mxGeometry x="13.696524064171122" y="43.0625" width="87.65775401069519" height="34.9375" as="geometry" />
         </mxCell>
-        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-339" value="座椅位置高度" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-349">
+        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-339" value="..." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-349">
           <mxGeometry x="117.79010695187165" y="43.0625" width="87.65775401069519" height="34.9375" as="geometry" />
         </mxCell>
-        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-340" value="个人习惯" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-349">
+        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-340" value="座椅位置高度" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-349">
           <mxGeometry x="222.5319919786096" y="43.0625" width="87.65775401069519" height="34.9375" as="geometry" />
         </mxCell>
         <mxCell id="Dv4H5l0o-GmDzY6lEwkn-342" value="驾驶员信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-349">
@@ -944,7 +944,7 @@
         <mxCell id="Dv4H5l0o-GmDzY6lEwkn-344" value="车身角度" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-350">
           <mxGeometry x="13.856951871657753" y="44.3046875" width="88.68449197860961" height="35.9453125" as="geometry" />
         </mxCell>
-        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-345" value="车速" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-350">
+        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-345" value="..." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-350">
           <mxGeometry x="119.16978609625667" y="44.3046875" width="88.68449197860961" height="35.9453125" as="geometry" />
         </mxCell>
         <mxCell id="Dv4H5l0o-GmDzY6lEwkn-346" value="光线" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-350">
