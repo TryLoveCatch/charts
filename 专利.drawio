@@ -956,6 +956,15 @@
         <mxCell id="Dv4H5l0o-GmDzY6lEwkn-347" value="驾驶环境感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="Dv4H5l0o-GmDzY6lEwkn-350">
           <mxGeometry x="129.8723098995696" y="4" width="79.25185078909612" height="25.082342342342343" as="geometry" />
         </mxCell>
+        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-351" value="下发JSON数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275.20000000000005" y="7115" width="104.09" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-352" value="下发CAN信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275.4200000000001" y="7194" width="104.09" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv4H5l0o-GmDzY6lEwkn-353" value="后视镜控制器调节" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274.00000000000006" y="7264" width="104.09" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
