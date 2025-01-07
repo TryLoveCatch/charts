@@ -4876,7 +4876,7 @@
         <mxCell id="3_GFXmprh0iBNOYeAJrK-67" value="适配层" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-247.73999999999995" y="14863" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3_GFXmprh0iBNOYeAJrK-68" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;问题四：进程1调用多次获取数据的接口1，是什么流程？&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-68" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;问题四：进程1调用多次获取数据的接口1，是什么流程？&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;调用几次，应该就会返回几次&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="47.56" y="14776" width="337" height="209" as="geometry" />
         </mxCell>
         <mxCell id="3_GFXmprh0iBNOYeAJrK-69" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;问题五：进程1调用接口1和接口2，是什么流程？&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;这个时候需要区分接口1和接口2，所以回调里面返回数据需要区分，建议在适配层这里，对返回的json进行处理，添加type&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
