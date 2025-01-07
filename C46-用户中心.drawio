@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-408.09" y="13755" width="413.09" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-816" y="13755" width="345" height="392" as="geometry" />
+        </mxCell>
         <mxCell id="l7BhgJ1nS50TEiDhsEA9-47" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="73.07" y="19688" width="282" height="253" as="geometry" />
         </mxCell>
@@ -4726,6 +4732,12 @@
         </mxCell>
         <mxCell id="3_GFXmprh0iBNOYeAJrK-10" value="Logic" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-163.81999999999994" y="13950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-12" value="客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-669" y="13772" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-14" value="服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-231.55" y="13772" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
