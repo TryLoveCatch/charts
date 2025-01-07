@@ -4802,11 +4802,8 @@
         <mxCell id="3_GFXmprh0iBNOYeAJrK-40" value="服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-223.55" y="14184" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3_GFXmprh0iBNOYeAJrK-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;问题一：进程1、2、3都注册了回调；进程1去 获取数据，进程1、2、3都能收到&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;进程1获取数据的时候，需要传入一个id，数据返回之后也需要带上这个id，进行对比，如果是进程1，那么就回调，如果不是，就不进行回调&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="62" y="14207" width="337" height="153" as="geometry" />
-        </mxCell>
         <mxCell id="3_GFXmprh0iBNOYeAJrK-42" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;问题二：请求时异步的，如果能在返回数据的时候把id给带回来呢&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;最容易的方法就是把id传给logic层，然后logic层再把id给传过来，但是logic层已经完成了，增加参数和返回值，需要修改对应的方法，并且有可能会设计到基类的改动，所以不期望修改logic。是否可以在AIDL和logic之间增加一层，专门用来处理id和数据的对应关系呢&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="67" y="14370" width="337" height="218" as="geometry" />
+          <mxGeometry x="48.629999999999995" y="14168" width="337" height="218" as="geometry" />
         </mxCell>
         <mxCell id="3_GFXmprh0iBNOYeAJrK-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="3_GFXmprh0iBNOYeAJrK-43" target="3_GFXmprh0iBNOYeAJrK-38">
           <mxGeometry relative="1" as="geometry">
@@ -4815,7 +4812,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3_GFXmprh0iBNOYeAJrK-43" value="AIDL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-43" value="适配层" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-238.66999999999996" y="14455" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
