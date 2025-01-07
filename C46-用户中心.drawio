@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T13:00:23.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="19SSxVSHVKI3f5Sh4dfD" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="p6_CcjFaAbd17a5zXBP8">
-    <mxGraphModel dx="4903" dy="3900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3800" dy="3635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4697,11 +4697,35 @@
         <mxCell id="l7BhgJ1nS50TEiDhsEA9-50" value="使用ContentProvider和IBinder屏蔽进程的差异，同一进程就方法调用，不同进程就IPC通信" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;fontFamily=Comic Sans MS;fontSize=15;fillColor=#f8cecc;flipV=1;direction=south;align=left;size=44;position=0.37;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="366.5" y="19756" width="276" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="e2Yvg1d3MSuB2JQgweEd-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;endWidth=41.66666666666667;endSize=15.333333333333332;width=33.333333333333336;" edge="1" parent="1">
+        <mxCell id="e2Yvg1d3MSuB2JQgweEd-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;endWidth=41.66666666666667;endSize=15.333333333333332;width=33.333333333333336;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="344" y="1959" as="sourcePoint" />
             <mxPoint x="523" y="1955" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-1" value="进程1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-783.68" y="13825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-2" value="进程2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-779.9" y="13930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-3" value="进程3" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-783.68" y="14047" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-6" value="SDK" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-597" y="13825" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-7" value="SDK" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-600.86" y="13930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-8" value="SDK" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-602.59" y="14043" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-9" value="AIDL" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-361.99999999999994" y="13947" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_GFXmprh0iBNOYeAJrK-10" value="Logic" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-163.81999999999994" y="13950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
