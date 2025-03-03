@@ -983,7 +983,7 @@
         <mxCell id="DfA9pLgP3C0NDrhgMfeT-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1033" y="6258.84" width="130" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="DfA9pLgP3C0NDrhgMfeT-38" value="② 选择不同中枢处理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="DfA9pLgP3C0NDrhgMfeT-1" source="DfA9pLgP3C0NDrhgMfeT-2">
+        <mxCell id="DfA9pLgP3C0NDrhgMfeT-38" value="② 智能调度中枢处理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="DfA9pLgP3C0NDrhgMfeT-1" source="DfA9pLgP3C0NDrhgMfeT-2">
           <mxGeometry x="-0.0026" y="11" relative="1" as="geometry">
             <mxPoint x="264.9411764705883" y="14.571764705882742" as="targetPoint" />
             <mxPoint x="-11" y="-10" as="offset" />
@@ -994,7 +994,7 @@
             <mxPoint x="-126.23529411764684" y="43.98352941176472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DfA9pLgP3C0NDrhgMfeT-42" value="④ 展示结果给用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfA9pLgP3C0NDrhgMfeT-41">
+        <mxCell id="DfA9pLgP3C0NDrhgMfeT-42" value="④ 根据结果展示不同UI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfA9pLgP3C0NDrhgMfeT-41">
           <mxGeometry x="0.2475" relative="1" as="geometry">
             <mxPoint x="15" y="10" as="offset" />
           </mxGeometry>
@@ -1086,7 +1086,7 @@
             <mxPoint x="1163" y="6299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DfA9pLgP3C0NDrhgMfeT-40" value="③ 返回大模型结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfA9pLgP3C0NDrhgMfeT-39">
+        <mxCell id="DfA9pLgP3C0NDrhgMfeT-40" value="③ 多模态结果返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfA9pLgP3C0NDrhgMfeT-39">
           <mxGeometry x="0.0914" y="1" relative="1" as="geometry">
             <mxPoint x="5" y="12" as="offset" />
           </mxGeometry>
