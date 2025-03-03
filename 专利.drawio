@@ -1037,6 +1037,21 @@
         <mxCell id="DfA9pLgP3C0NDrhgMfeT-28" value="大模型中枢" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1350" y="6117" width="68" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DfA9pLgP3C0NDrhgMfeT-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="6267" width="130" height="60.67" as="geometry" />
+        </mxCell>
+        <mxCell id="DfA9pLgP3C0NDrhgMfeT-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="DfA9pLgP3C0NDrhgMfeT-29">
+          <mxGeometry width="130" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="DfA9pLgP3C0NDrhgMfeT-31" value="" style="group" vertex="1" connectable="0" parent="DfA9pLgP3C0NDrhgMfeT-29">
+          <mxGeometry x="7" y="15" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DfA9pLgP3C0NDrhgMfeT-33" value="车机系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="DfA9pLgP3C0NDrhgMfeT-31">
+          <mxGeometry x="44" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DfA9pLgP3C0NDrhgMfeT-34" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" vertex="1" parent="DfA9pLgP3C0NDrhgMfeT-29">
+          <mxGeometry x="11" y="1" width="34" height="56.67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
