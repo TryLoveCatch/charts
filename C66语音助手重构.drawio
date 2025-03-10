@@ -220,7 +220,7 @@
         <mxCell id="DkXdL64v2O5WJMgkYWjZ-97" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DkXdL64v2O5WJMgkYWjZ-100" target="DkXdL64v2O5WJMgkYWjZ-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DkXdL64v2O5WJMgkYWjZ-98" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="DkXdL64v2O5WJMgkYWjZ-100" target="DkXdL64v2O5WJMgkYWjZ-102">
+        <mxCell id="DkXdL64v2O5WJMgkYWjZ-98" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkXdL64v2O5WJMgkYWjZ-100" target="DkXdL64v2O5WJMgkYWjZ-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DkXdL64v2O5WJMgkYWjZ-100" value="其他" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -239,16 +239,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DkXdL64v2O5WJMgkYWjZ-102" value="对话状态监听" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="298" y="2911" width="106" height="65" as="geometry" />
+          <mxGeometry x="293" y="3023" width="106" height="65" as="geometry" />
         </mxCell>
         <mxCell id="DkXdL64v2O5WJMgkYWjZ-104" value="对话开始" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="501" y="2836" width="106" height="65" as="geometry" />
+          <mxGeometry x="496" y="2948" width="106" height="65" as="geometry" />
         </mxCell>
         <mxCell id="DkXdL64v2O5WJMgkYWjZ-105" value="技能结束" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="505" y="2941" width="106" height="65" as="geometry" />
+          <mxGeometry x="500" y="3053" width="106" height="65" as="geometry" />
         </mxCell>
         <mxCell id="DkXdL64v2O5WJMgkYWjZ-106" value="对话结束" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="501" y="3038" width="106" height="65" as="geometry" />
+          <mxGeometry x="496" y="3150" width="106" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
