@@ -424,7 +424,7 @@
         <mxCell id="DkXdL64v2O5WJMgkYWjZ-175" value="Window" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;labelBackgroundColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="DkXdL64v2O5WJMgkYWjZ-172">
           <mxGeometry x="28.5" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DkXdL64v2O5WJMgkYWjZ-176" value="电话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="DkXdL64v2O5WJMgkYWjZ-172">
+        <mxCell id="DkXdL64v2O5WJMgkYWjZ-176" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="DkXdL64v2O5WJMgkYWjZ-172">
           <mxGeometry x="31.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DkXdL64v2O5WJMgkYWjZ-177" value="" style="group" vertex="1" connectable="0" parent="1">
