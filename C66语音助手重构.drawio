@@ -975,8 +975,11 @@
         <mxCell id="QiCADKNRcWDyghA9uBQu-79" value="HomeViewModel" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="413" y="11286" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-114" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-82" target="QiCADKNRcWDyghA9uBQu-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-82" value="HomeViewControl" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="413" y="11477" width="120" height="80" as="geometry" />
+          <mxGeometry x="446" y="11486" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-94" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-83" target="QiCADKNRcWDyghA9uBQu-85">
           <mxGeometry relative="1" as="geometry" />
@@ -1007,6 +1010,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-112" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-85" target="QiCADKNRcWDyghA9uBQu-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-85" value="TopWindow" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-12" y="11470" width="126" height="87" as="geometry" />
         </mxCell>
@@ -1015,7 +1021,7 @@
             <mxPoint x="304.2857142857147" y="11730.285714285716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QiCADKNRcWDyghA9uBQu-105" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-86" target="QiCADKNRcWDyghA9uBQu-82">
+        <mxCell id="QiCADKNRcWDyghA9uBQu-105" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-86" target="QiCADKNRcWDyghA9uBQu-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-106" value="我已经帮你添加了" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="QiCADKNRcWDyghA9uBQu-105">
@@ -1038,8 +1044,14 @@
         <mxCell id="QiCADKNRcWDyghA9uBQu-110" value="1、getView&lt;div&gt;2、getLayoutParams&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-95.5" y="11608" width="128.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-116" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-111" target="QiCADKNRcWDyghA9uBQu-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-111" value="HomeView" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="600" y="11477" width="120" height="80" as="geometry" />
+          <mxGeometry x="625" y="11477" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-115" value="1、getView&lt;div&gt;2、getLayoutParams&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="406.75" y="11623" width="128.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
