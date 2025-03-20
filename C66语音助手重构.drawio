@@ -972,14 +972,11 @@
         <mxCell id="QiCADKNRcWDyghA9uBQu-74" value="可以添加，那就真正调用addView添加悬浮窗" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-155" y="10907" width="189" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QiCADKNRcWDyghA9uBQu-79" value="HomeViewModel" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="413" y="11286" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-114" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-82" target="QiCADKNRcWDyghA9uBQu-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-82" value="HomeViewControl" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="446" y="11486" width="120" height="80" as="geometry" />
+          <mxGeometry x="471" y="11489" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-94" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-83" target="QiCADKNRcWDyghA9uBQu-85">
           <mxGeometry relative="1" as="geometry" />
@@ -1048,7 +1045,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-111" value="HomeView" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="625" y="11477" width="120" height="80" as="geometry" />
+          <mxGeometry x="695" y="11489" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-115" value="1、getView&lt;div&gt;2、getLayoutParams&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="406.75" y="11623" width="128.5" height="30" as="geometry" />
