@@ -938,14 +938,6 @@
         <mxCell id="QiCADKNRcWDyghA9uBQu-51" value="HomeViewControl" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="384" y="10961" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QiCADKNRcWDyghA9uBQu-72" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-53" target="QiCADKNRcWDyghA9uBQu-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QiCADKNRcWDyghA9uBQu-73" value="可以添加" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="QiCADKNRcWDyghA9uBQu-72">
-          <mxGeometry x="-0.0502" y="-6" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-53" value="WindowManager" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="-294" y="11041" width="126" height="87" as="geometry" />
         </mxCell>
@@ -964,7 +956,7 @@
         <mxCell id="QiCADKNRcWDyghA9uBQu-65" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.966;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-55" target="QiCADKNRcWDyghA9uBQu-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QiCADKNRcWDyghA9uBQu-66" value="callback或者event，我想要add，是否可以" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="QiCADKNRcWDyghA9uBQu-65">
+        <mxCell id="QiCADKNRcWDyghA9uBQu-66" value="callback或者event，我发现window没有添加&lt;div&gt;麻烦添加一下&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="QiCADKNRcWDyghA9uBQu-65">
           <mxGeometry x="0.1947" y="9" relative="1" as="geometry">
             <mxPoint x="41" y="-23" as="offset" />
           </mxGeometry>
@@ -976,6 +968,38 @@
         </mxCell>
         <mxCell id="QiCADKNRcWDyghA9uBQu-71" value="同ViewManager&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;内部可能有很多Window，会存在各种策略，需要进行仲裁，仲裁策略最好能做到动态可配置，比如说在strings.xml里面配置仲裁class -&amp;gt; array[windowType]&lt;div&gt;1、可以添加&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1.1、其他Window是否有变化，删除或者改变了，需要有通知&lt;/div&gt;&lt;div&gt;2、不可以添加&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;2.1、应该不需要通知吧&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-365" y="11140" width="291" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-74" value="可以添加，那就真正调用addView添加悬浮窗" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="10907" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-79" value="HomeViewModel" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="413" y="11286" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-82" value="HomeViewControl" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="413" y="11477" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-94" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-83" target="QiCADKNRcWDyghA9uBQu-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-95" value="可以添加" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="QiCADKNRcWDyghA9uBQu-94">
+          <mxGeometry x="-0.0774" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-83" value="WindowManager" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="11557" width="126" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-96" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QiCADKNRcWDyghA9uBQu-85" target="QiCADKNRcWDyghA9uBQu-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-85" value="TopWindow" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="11470" width="126" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-86" value="ViewManager" style="ellipse;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="241" y="11557" width="126" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-92" value="可以添加，那就真正调用addView添加悬浮窗" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-19" y="11429" width="189" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
