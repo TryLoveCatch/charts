@@ -961,6 +961,14 @@
             <mxPoint x="41" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-70" value="callback或者event，我想要add，是否可以" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="233.9970310232523" y="10997.496541203203" as="geometry">
+            <mxPoint x="-266" y="79" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiCADKNRcWDyghA9uBQu-71" value="同ViewManager&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;内部可能有很多Window，会存在各种策略，需要进行仲裁，仲裁策略最好能做到动态可配置，比如说在strings.xml里面配置仲裁class -&amp;gt; array[windowType]&lt;div&gt;1、可以添加&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1.1、其他View是否有变化，删除或者改变了，需要有通知&lt;/div&gt;&lt;div&gt;2、不可以添加&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;2.1、应该不需要通知吧&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="11140" width="291" height="133" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
