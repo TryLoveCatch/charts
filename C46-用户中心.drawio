@@ -4954,6 +4954,21 @@
         <mxCell id="-QMylDlCiTH71G8_CS6N-25" value="UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="16108" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-QMylDlCiTH71G8_CS6N-26" value="Http" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="835" y="15466" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-QMylDlCiTH71G8_CS6N-27" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="911" y="15466" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-QMylDlCiTH71G8_CS6N-28" value="IPC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="15653" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-QMylDlCiTH71G8_CS6N-29" value="IPC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="679" y="15611" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-QMylDlCiTH71G8_CS6N-30" value="IPC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="15607" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
