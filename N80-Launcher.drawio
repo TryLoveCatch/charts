@@ -144,10 +144,10 @@
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-44" value="IBinder" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-45" target="QU-Jpv-dRH1WVSwRePqp-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-45" value="Launcher" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-45" value="LauncherService" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="240.24" y="1561" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-46" value="1、WatchDog一直bindService，直到成功为止。&lt;br&gt;2、linkToDeath，监听IPCServcie，如果挂掉了，就再次bindService。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillStyle=auto;fillColor=#f5f5f5;strokeColor=#666666;direction=north;flipH=1;position2=0;size=31;position=0.1;flipV=1;fontColor=#333333;align=left;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-46" value="1、WatchDog一直bindService，直到成功为止。&lt;br&gt;2、linkToDeath，监听Launcher，如果挂掉了，就再次bindService。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillStyle=auto;fillColor=#f5f5f5;strokeColor=#666666;direction=north;flipH=1;position2=0;size=31;position=0.1;flipV=1;fontColor=#333333;align=left;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="398.74" y="1545" width="246" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-47" value="1、绑定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
@@ -179,50 +179,6 @@
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-51" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="555" y="1378.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-52" value="bindService" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-55" target="QU-Jpv-dRH1WVSwRePqp-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-55" target="QU-Jpv-dRH1WVSwRePqp-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380.74" y="1858" />
-              <mxPoint x="380.74" y="1884" />
-              <mxPoint x="385.74" y="1884" />
-              <mxPoint x="385.74" y="1940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-54" value="保活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QU-Jpv-dRH1WVSwRePqp-53">
-          <mxGeometry x="-0.0192" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-55" value="Launcher SDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="245.38" y="1798" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-56" value="bindService" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-57" target="QU-Jpv-dRH1WVSwRePqp-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-57" value="APP B" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="481.5" y="1798" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-58" value="bindService" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#000000;startArrow=none;startFill=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-59" target="QU-Jpv-dRH1WVSwRePqp-55">
-          <mxGeometry x="0.0047" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-59" value="APP A" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="19" y="1796" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-60" value="IBinder" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-61" target="QU-Jpv-dRH1WVSwRePqp-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-61" value="Launcher" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="245.24" y="1910" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QU-Jpv-dRH1WVSwRePqp-62" value="1、WatchDog一直bindService，直到成功为止。&lt;br&gt;2、linkToDeath，监听IPCServcie，如果挂掉了，就再次bindService。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillStyle=auto;fillColor=#f5f5f5;strokeColor=#666666;direction=north;flipH=1;position2=0;size=31;position=0.1;flipV=1;fontColor=#333333;align=left;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="403.74" y="1894" width="246" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-63" value="2、注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="14" y="1660" width="60" height="30" as="geometry" />
         </mxCell>
@@ -251,6 +207,112 @@
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-67" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="560" y="1727.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-74" target="QU-Jpv-dRH1WVSwRePqp-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-71" value="保存name和包名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="QU-Jpv-dRH1WVSwRePqp-70">
+          <mxGeometry x="0.1332" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-74" target="QU-Jpv-dRH1WVSwRePqp-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449.01999999999987" y="2271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-73" value="1、&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Helvetica; font-size: 12px; text-wrap-mode: wrap;&quot;&gt;linkToDeath，监听客户端APP&lt;/span&gt;&lt;br&gt;2、如果挂掉了，传入packageName，找到对应的静态广播，并发送" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="QU-Jpv-dRH1WVSwRePqp-72">
+          <mxGeometry x="-0.2058" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-74" value="Launcher" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="271.65999999999997" y="2144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-77" target="QU-Jpv-dRH1WVSwRePqp-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-76" value="register(nameA, 能力A)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="QU-Jpv-dRH1WVSwRePqp-75">
+          <mxGeometry x="-0.1227" y="-10" relative="1" as="geometry">
+            <mxPoint x="8" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-77" value="APP A" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-25.35000000000002" y="2006" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-80" value="register(nameB, 能力B)" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-81" target="QU-Jpv-dRH1WVSwRePqp-89">
+          <mxGeometry x="-0.2209" y="-34" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-81" value="APP B" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="512.5199999999999" y="2008" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-84" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-89" target="QU-Jpv-dRH1WVSwRePqp-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204.26999999999998" y="1886" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-85" value="保存服务名和对应的能力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="QU-Jpv-dRH1WVSwRePqp-84">
+          <mxGeometry x="0.2839" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-86" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-89" target="QU-Jpv-dRH1WVSwRePqp-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-87" value="保存服务名和Stub对象" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="QU-Jpv-dRH1WVSwRePqp-86">
+          <mxGeometry x="0.0947" relative="1" as="geometry">
+            <mxPoint x="5" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-88" value="register(name, packageName,能力)&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-89" target="QU-Jpv-dRH1WVSwRePqp-74">
+          <mxGeometry x="0.1453" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-89" value="Launcher SDK" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="270.02" y="2006" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-90" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Key&lt;/b&gt;&lt;/td&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;nameA&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;com.baic.icc.AppA&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;...&lt;/td&gt;&lt;td&gt;...&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;nameB&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b style=&quot;border-color: rgb(218, 218, 218);&quot;&gt;com.baic.icc.AppB&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="244" y="2341" width="179.6" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-91" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Key&lt;/b&gt;&lt;/td&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;com.baic.test1.ServerA&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;IServerInterface.Stub&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;com.baic.test1.ServerB&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IServerInterface.&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Stub&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;com.baic.test2&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IServerInterface.&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Stub&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="327.02" y="1794" width="301" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#FF9999;fontFamily=Comic Sans MS;fontSize=11;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509.01999999999987" y="2301" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="726" y="2341" />
+              <mxPoint x="726" y="2316" />
+              <mxPoint x="759" y="2316" />
+              <mxPoint x="759" y="2036" />
+            </Array>
+            <mxPoint x="654.02" y="2036" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-93" value="App 2进程挂了，会发送广播保活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="QU-Jpv-dRH1WVSwRePqp-92">
+          <mxGeometry x="0.4306" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-94" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;IpcDeathRecipient&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;...&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;IpcDeathRecipient&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="484.7399999999999" y="2341" width="160" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-95" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Key&lt;/b&gt;&lt;/td&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;nameA&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;能力A&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;...&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;...&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;nameB&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;能力B&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="94.64999999999998" y="1795" width="216" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-96" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Key&lt;/b&gt;&lt;/td&gt;&lt;th&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;nameA&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;能力A&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;...&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;...&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;nameB&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;能力B&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="2347" width="216" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-98" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.537;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-74" target="QU-Jpv-dRH1WVSwRePqp-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-99" value="保存name和能力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QU-Jpv-dRH1WVSwRePqp-98">
+          <mxGeometry x="-0.0578" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
