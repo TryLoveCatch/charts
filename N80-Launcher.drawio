@@ -344,7 +344,7 @@
           <mxGeometry x="412.00000000000006" y="2616" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-119" value="4、调用客户端能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="27.07" y="2724" width="145.93" height="30" as="geometry" />
+          <mxGeometry x="22" y="2723" width="145.93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-120" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#EA6B66;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -361,16 +361,16 @@
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-122" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="512.07" y="2805.5" as="sourcePoint" />
-            <mxPoint x="563.07" y="2805.5" as="targetPoint" />
+            <mxPoint x="521.0100000000001" y="2805.5" as="sourcePoint" />
+            <mxPoint x="572.0100000000001" y="2805.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520.07" y="2805.5" />
-              <mxPoint x="520.07" y="2805.5" />
+              <mxPoint x="529.0100000000001" y="2805.5" />
+              <mxPoint x="529.0100000000001" y="2805.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-123" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="573.07" y="2791.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="582.0100000000001" y="2791.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-126" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF9999;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;fillColor=#fad9d5;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-130" target="QU-Jpv-dRH1WVSwRePqp-131">
           <mxGeometry relative="1" as="geometry" />
@@ -389,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-130" value="Launcher" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="307.35999999999996" y="2997" width="120" height="60" as="geometry" />
+          <mxGeometry x="316.29999999999995" y="2997" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-133" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF9999;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-131" target="QU-Jpv-dRH1WVSwRePqp-130">
           <mxGeometry relative="1" as="geometry" />
@@ -400,7 +400,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-131" value="APP A" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="25.06000000000001" y="2868" width="120" height="60" as="geometry" />
+          <mxGeometry x="34.00000000000001" y="2868" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-134" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF9999;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;endArrow=classic;" edge="1" parent="1" source="QU-Jpv-dRH1WVSwRePqp-132" target="QU-Jpv-dRH1WVSwRePqp-130">
           <mxGeometry relative="1" as="geometry" />
@@ -411,10 +411,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-132" value="APP B" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="562.93" y="2870" width="120" height="60" as="geometry" />
+          <mxGeometry x="571.87" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-137" value="IResultCallback注意并发问题，最好onResult里面的处理都post到主线程" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;flipV=1;size=27;position=0.28;position2=0.24;" vertex="1" parent="1">
-          <mxGeometry x="342.95" y="3059" width="120" height="80" as="geometry" />
+          <mxGeometry x="351.89" y="3059" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
