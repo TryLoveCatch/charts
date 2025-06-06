@@ -413,6 +413,9 @@
         <mxCell id="QU-Jpv-dRH1WVSwRePqp-132" value="APP B" style="rounded=1;whiteSpace=wrap;html=1;comic=1;glass=0;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="562.93" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QU-Jpv-dRH1WVSwRePqp-137" value="IResultCallback注意并发问题，最好onResult里面的处理都post到主线程" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;flipV=1;size=27;position=0.28;position2=0.24;" vertex="1" parent="1">
+          <mxGeometry x="342.95" y="3059" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
