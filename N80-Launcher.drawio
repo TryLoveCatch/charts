@@ -466,6 +466,9 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-14" value="Main" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="296" y="-447" width="208" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-24" value="共用的代码分成了两部分：&lt;br&gt;1、Main&lt;br&gt;2、Logic" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="572" y="-531" width="203" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
