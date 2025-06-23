@@ -759,6 +759,18 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-144" value="RecyclerView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1003" y="3178" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-145" value="应用与服务" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="869" y="3216" width="106" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-146" value="车辆设置" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="984.5" y="3218" width="63.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-148" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="3218" width="63.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-149" value="极狐智驾" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1134.5" y="3218" width="63.5" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
