@@ -469,6 +469,21 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-24" value="共用的代码分成了两部分：&lt;br&gt;1、Main&lt;br&gt;2、Logic" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="572" y="-531" width="203" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-25" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="45" y="3287" width="373" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-26" value="壁纸" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="3290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-27" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="53.5" y="3329" width="355.5" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-28" value="应用与服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="186" y="3332" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-29" value="SmartDock" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="48" y="3426" width="367" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
