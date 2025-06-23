@@ -541,6 +541,9 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.458;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5J8sTV3rjZ_iBzi9wWHR-33" target="5J8sTV3rjZ_iBzi9wWHR-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-49" value="壁纸" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="156" y="4134" width="188" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
