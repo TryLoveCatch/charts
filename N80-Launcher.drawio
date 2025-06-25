@@ -1067,6 +1067,9 @@
         <mxCell id="HYbv-strrhbvfqFwZMTQ-71" value="三方APP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="130.18" y="5854" width="126" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-79" value="应用模块交互方式一样" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;flipV=1;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;size=25;position=0.39;position2=0.47;base=16;" vertex="1" parent="1">
+          <mxGeometry x="181.87" y="4689" width="133.5" height="64.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
