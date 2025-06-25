@@ -905,6 +905,136 @@
         <mxCell id="HYbv-strrhbvfqFwZMTQ-45" value="UI展示" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="141" y="5730" width="104.37" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#EA6B66;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398.74" y="4104" as="sourcePoint" />
+            <mxPoint x="449.74" y="4104" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="406.74" y="4104" />
+              <mxPoint x="406.74" y="4104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-48" value="IPC调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="459.74" y="4089" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.68000000000006" y="4131.5" as="sourcePoint" />
+            <mxPoint x="450.68000000000006" y="4131.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="407.68000000000006" y="4131.5" />
+              <mxPoint x="407.68000000000006" y="4131.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-50" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460.68000000000006" y="4117.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#EA6B66;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.74" y="4503" as="sourcePoint" />
+            <mxPoint x="510.74" y="4503" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="467.74" y="4503" />
+              <mxPoint x="467.74" y="4503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-52" value="IPC调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="520.74" y="4488" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.68000000000006" y="4530.5" as="sourcePoint" />
+            <mxPoint x="511.68000000000006" y="4530.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="468.68000000000006" y="4530.5" />
+              <mxPoint x="468.68000000000006" y="4530.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-54" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="521.6800000000001" y="4516.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#EA6B66;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="4683" as="sourcePoint" />
+            <mxPoint x="676" y="4683" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="633" y="4683" />
+              <mxPoint x="633" y="4683" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-56" value="IPC调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="686" y="4668" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625.94" y="4710.5" as="sourcePoint" />
+            <mxPoint x="676.94" y="4710.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="633.94" y="4710.5" />
+              <mxPoint x="633.94" y="4710.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-58" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="686.94" y="4696.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#EA6B66;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605.53" y="5040" as="sourcePoint" />
+            <mxPoint x="656.53" y="5040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="613.53" y="5040" />
+              <mxPoint x="613.53" y="5040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-64" value="IPC调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="666.53" y="5025" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606.47" y="5067.5" as="sourcePoint" />
+            <mxPoint x="657.47" y="5067.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="614.47" y="5067.5" />
+              <mxPoint x="614.47" y="5067.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-66" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="667.47" y="5053.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#EA6B66;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635.56" y="5539" as="sourcePoint" />
+            <mxPoint x="686.56" y="5539" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="643.56" y="5539" />
+              <mxPoint x="643.56" y="5539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-68" value="IPC调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="696.56" y="5524" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;startArrow=none;startFill=0;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="636.5" y="5566.5" as="sourcePoint" />
+            <mxPoint x="687.5" y="5566.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="644.5" y="5566.5" />
+              <mxPoint x="644.5" y="5566.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-70" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="5552.5" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
