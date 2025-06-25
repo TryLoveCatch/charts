@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="_IeUftwzyVToKqxpuLL5">
-    <mxGraphModel dx="1442" dy="1431" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="1465" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -493,8 +493,8 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-29" value="智能抽屉" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="48" y="3426" width="367" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-30" value="层级：&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;智能抽屉&lt;/span&gt;&amp;nbsp;&amp;gt; 应用与服务 &amp;gt; 壁纸&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;壁纸：Service&lt;/div&gt;&lt;div&gt;应用与服务：Activity&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center; background-color: transparent;&quot;&gt;智能抽屉&lt;/span&gt;：Window&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#666666;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;direction=south;size=35;position=0.34;base=15;" parent="1" vertex="1">
-          <mxGeometry x="1258" y="3366" width="247" height="105" as="geometry" />
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-30" value="层级：&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;智能抽屉&lt;/span&gt;&amp;nbsp;&amp;gt; 应用模块 = 服务卡片模块 &amp;gt; 壁纸&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;壁纸：Service&lt;/div&gt;&lt;div&gt;应用模块：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Activity&lt;/span&gt;&lt;/div&gt;&lt;div&gt;服务卡片模块：Activity&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center; background-color: transparent;&quot;&gt;智能抽屉&lt;/span&gt;：Window&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#666666;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;direction=south;size=35;position=0.34;base=15;" parent="1" vertex="1">
+          <mxGeometry x="1258" y="3366" width="311" height="105" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-46" value="添加item" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="5J8sTV3rjZ_iBzi9wWHR-31" target="5J8sTV3rjZ_iBzi9wWHR-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -687,7 +687,7 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-97" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="852" y="3515" width="365" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-98" value="壁纸" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-98" value="壁纸模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="772" y="3548" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-99" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" parent="1" vertex="1">
@@ -708,8 +708,8 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-103" value="3D车模" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" parent="5J8sTV3rjZ_iBzi9wWHR-104" vertex="1">
           <mxGeometry x="208.76923076923077" width="90.23076923076923" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-113" value="应用与服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="772" y="3426" width="67" height="30" as="geometry" />
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-113" value="应用模块&amp;amp;服务卡片模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="757" y="3426" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-120" value="应用列表" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="867" y="3374" width="50" height="113" as="geometry" />
@@ -741,10 +741,10 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-130" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="852" y="3151" width="365" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-131" value="智能抽屉" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-131" value="Dock栏模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="772" y="3203" width="67" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-133" value="SmartDrawerWindow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-133" value="SmartDockWindow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1004.5" y="3146" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-142" value="ViewPager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
