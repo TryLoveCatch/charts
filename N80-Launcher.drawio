@@ -691,22 +691,19 @@
           <mxGeometry x="772" y="3548" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-99" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="872" y="3525" width="326" height="81" as="geometry" />
+          <mxGeometry x="872" y="3531" width="326" height="75" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-100" value="WallpaperService" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="961" y="3525" width="109" height="30" as="geometry" />
+          <mxGeometry x="974.5" y="3507" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-104" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="885" y="3558" width="299" height="37" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-101" value="静态壁纸" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" parent="5J8sTV3rjZ_iBzi9wWHR-104" vertex="1">
-          <mxGeometry width="90.23076923076923" height="37" as="geometry" />
+          <mxGeometry width="122" height="37" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-102" value="动态壁纸" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" parent="5J8sTV3rjZ_iBzi9wWHR-104" vertex="1">
-          <mxGeometry x="105.26923076923076" width="90.23076923076923" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-103" value="3D车模" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dae8fc;" parent="5J8sTV3rjZ_iBzi9wWHR-104" vertex="1">
-          <mxGeometry x="208.76923076923077" width="90.23076923076923" height="37" as="geometry" />
+          <mxGeometry x="171" width="128" height="37" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-113" value="应用模块&amp;amp;服务卡片模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="757" y="3426" width="82" height="30" as="geometry" />
@@ -796,6 +793,9 @@
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-166" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#f8cecc;" parent="1" source="5J8sTV3rjZ_iBzi9wWHR-86" target="5J8sTV3rjZ_iBzi9wWHR-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-1" value="SurfaceView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="999" y="3528" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
