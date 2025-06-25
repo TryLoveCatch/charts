@@ -717,7 +717,7 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-122" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="927" y="3376" width="277" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-123" value="服务卡片模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=10;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-123" value="服务卡片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=10;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1025" y="3374" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-124" value="天&lt;div&gt;气&lt;/div&gt;&lt;div&gt;卡&lt;/div&gt;&lt;div&gt;片&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=10;fillColor=#d5e8d4;" parent="1" vertex="1">
@@ -803,7 +803,7 @@
         <mxCell id="HYbv-strrhbvfqFwZMTQ-8" value="Dock栏" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1130.93" y="3758" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYbv-strrhbvfqFwZMTQ-9" value="应用模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-9" value="应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="862" y="3374" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-10" value="常用应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
