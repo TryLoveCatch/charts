@@ -902,6 +902,9 @@
         <mxCell id="HYbv-strrhbvfqFwZMTQ-34" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;①、车机安装的APP列表&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#f8cecc;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="HYbv-strrhbvfqFwZMTQ-27" target="HYbv-strrhbvfqFwZMTQ-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-72" value="⑤、点击跳转" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#f8cecc;" edge="1" parent="1" source="HYbv-strrhbvfqFwZMTQ-45" target="HYbv-strrhbvfqFwZMTQ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-45" value="UI展示" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="141" y="5730" width="104.37" height="39" as="geometry" />
         </mxCell>
@@ -1034,6 +1037,9 @@
         </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-70" value="方法调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=1;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="697.5" y="5552.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-71" value="三方APP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="130.18" y="5854" width="126" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
