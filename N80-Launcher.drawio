@@ -709,7 +709,7 @@
           <mxGeometry x="757" y="3426" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-120" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="867" y="3374" width="56" height="113" as="geometry" />
+          <mxGeometry x="865" y="3374" width="56" height="113" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-121" value="LauncherActivity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1005" y="3320" width="60" height="30" as="geometry" />
@@ -717,23 +717,23 @@
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-122" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="927" y="3376" width="277" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-123" value="服务卡片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=10;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1034" y="3374" width="60" height="30" as="geometry" />
+        <mxCell id="5J8sTV3rjZ_iBzi9wWHR-123" value="服务卡片模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=10;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="3374" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-124" value="天&lt;div&gt;气&lt;/div&gt;&lt;div&gt;卡&lt;/div&gt;&lt;div&gt;片&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=10;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="935" y="3415" width="44" height="69" as="geometry" />
+          <mxGeometry x="935" y="3407" width="44" height="69" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-126" value="多&lt;div&gt;媒&lt;div&gt;体&lt;div&gt;卡&lt;div&gt;片&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=10;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="986" y="3415" width="44" height="69" as="geometry" />
+          <mxGeometry x="986" y="3407" width="44" height="69" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-127" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=10;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1042" y="3417" width="44" height="69" as="geometry" />
+          <mxGeometry x="1042" y="3409" width="44" height="69" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-128" value="图&lt;div&gt;库&lt;div&gt;卡&lt;/div&gt;&lt;div&gt;片&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=10;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1098" y="3418" width="44" height="69" as="geometry" />
+          <mxGeometry x="1098" y="3410" width="44" height="69" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-129" value="备&lt;div&gt;忘&lt;/div&gt;&lt;div&gt;录&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;卡&lt;div&gt;片&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=10;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1154" y="3418" width="44" height="69" as="geometry" />
+          <mxGeometry x="1154" y="3410" width="44" height="69" as="geometry" />
         </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-130" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="852" y="3151" width="365" height="121" as="geometry" />
@@ -803,14 +803,14 @@
         <mxCell id="HYbv-strrhbvfqFwZMTQ-8" value="Dock栏" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1130.93" y="3758" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYbv-strrhbvfqFwZMTQ-9" value="应用卡片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="864" y="3374" width="60" height="30" as="geometry" />
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-9" value="应用模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="862" y="3374" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-10" value="常用应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="871" y="3413" width="48" height="25" as="geometry" />
+          <mxGeometry x="869" y="3413" width="48" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-12" value="非常用应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="870" y="3446" width="51" height="25" as="geometry" />
+          <mxGeometry x="868" y="3446" width="51" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
