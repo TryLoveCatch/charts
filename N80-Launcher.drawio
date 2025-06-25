@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-15" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="783" y="3816" width="451" height="87" as="geometry" />
+        </mxCell>
         <mxCell id="5J8sTV3rjZ_iBzi9wWHR-112" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="852" y="3326" width="365" height="169" as="geometry" />
         </mxCell>
@@ -797,11 +800,24 @@
         <mxCell id="HYbv-strrhbvfqFwZMTQ-1" value="SurfaceView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="999" y="3528" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="HYbv-strrhbvfqFwZMTQ-3" target="HYbv-strrhbvfqFwZMTQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="3859" />
+              <mxPoint x="750" y="3717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-21" value="③、拖拽" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="HYbv-strrhbvfqFwZMTQ-19">
+          <mxGeometry x="0.0883" y="3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-3" value="应用模块" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="792.29" y="3829" width="201" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-8" value="Dock栏" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="793" y="3708" width="420" height="60" as="geometry" />
+          <mxGeometry x="792.29" y="3687" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-9" value="应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="862" y="3374" width="60" height="30" as="geometry" />
@@ -812,8 +828,45 @@
         <mxCell id="HYbv-strrhbvfqFwZMTQ-12" value="非常用应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="868" y="3446" width="51" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="HYbv-strrhbvfqFwZMTQ-13" target="HYbv-strrhbvfqFwZMTQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1259" y="3859" />
+              <mxPoint x="1259" y="3717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-22" value="③、拖拽" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="HYbv-strrhbvfqFwZMTQ-20">
+          <mxGeometry x="0.0685" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=block;startFill=1;" edge="1" parent="1" source="HYbv-strrhbvfqFwZMTQ-13" target="HYbv-strrhbvfqFwZMTQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-26" value="②、获取已添加的卡片列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="HYbv-strrhbvfqFwZMTQ-25">
+          <mxGeometry x="0.3112" y="1" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HYbv-strrhbvfqFwZMTQ-13" value="服务卡片模块" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=solid;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="1009" y="3829" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.486;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;curved=1;" edge="1" parent="1" source="HYbv-strrhbvfqFwZMTQ-8" target="HYbv-strrhbvfqFwZMTQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-18" value="①、启动Activity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="HYbv-strrhbvfqFwZMTQ-17">
+          <mxGeometry x="-0.109" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.112;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=block;startFill=1;" edge="1" parent="1" source="HYbv-strrhbvfqFwZMTQ-3" target="HYbv-strrhbvfqFwZMTQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYbv-strrhbvfqFwZMTQ-24" value="②、获取已添加的应用列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="HYbv-strrhbvfqFwZMTQ-23">
+          <mxGeometry x="0.3352" y="1" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
