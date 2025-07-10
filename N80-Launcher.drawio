@@ -1172,16 +1172,16 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-13" value="导航SDK" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="437.89" y="7542" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-15" value="车控车设SDK" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-15" value="车机管家应用" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="695.24" y="7546" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-16" value="备忘录数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-16" value="备忘录应用" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="436.53999999999996" y="7600" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-17" value="三方接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="600.89" y="7502" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-18" value="天气数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-18" value="天气应用" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="564.89" y="7600" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-19" value="WallpaperService" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
@@ -1202,7 +1202,7 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-26" value="WallpaperDataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="318" y="7340" width="136.46" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-27" value="性能&amp;amp;存储数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-27" value="车控车设SDK" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="566.94" y="7544" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-32" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="1">
@@ -1420,6 +1420,12 @@
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-144" value="动态壁纸" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="990.01" y="6481.17" width="188.27" height="39.31" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-152" value="行车报告" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="697" y="7598" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-153" value="图库应用" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcc99;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="437.89" y="7658" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
