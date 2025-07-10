@@ -1403,6 +1403,60 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-129" value="导航应用" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
           <mxGeometry x="727.0337389380531" y="6689.714884696017" width="72.48561946902655" height="31.932914046121596" as="geometry" />
         </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-134" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="6326.71" width="256.99446902654864" height="444.24318658280924" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-135" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;fillStyle=zigzag;" vertex="1" parent="1">
+          <mxGeometry x="1049.7688053097345" y="6372.730964360587" width="215.5741150442478" height="373.8029350104822" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-136" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1063.8893805309735" y="6411.238301886792" width="188.27433628318585" height="123.97484276729561" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-137" value="BaicWallpaperService" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1130.7267699115046" y="6334.223626834381" width="56.48230088495575" height="28.176100628930822" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-138" value="SurfaceView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1130.7267699115046" y="6373.670167714885" width="56.48230088495575" height="28.176100628930822" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-139" value="应用与服务" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1075.1858407079646" y="6446.928029350105" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-140" value="多媒体卡片" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1162.733407079646" y="6446.928029350105" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-141" value="极狐智驾" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1078.0099557522124" y="6491.0705870020965" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-142" value="车辆设置" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1165.5575221238937" y="6492.948993710692" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-143" value="静态壁纸" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1130.7267699115046" y="6414.055911949686" width="56.48230088495575" height="28.176100628930822" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-144" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="1063.4186946902655" y="6558.693228511531" width="188.27433628318585" height="166.23899371069186" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-145" value="天气卡片" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1074.7151548672568" y="6594.382955974843" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-146" value="导航卡片" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1162.2627212389382" y="6594.382955974843" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-147" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1077.5392699115046" y="6638.525513626834" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-148" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1165.086836283186" y="6640.40392033543" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-149" value="动态壁纸" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1130.2560840707965" y="6561.510838574423" width="56.48230088495575" height="28.176100628930822" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-150" value="天气应用" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1078.4806415929204" y="6682.668071278826" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-151" value="导航应用" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1166.0282079646017" y="6684.546477987422" width="72.48561946902655" height="31.932914046121596" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
