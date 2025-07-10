@@ -1226,7 +1226,7 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-28" value="导航适配层" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="gDaGeblvj7-lpc7J-YAe-35">
           <mxGeometry y="2" width="102.23" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-29" value="多媒体适配层" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="gDaGeblvj7-lpc7J-YAe-35">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-29" value="..." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="gDaGeblvj7-lpc7J-YAe-35">
           <mxGeometry x="119.23000000000002" width="102.23" height="33" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-38" value="Dock管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
