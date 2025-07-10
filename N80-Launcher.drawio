@@ -1322,6 +1322,9 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-76" value="WindowManager" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="258" y="7656" width="120" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-77" value="CardViewModel" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="316.3" y="6745" width="212.5" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
