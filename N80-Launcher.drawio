@@ -1250,9 +1250,6 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-96" value="应用管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="208.32999999999998" y="7288" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-130" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3" y="6330" width="851" height="448" as="geometry" />
-        </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-132" value="用户交互层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="393" y="6288" width="68" height="30" as="geometry" />
         </mxCell>
