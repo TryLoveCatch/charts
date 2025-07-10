@@ -1241,7 +1241,7 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-93" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#ffe6cc;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="165" y="7290" width="139" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-94" value="DockDataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-94" value="AppDataSource" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="176.5" y="7318" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-95" value="IAppProcessor" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#fff2cc;fillStyle=auto;" vertex="1" parent="1">
