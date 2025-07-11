@@ -1992,7 +1992,7 @@
           <mxGeometry x="228.62336283185857" y="8161.406708595387" width="56.48230088495575" height="28.176100628930822" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-383" value="CardViewModel" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;" vertex="1" parent="1">
-          <mxGeometry x="126" y="8424.39" width="252" height="48.84" as="geometry" />
+          <mxGeometry x="126" y="8420.39" width="252" height="48.84" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-384" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="152.37" y="8189.58" width="198.63" height="176.42" as="geometry" />
