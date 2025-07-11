@@ -2142,7 +2142,7 @@
           <mxGeometry x="304.81" y="8588.35" width="253.19" height="140.65" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-401" value="显示全屏半透明遮罩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="372.4800000000001" y="8639.75" width="130" height="30" as="geometry" />
+          <mxGeometry x="362.4800000000001" y="8639.75" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-434" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
           <mxGeometry x="400.99" y="9027" width="110.5" height="42" as="geometry" />
