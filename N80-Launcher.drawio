@@ -2112,7 +2112,7 @@
           <mxGeometry x="-25.187353204404843" y="8566.91500065319" width="55.383380676290905" height="26.085885448742996" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-433" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-113.73" y="8602.96" width="240.73" height="125.01" as="geometry" />
+          <mxGeometry x="-108.73" y="8602.96" width="240.73" height="125.01" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-394" value="常驻" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;" vertex="1" parent="gDaGeblvj7-lpc7J-YAe-433">
           <mxGeometry y="42.614310153299364" width="114.90120817381798" height="37.031770717617576" as="geometry" />
