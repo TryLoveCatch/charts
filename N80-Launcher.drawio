@@ -1968,7 +1968,7 @@
           <mxGeometry x="-143" y="8420.63" width="243" height="48.84" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-375" value="LauncherActivity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="46.82800884955749" y="8082.513626834381" width="56.48230088495575" height="28.176100628930822" as="geometry" />
+          <mxGeometry x="93.9980088495575" y="8084.453626834381" width="56.48230088495575" height="28.176100628930822" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-376" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="-115.91999999999996" y="8189.58" width="198.63" height="177.42" as="geometry" />
@@ -2088,7 +2088,7 @@
           <mxGeometry x="440" y="8075" width="191" height="417" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-427" value="EditModeActivity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="488.5" y="8089" width="60" height="30" as="geometry" />
+          <mxGeometry x="515.37" y="8084.45" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-428" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
           <mxGeometry x="2289" y="6988" width="110.5" height="42" as="geometry" />
