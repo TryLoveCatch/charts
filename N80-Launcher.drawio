@@ -1965,7 +1965,7 @@
           <mxGeometry x="-73.66756637168133" y="8161.406708595387" width="56.48230088495575" height="28.176100628930822" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-374" value="AppCenterViewModel" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;" vertex="1" parent="1">
-          <mxGeometry x="-169.37199115044234" y="8420.628071278827" width="226.87057522123897" height="48.83857442348009" as="geometry" />
+          <mxGeometry x="-177" y="8420.63" width="243" height="48.84" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-375" value="LauncherActivity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="46.82800884955749" y="8082.513626834381" width="56.48230088495575" height="28.176100628930822" as="geometry" />
@@ -1992,7 +1992,7 @@
           <mxGeometry x="194.62336283185857" y="8161.406708595387" width="56.48230088495575" height="28.176100628930822" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-383" value="CardViewModel" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;" vertex="1" parent="1">
-          <mxGeometry x="96.4579646017702" y="8424.388071278825" width="235.3429203539823" height="48.83857442348009" as="geometry" />
+          <mxGeometry x="92" y="8424.39" width="252" height="48.84" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-384" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="118.37000000000002" y="8189.58" width="198.63" height="176.42" as="geometry" />
