@@ -2100,19 +2100,19 @@
           <mxGeometry x="181" y="8518" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-368" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-151.75" y="8543" width="307.75" height="209" as="geometry" />
+          <mxGeometry x="-139.75" y="8543" width="307.75" height="209" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-369" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f8cecc;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="-132.37" y="8568.61" width="263.37" height="172.29" as="geometry" />
+          <mxGeometry x="-120.37" y="8568.61" width="263.37" height="172.29" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-388" value="SmartDockWindow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-26.38735320440484" y="8542.52476102495" width="55.383380676290905" height="26.085885448742996" as="geometry" />
+          <mxGeometry x="-14.387353204404839" y="8542.52476102495" width="55.383380676290905" height="26.085885448742996" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-389" value="RecyclerView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-37.18735320440484" y="8566.91500065319" width="55.383380676290905" height="26.085885448742996" as="geometry" />
+          <mxGeometry x="-25.187353204404843" y="8566.91500065319" width="55.383380676290905" height="26.085885448742996" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-433" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-125.73" y="8602.96" width="240.73" height="125.01" as="geometry" />
+          <mxGeometry x="-113.73" y="8602.96" width="240.73" height="125.01" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-394" value="常驻" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;" vertex="1" parent="gDaGeblvj7-lpc7J-YAe-433">
           <mxGeometry y="42.614310153299364" width="114.90120817381798" height="37.031770717617576" as="geometry" />
