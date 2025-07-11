@@ -1775,12 +1775,6 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-305" value="CardView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
           <mxGeometry x="692.24" y="8733.5" width="110.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-306" value="IconView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="571" y="8789" width="110.5" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-307" value="IconView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="692.6500000000001" y="8789" width="110.5" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-308" value="MainActivity&lt;br&gt;Launcher入口" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1" y="8021" width="801" height="71" as="geometry" />
         </mxCell>
