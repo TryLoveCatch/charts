@@ -2159,9 +2159,6 @@
         <mxCell id="sNo96TdXpIRULIoZ6H5A-27" value="AppCenterViewModel" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;" vertex="1" parent="1">
           <mxGeometry x="262.9131175468484" y="8416.63" width="163.93185689948893" height="48.84" as="geometry" />
         </mxCell>
-        <mxCell id="sNo96TdXpIRULIoZ6H5A-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sNo96TdXpIRULIoZ6H5A-28" target="sNo96TdXpIRULIoZ6H5A-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sNo96TdXpIRULIoZ6H5A-28" value="EditModeActivity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="422.7959310126487" y="8080.453626834381" width="38.10390315237219" height="28.176100628930822" as="geometry" />
         </mxCell>
@@ -2170,9 +2167,6 @@
         </mxCell>
         <mxCell id="sNo96TdXpIRULIoZ6H5A-30" value="RecyclerView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="332.6229024136528" y="8194.035639412998" width="38.10390315237219" height="28.176100628930822" as="geometry" />
-        </mxCell>
-        <mxCell id="sNo96TdXpIRULIoZ6H5A-31" value="ViewPager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="413.91122913871345" y="8117.020964360587" width="38.10390315237219" height="28.176100628930822" as="geometry" />
         </mxCell>
         <mxCell id="sNo96TdXpIRULIoZ6H5A-33" value="全部应用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="296.42" y="8238" width="103.52" height="102.55" as="geometry" />
@@ -2194,6 +2188,9 @@
         </mxCell>
         <mxCell id="sNo96TdXpIRULIoZ6H5A-40" value="全部卡片" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="481.09" y="8239" width="103.52" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="sNo96TdXpIRULIoZ6H5A-42" value="ViewPager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="418.9" y="8117" width="38.10390315237219" height="28.176100628930822" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
