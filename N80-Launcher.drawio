@@ -1706,29 +1706,26 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-269" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#cce5ff;fillStyle=zigzag;" vertex="1" parent="1">
           <mxGeometry x="582.29" y="8418.9" width="215.57" height="103.1" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-271" value="显示半透明遮罩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="647.07" y="8461" width="93.97" height="30" as="geometry" />
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-271" value="显示全屏半透明遮罩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="633" y="8461" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-278" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-9.5" y="8688" width="543.5" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-280" value="AppView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="11.7" y="8733.5" width="110.5" height="42" as="geometry" />
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-280" value="SmartDockRecyclerView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="11.7" y="8733.5" width="141.3" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-281" value="CardView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="138.99999999999994" y="8733.5" width="110.5" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-286" value="公共组件库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-286" value="自定义控件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="232" y="8692" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-292" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="560" y="8688" width="249" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-293" value="自定义组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-293" value="公共控件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="652.5" y="8692" width="64" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-294" value="AppItemView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="265.5" y="8733.5" width="110.5" height="42" as="geometry" />
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-294" value="FullScreenMaskView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="8734" width="123" height="42" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-295" value="展示态" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
           <mxGeometry x="593.51" y="8205.01" width="96" height="40" as="geometry" />
@@ -1760,25 +1757,22 @@
         <mxCell id="gDaGeblvj7-lpc7J-YAe-297" value="长按编辑" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="gDaGeblvj7-lpc7J-YAe-298">
           <mxGeometry x="671.59" y="2.5" width="112.40368050117463" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-299" value="CardItemView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="8733.5" width="110.5" height="42" as="geometry" />
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-299" value="SmartDockView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="304.01" y="8733.5" width="98.99" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-300" value="BaseMeidaView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="9.5" y="8791" width="110.5" height="42" as="geometry" />
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-300" value="HorizontalCenterLinearLayoutManager" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="9.5" y="8791" width="219.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-301" value="BaseWeatchView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="136.79999999999995" y="8791" width="110.5" height="42" as="geometry" />
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-301" value="SmartDockToobar" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="419.5" y="8734" width="102.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-302" value="BaseNaviView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="263.29999999999995" y="8791" width="110.5" height="42" as="geometry" />
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-302" value="BaseMediaView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="243.14999999999995" y="8791" width="110.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-303" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="390.29999999999995" y="8791" width="110.5" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-304" value="FullScreenMaskView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-304" value="AppView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
           <mxGeometry x="570.5899999999999" y="8733.5" width="110.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gDaGeblvj7-lpc7J-YAe-305" value="IconView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-305" value="CardView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
           <mxGeometry x="692.24" y="8733.5" width="110.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-306" value="IconView" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
@@ -1792,6 +1786,12 @@
         </mxCell>
         <mxCell id="gDaGeblvj7-lpc7J-YAe-309" value="EditModeAcitivty" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="980" y="8141" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-311" value="FullScreenMaskView&lt;div&gt;SmartDockRecyclerView&lt;/div&gt;&lt;div&gt;SmartDockView&lt;/div&gt;&lt;div&gt;AppView&lt;/div&gt;&lt;div&gt;CardView&lt;/div&gt;&lt;div&gt;SmartDockToobar&lt;/div&gt;&lt;div&gt;HorizontalCenterLinearLayoutManager&lt;/div&gt;&lt;div&gt;SmartDockItemView&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="8593" width="246" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="gDaGeblvj7-lpc7J-YAe-312" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=12;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="372" y="8791" width="110.5" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
