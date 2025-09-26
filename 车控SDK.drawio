@@ -88,11 +88,14 @@
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-33" value="控制接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="268" y="822" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UA2w6ISKNz6lKtn4OIPo-35" value="例如ControllableSignal，就是组合了VehicleSignal和Controllable" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-35" value="例如ControllableSignal，就是组合了VehicleSignal和Controllable的基类" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="102" y="712" width="161" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UA2w6ISKNz6lKtn4OIPo-36" value="例如QueryableSignal，就是组合了VehicleSignal和Queryable" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#d5e8d4;flipV=1;" vertex="1" parent="1">
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-36" value="例如QueryableSignal，就是组合了VehicleSignal和Queryable的基类" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#d5e8d4;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1004" width="161" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-37" value="而QueryControlSignal则是组合了这三个接口的基类" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#f8cecc;flipH=0;flipV=0;direction=south;position2=0.64;" vertex="1" parent="1">
+          <mxGeometry x="334" y="845" width="166" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
