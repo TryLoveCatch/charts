@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-38" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="718" width="647" height="437" as="geometry" />
+        </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;shadow=1;" edge="1" parent="1" source="UA2w6ISKNz6lKtn4OIPo-1" target="UA2w6ISKNz6lKtn4OIPo-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -71,31 +74,31 @@
           <mxGeometry x="145" y="598" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-26" value="VehicleSignal" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="866" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="912" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-27" value="Controllable" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="113" y="807" width="120" height="60" as="geometry" />
+          <mxGeometry x="113" y="853" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-29" value="Queryable" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="907" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="953" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-31" value="1、这几个都是接口，一般来说都是组合使用的，但是都必须包含VehicleSignal&lt;div&gt;2、&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;VehicleSignal是一个空接口，车辆信号的基础接口&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="721" width="166" height="124" as="geometry" />
+          <mxGeometry x="-110" y="767" width="166" height="124" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-32" value="查询接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="263" y="923" width="60" height="30" as="geometry" />
+          <mxGeometry x="263" y="969" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-33" value="控制接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="268" y="822" width="60" height="30" as="geometry" />
+          <mxGeometry x="268" y="868" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-35" value="例如ControllableSignal，就是组合了VehicleSignal和Controllable的基类" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="102" y="712" width="161" height="80" as="geometry" />
+          <mxGeometry x="102" y="758" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-36" value="例如QueryableSignal，就是组合了VehicleSignal和Queryable的基类" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#d5e8d4;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1004" width="161" height="80" as="geometry" />
+          <mxGeometry x="100" y="1050" width="161" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-37" value="而QueryControlSignal则是组合了这三个接口的基类" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#f8cecc;flipH=0;flipV=0;direction=south;position2=0.64;" vertex="1" parent="1">
-          <mxGeometry x="334" y="845" width="166" height="80" as="geometry" />
+          <mxGeometry x="334" y="891" width="166" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
