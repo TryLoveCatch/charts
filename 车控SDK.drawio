@@ -70,6 +70,21 @@
         <mxCell id="UA2w6ISKNz6lKtn4OIPo-22" value="VehicleSignal" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="145" y="598" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-26" value="VehicleSignal" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="866" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-27" value="Controllable" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="148" y="716" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-28" value="Invokable" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="148" y="814" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-29" value="Queryable" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="152" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UA2w6ISKNz6lKtn4OIPo-30" value="EnableAware" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1006" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
