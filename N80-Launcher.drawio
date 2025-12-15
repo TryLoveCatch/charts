@@ -2210,7 +2210,7 @@
         <mxCell id="_PFoJVhgEQpwtTPQg9O0-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;处理后的数据&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="465" y="10338" as="geometry" />
         </mxCell>
-        <mxCell id="_PFoJVhgEQpwtTPQg9O0-20" connectable="0" parent="1" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+        <mxCell id="_PFoJVhgEQpwtTPQg9O0-20" connectable="0" parent="1" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" value="" vertex="1">
           <mxGeometry height="356" width="173" x="-386" y="10177" as="geometry" />
         </mxCell>
         <mxCell id="_PFoJVhgEQpwtTPQg9O0-18" parent="_PFoJVhgEQpwtTPQg9O0-20" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;fillColor=#dae8fc;" value="" vertex="1">
