@@ -2207,7 +2207,7 @@
         <mxCell id="_PFoJVhgEQpwtTPQg9O0-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;自身处理器&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="190.53" y="10428" as="geometry" />
         </mxCell>
-        <mxCell id="_PFoJVhgEQpwtTPQg9O0-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;处理后的数据&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="_PFoJVhgEQpwtTPQg9O0-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;中间数据&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="465" y="10338" as="geometry" />
         </mxCell>
         <mxCell id="_PFoJVhgEQpwtTPQg9O0-20" connectable="0" parent="1" style="group;fillStyle=solid;fillColor=none;" value="" vertex="1">
@@ -2284,6 +2284,12 @@
             <mxPoint x="1176" y="10367.41" as="sourcePoint" />
             <mxPoint x="1279.8235294117646" y="10367.880588235294" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_PFoJVhgEQpwtTPQg9O0-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;应用列表获取旧方案：&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="213" x="-391.87" y="10100" as="geometry" />
+        </mxCell>
+        <mxCell id="_PFoJVhgEQpwtTPQg9O0-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;应用列表获取新方案：&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="213" x="-383.37" y="10589" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
